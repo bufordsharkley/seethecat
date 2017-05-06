@@ -1,0 +1,29 @@
+title: The Henry George Program
+description: ""
+website: http://seethecat.org
+host: Mark Mollineaux
+long description: ""
+logo: http://seethecat.org/static/logo_square.png
+itunes category: ""
+itunes explicit: clean
+episodes:
+   - title: "Urban conomics of the Asian Tigers"
+     description:
+     datetime: '2017-04-11T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-04-11.mp3
+     audio size: 96351459
+   - title: "Zoltan Istvan: Funding a UBI"
+     description:
+     datetime: '2017-04-18T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-04-18.mp3
+     audio size: 96351459
+   - title: "Introduction to Georgism with Kedar"
+     description:
+     datetime: '2017-04-25T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-04-25.mp3
+     audio size: 96351459
+   - title: "James Hughes: Technoprogressivism"
+     description:
+     datetime: '2017-05-02T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-05-02.mp3
+     audio size: 96351459

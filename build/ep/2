@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/plain" rel="author" href="/humans.txt" />
+    <link rel="shortcut icon" href="/static/favicon.ico">
+    
+  
+    <link rel="stylesheet" type="text/css" href="/static/reset.css">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <link rel="alternate" type="application/rss+xml" title="Earful of Convoy RSS" href="/feed/" />
+    <title>Earful of Convoy Podcast</title>
+    <meta name="description" content="Earful of Convoy is Northern California's #1 podcast about the 1978 movie based upon the 1976 novelty song about trucking. (Convoy is a film by Sam Peckinpah; the song is by C.W. McCall. Podcasts are audio files you can listen to on your podcast devices.)">
+    
+  <link href="/static/jplayer/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="/static/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/jplayer/jquery.jplayer.min.js"></script>
+  <script type="text/javascript" src="/static/jplayer/jplayer.playlist.min.js"></script>
+  <script type="text/javascript">
+  //<![CDATA[
+  $(document).ready(function(){
+
+    new jPlayerPlaylist({
+      jPlayer: "#jquery_jplayer_1",
+      cssSelectorAncestor: "#jp_container_1"
+      }, [
+        {
+          title:"Earful of Convoy: Episode 2 (0:05:00 - 0:10:00)",
+          free:true,
+          mp3:"http://media.earfulofconvoy.com/earful/earful_of_convoy_ep_2.mp3",
+        },
+      ], {
+        swfPath: "../../dist/jplayer",
+        supplied: "oga, mp3",
+        wmode: "window",
+        playlistOptions: {autoPlay: true,},
+        useStateClassSkin: true,
+        autoBlur: false,
+        smoothPlayBar: true,
+        keyEnabled: true
+      });
+  });
+  //]]>
+  </script>
+
+  </head>
+  <body>
+    <nav>
+      <div class="banner">
+        <a href="/">
+          <img src="/static/convoy.png" alt="An Earful of Convoy"/>
+        </a>
+      </div>
+    </nav>
+
+    <div class="content">
+      
+<div class="mainpage">
+  <div class="blurb">
+    Northern California's #1 podcast about the 1978 movie based upon the 1976 novelty song about trucking.
+  </div>
+  <div class="subscribe">
+    <h3>SUBSCRIBE TO THE SHOW</h3>
+    <a href="/feed/"><img src="/static/rss.png" />RSS feed</a><br />
+    <a href="https://itunes.apple.com/us/podcast/an-earful-of-convoy/id1073039668"><img src="/static/itunes.png" />Subscribe on iTunes</a>
+  </div>
+  <div class="player">
+    <h3>Earful of Convoy: Episode 2 (0:05:00 - 0:10:00)</h3>
+    <h3>Recorded on 2015-07-18 at 8:00 PM</h3>
+    <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+    <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+      <div class="jp-type-playlist">
+        <div class="jp-gui jp-interface">
+          <div class="jp-controls">
+            <button class="jp-previous" role="button" tabindex="0">previous</button>
+            <button class="jp-play" role="button" tabindex="0">play</button>
+            <button class="jp-next" role="button" tabindex="0">next</button>
+            <button class="jp-stop" role="button" tabindex="0">stop</button>
+          </div>
+          <div class="jp-progress">
+            <div class="jp-seek-bar">
+              <div class="jp-play-bar"></div>
+            </div>
+          </div>
+          <div class="jp-volume-controls">
+            <button class="jp-mute" role="button" tabindex="0">mute</button>
+            <button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+            <div class="jp-volume-bar">
+              <div class="jp-volume-bar-value"></div>
+            </div>
+          </div>
+          <div class="jp-time-holder">
+            <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+            <div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+          </div>
+          <div class="jp-toggles">
+            <button class="jp-repeat" role="button" tabindex="0">repeat</button>
+            <button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+          </div>
+        </div>
+        <div class="jp-playlist">
+          <ul>
+            <li>&nbsp;</li>
+          </ul>
+        </div>
+        <div class="jp-no-solution">
+          <span>Update Required</span>
+          To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+        </div>
+      </div>
+    </div>
+  </div>
+  <marquee>We do our first live show, and what else is there to discuss than the second five minutes! Rubber Duck gets himself in a bit of a jam, and there may be a Cottonmouth to blame (!) Alan and Hervey check in with the goof squad and give practical advice on dealing with rattlesnakes.</marquee>
+  <div class="eppagedescription">
+    <p>We do our first live show, and what else is there to discuss than the second five minutes! Rubber Duck gets himself in a bit of a jam, and there may be a Cottonmouth to blame (!) Alan and Hervey check in with the goof squad and give practical advice on dealing with rattlesnakes.</p>
+    <p><br/></p>
+
+    <p>Audio size is 58752614 bytes.</p>
+  </div>
+</div>
+
+    </div>
+    
+    <footer>
+      &copy; 2016 <a href="http://thisisalan.com/">Alan Joyce</a> &amp; <a href="http://www.markmollineaux.com/">Mark Mollineaux</a><br/>
+    </footer>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-40447990-7', 'auto');
+    ga('send', 'pageview');
+
+    </script>
+    
+  </body>
+</html>

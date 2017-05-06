@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/plain" rel="author" href="/humans.txt" />
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    {% block head %}
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='reset.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="alternate" type="application/rss+xml" title="The Henry George Program RSS" href="/feed/" />
+    <title>The Henry George Program</title>
+    <meta name="description" content="TODO">
+    {% endblock %}
+  </head>
+  <body>
+    <nav>
+      <div class="banner">
+        <a href="{{url_for('index')}}">
+          <img src="{{ url_for('static', filename = 'banner.png')}}" alt="The Henry George Program"/>
+        </a>
+      </div>
+    </nav>
+    <div class="blurb">
+      TODO: a description
+    </div>
+    <div class="subscribe">
+      <h3>SUBSCRIBE TO THE SHOW</h3>
+      <a href="/feed/"><img src="{{ url_for('static', filename = 'rss.png')}}" />RSS feed</a><br />
+      <!--
+      <a href="https://itunes.apple.com/us/podcast/an-earful-of-convoy/id1073039668"><img src="{{ url_for('static', filename = 'itunes.png')}}" />Subscribe on iTunes</a>
+      -->
+    </div>
+
+    <div class="content">
+      {% block content %}{% endblock %}
+    </div>
+    {% block footer %}
+    <footer>
+      &copy; 2017 <a href="http://www.markmollineaux.com/">Mark Mollineaux</a>
+      in conjunction with <a href="http://earthsharing.org/">earthsharing.org</a>
+    </footer>
+    {% endblock %}
+  </body>
+</html>
