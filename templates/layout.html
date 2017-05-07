@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link type="text/plain" rel="author" href="/humans.txt" />
+    <link type="text/plain" rel="author" href={{url_for('static', filename='humans.txt')}}" />
     <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     {% block head %}
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='reset.css') }}">
@@ -39,7 +39,7 @@
     {% endif %}
     <div class="subscribe">
       <h3>SUBSCRIBE TO THE SHOW</h3>
-      <a href="/feed/"><img src="{{ url_for('static', filename = 'rss.png')}}" />RSS feed</a><br />
+      <a href="{{url_for('podcast_feed')}}"><img src="{{ url_for('static', filename = 'rss.png')}}" />RSS feed</a><br />
       <!--
       <a href="https://itunes.apple.com/us/podcast/an-earful-of-convoy/id1073039668"><img src="{{ url_for('static', filename = 'itunes.png')}}" />Subscribe on iTunes</a>
       -->
