@@ -87,9 +87,9 @@ APP_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(APP_DIR))
 # In order to deploy to Github pages, you must build the static files to
 # the project root
-FREEZER_DESTINATION = PROJECT_ROOT
-FREEZER_BASE_URL = "http://localhost/{0}".format(REPO_NAME)
-FREEZER_REMOVE_EXTRA_FILES = False  # IMPORTANT: If this is True, all app files
+app.config['FREEZER_DESTINATION'] = PROJECT_ROOT
+app.config['FREEZER_BASE_URL'] = "http://localhost/{0}".format(REPO_NAME)
+app.config['FREEZER_REMOVE_EXTRA_FILES'] = False  # IMPORTANT: If this is True, all app files
                                     # will be deleted when you run the freezer
 
 if __name__ == '__main__':
