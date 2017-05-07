@@ -33,7 +33,7 @@ def episodes():
     return flask.render_template('episodes.html', episodes=get_eps(),
             hideblurb=True)
 
-@app.route('/ep/<date>')
+@app.route('/ep/<date>.html')
 def episode(date):
     eps = get_eps()
     return flask.render_template('episode.html', episode=eps[date])
