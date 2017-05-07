@@ -1,5 +1,6 @@
 import copy
 import datetime
+import os
 import re
 import yaml
 
@@ -15,10 +16,9 @@ def get_eps():
     for ep in eps:
         ep['datetime'] = datetime.datetime.strptime(
             ep['datetime'], "%Y-%m-%dT%H:%M:%S" )
-    eps = {str(x): x for x in eps}
-    #eps = {x['url'].split('_ep_')[1].split('.mp3')[0]: x for x in eps}
-    #for k, v in eps.items():
-    #    v['key'] = k
+    eps = {x['url'].split('hgp/hgp-')[1].split('.mp3')[0]: x for x in eps}
+    for k, v in eps.items():
+        v['key'] = k
     return eps
 
 
@@ -30,12 +30,13 @@ def index():
 
 @app.route('/eps/')
 def episodes():
-    return flask.render_template('episodes.html', episodes=get_eps())
+    return flask.render_template('episodes.html', episodes=get_eps(),
+            hideblurb=True)
 
-@app.route('/ep/<num>')
-def episode(num):
+@app.route('/ep/<date>')
+def episode(date):
     eps = get_eps()
-    return flask.render_template('episode.html', episode=eps[num])
+    return flask.render_template('episode.html', episode=eps[date])
 
 
 @app.route('/feed/')
@@ -81,7 +82,9 @@ def page_not_found(e):
     return flask.render_template('404.html'), 404
 
 # Some notes from http://stevenloria.com/hosting-static-flask-sites-for-free-on-github-pages/
-PROJECT_ROOT = parent_dir(APP_DIR)
+REPO_NAME = "henrygeorge"
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.join(APP_DIR))
 # In order to deploy to Github pages, you must build the static files to
 # the project root
 FREEZER_DESTINATION = PROJECT_ROOT

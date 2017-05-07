@@ -34,17 +34,9 @@
 {% endblock %}
 {% block content %}
 <div class="mainpage">
-  <div class="blurb">
-    Northern California's #1 podcast about the 1978 movie based upon the 1976 novelty song about trucking.
-  </div>
-  <div class="subscribe">
-    <h3>SUBSCRIBE TO THE SHOW</h3>
-    <a href="/feed/"><img src="{{ url_for('static', filename = 'rss.png')}}" />RSS feed</a><br />
-    <a href="https://itunes.apple.com/us/podcast/an-earful-of-convoy/id1073039668"><img src="{{ url_for('static', filename = 'itunes.png')}}" />Subscribe on iTunes</a>
-  </div>
   <div class="player">
     <h3>{{ episode.title }}</h3>
-    <h3>Recorded on {{ episode.datetime.strftime('%Y-%m-%d') }} at {{episode.datetime.strftime('%-I:%M %p')}}</h3>
+    <h3>{{ episode.datetime.strftime('%Y-%m-%d') }}</h3>
     <div id="jquery_jplayer_1" class="jp-jplayer"></div>
     <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
       <div class="jp-type-playlist">
@@ -88,12 +80,9 @@
       </div>
     </div>
   </div>
-  <marquee>{{episode.description}}</marquee>
   <div class="eppagedescription">
     <p>{{episode.description}}</p>
     <p><br/></p>
-
-    <p>Audio size is {{episode['audio size'] }} bytes.</p>
   </div>
 </div>
 {% endblock %}
