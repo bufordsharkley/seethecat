@@ -39,7 +39,7 @@ def episode(date):
     return flask.render_template('episode.html', episode=eps[date])
 
 
-@app.route('/feed/')
+@app.route('/feed.xml')
 def podcast_feed():
     def extract_copyright_years(podcast):
         years = [(x['datetime']).year for x in podcast['episodes']]
