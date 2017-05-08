@@ -1,4 +1,0 @@
-flask
-frozen-flask
-mock
-pyyaml
