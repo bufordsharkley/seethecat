@@ -13,10 +13,10 @@
     <title>The Henry George Program</title>
     <meta name="description" content="TODO">
     
-  <link href="static/jplayer/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css" />
-  <script type="text/javascript" src="static/jquery.min.js"></script>
-  <script type="text/javascript" src="static/jplayer/jquery.jplayer.min.js"></script>
-  <script type="text/javascript" src="static/jplayer/jplayer.playlist.min.js"></script>
+  <link href="/static/jplayer/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="/static/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/jplayer/jquery.jplayer.min.js"></script>
+  <script type="text/javascript" src="/static/jplayer/jplayer.playlist.min.js"></script>
   <script type="text/javascript">
   //<![CDATA[
   $(document).ready(function(){
@@ -25,42 +25,16 @@
       jPlayer: "#jquery_jplayer_1",
       cssSelectorAncestor: "#jp_container_1"
       }, [
-        
         {
-          title:"2017-05-09 Corey Smith of SFHAC",
+          title:"Corey Smith of SFHAC",
           free:true,
           mp3:"http://media.mgm.ink/hgp/hgp-2017-05-09.mp3",
         },
-        
-        {
-          title:"2017-05-02 James Hughes: Technoprogressivism",
-          free:true,
-          mp3:"http://media.mgm.ink/hgp/hgp-2017-05-02.mp3",
-        },
-        
-        {
-          title:"2017-04-25 Introduction to Georgism with Kedar",
-          free:true,
-          mp3:"http://media.mgm.ink/hgp/hgp-2017-04-25.mp3",
-        },
-        
-        {
-          title:"2017-04-18 Zoltan Istvan: Funding a UBI",
-          free:true,
-          mp3:"http://media.mgm.ink/hgp/hgp-2017-04-18.mp3",
-        },
-        
-        {
-          title:"2017-04-11 Urban economics of the Asian Tigers",
-          free:true,
-          mp3:"http://media.mgm.ink/hgp/hgp-2017-04-11.mp3",
-        },
-        
       ], {
         swfPath: "../../dist/jplayer",
         supplied: "oga, mp3",
         wmode: "window",
-        playlistOptions: {autoPlay: false,},
+        playlistOptions: {autoPlay: true,},
         useStateClassSkin: true,
         autoBlur: false,
         smoothPlayBar: true,
@@ -107,8 +81,8 @@
       
 <div class="mainpage">
   <div class="player">
-    <h3>LISTEN TO THE EPISODES</h3>
-    <h3><a href="/eps/">OR SEE MORE DETAILED DESCRIPTIONS</a></h3>
+    <h3>Corey Smith of SFHAC</h3>
+    <h3>2017-05-09</h3>
     <div id="jquery_jplayer_1" class="jp-jplayer"></div>
     <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
       <div class="jp-type-playlist">
@@ -152,10 +126,9 @@
       </div>
     </div>
   </div>
-  <div class="blurb">
-  <br/>
-  A presentation of <br/>
-  <a href="http://kzsu.stanford.edu" class="token"><img src="/static/kzsu.png"/></a>
+  <div class="eppagedescription">
+    <p>Corey Smith of the San Francisco Housing Action Coalition talks about the policies and the politics to get the housing supply up to 5,000 units a year. All your favorites are here: CEQA and Prop 13. Some talk about the limits of empathy: are our land-use policies making us meaner?</p>
+    <p><br/></p>
   </div>
 </div>
 

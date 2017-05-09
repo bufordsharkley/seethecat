@@ -53,5 +53,14 @@
     <pubDate>Tue, 2 May 2017 10:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-05-02.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Corey Smith of SFHAC</title>
+    <description>Corey Smith of the San Francisco Housing Action Coalition talks about the policies and the politics to get the housing supply up to 5,000 units a year. All your favorites are here: CEQA and Prop 13. Some talk about the limits of empathy: are our land-use policies making us meaner?</description>
+    <itunes:summary>Corey Smith of the San Francisco Housing Action Coalition talks about the policies and the politics to get the housing supply up to 5,000 units a year. All your favorites are here: CEQA and Prop 13. Some talk about the limits of empathy: are our land-use policies making us meaner?</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep5</guid>
+    <pubDate>Tue, 9 May 2017 10:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-05-09.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
