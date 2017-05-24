@@ -32,3 +32,13 @@ episodes:
      datetime: '2017-05-09T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-09.mp3
      audio size: 96351459
+   - title: "Economy of Cities with Kedar"
+     description: "Kedar is back to talk about mobility. We have depressed economies and cities with excess demand. Why?"
+     datetime: '2017-05-16T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-05-16.mp3
+     audio size: 96351459
+   - title: "Rognlie on Piketty, with Nic Tideman"
+     description: "Tomas Piketty showed that accumulation of capital was driving modern inequality. But then a young economics student showed how scarcity of housing explains Piketty's phenomenon, not accumulation. We're joined by Professor Nic Tideman of Virginia Tech, to discuss Matthew Rognlie's influential paper."
+     datetime: '2017-05-23T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-05-23.mp3
+     audio size: 96351459
