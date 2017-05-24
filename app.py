@@ -33,10 +33,17 @@ def episodes():
     return flask.render_template('episodes.html', episodes=get_eps(),
             hideblurb=True)
 
+
 @app.route('/ep/<date>.html')
 def episode(date):
     eps = get_eps()
     return flask.render_template('episode.html', episode=eps[date])
+
+
+@app.route('/playlist.html')
+def playlist():
+    podcast = yaml.load(app.open_resource('static/podcast.yaml'))
+    return flask.render_template('playlist.html', podcast=podcast)
 
 
 @app.route('/feed.xml')
