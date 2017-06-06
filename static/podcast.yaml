@@ -8,37 +8,63 @@ itunes category: "Education"
 itunes explicit: clean
 episodes:
    - title: "Urban economics of the Asian Tigers"
-     description: Mark Mollineaux, Jacob Schwartz-Lucas, and Edward Miller discuss the land-use policies of Hong Kong, Singapore, Taiwan and more. How responsible is municipal ownership to land to the world-class infrastructure and vibrant economies of these cities?
+     description: >
+       Mark Mollineaux, Jacob Schwartz-Lucas, and Edward Miller discuss the
+       land-use policies of Hong Kong, Singapore, Taiwan and more. How
+       responsible is municipal ownership to land to the world-class
+       infrastructure and vibrant economies of these cities?
      datetime: '2017-04-11T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-11.mp3
      audio size: 96351459
    - title: "Zoltan Istvan: Funding a UBI"
-     description: Zoltan Istvan ran for President on the Transhumanist party, and is now running for California Governor as a Libertarian. He proposes a Universal Basic Income, funded by the leasing of federal lands. How does this compare to the Georgist ideal of a citizen's dividend funded by land rents?
+     description: >
+       Zoltan Istvan ran for President on the Transhumanist party, and is now
+       running for California Governor as a Libertarian. He proposes a
+       Universal Basic Income, funded by the leasing of federal lands. How does
+       this compare to the Georgist ideal of a citizen's dividend funded by
+       land rents?
      datetime: '2017-04-18T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-18.mp3
      audio size: 96351459
    - title: "Introduction to Georgism with Kedar"
-     description: Kedar and Mark have a conversation about Georgism, Prop 13, and why this all matters.
+     description: >
+       Kedar and Mark have a conversation about Georgism, Prop 13, and why this
+       all matters.
      datetime: '2017-04-25T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-25.mp3
      audio size: 96351459
    - title: "James Hughes: Technoprogressivism"
-     description: We featured the libertarian transhumanist perspective of Zoltan Istvan a few weeks ago. Today, James Hughes, who couples a concern for transhumanism with a progressive attitude and a focus on economic justice.
+     description: >
+       We featured the libertarian transhumanist perspective of Zoltan Istvan a
+       few weeks ago. Today, James Hughes, who couples a concern for
+       transhumanism with a progressive attitude and a focus on economic
+       justice.
      datetime: '2017-05-02T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-02.mp3
      audio size: 96351459
    - title: "Corey Smith of SFHAC"
-     description: "Corey Smith of the San Francisco Housing Action Coalition talks about the policies and the politics to get the housing supply up to 5,000 units a year. All your favorites are here: CEQA and Prop 13. Some talk about the limits of empathy: are our land-use policies making us meaner?"
+     description: >
+       Corey Smith of the San Francisco Housing Action Coalition talks about
+       the policies and the politics to get the housing supply up to 5,000
+       units a year. All your favorites are here: CEQA and Prop 13. Some talk
+       about the limits of empathy: are our land-use policies making us meaner?
      datetime: '2017-05-09T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-09.mp3
      audio size: 96351459
    - title: "Economy of Cities with Kedar"
-     description: "Kedar is back to talk about mobility. We have depressed economies and cities with excess demand. Why?"
+     description: >
+       Kedar is back to talk about mobility. We have depressed economies and
+       cities with excess demand. Why?
      datetime: '2017-05-16T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-16.mp3
      audio size: 96351459
    - title: "Rognlie on Piketty, with Nic Tideman"
-     description: "Tomas Piketty showed that accumulation of capital was driving modern inequality. But then a young economics student showed how scarcity of housing explains Piketty's phenomenon, not accumulation. We're joined by Professor Nic Tideman of Virginia Tech, to discuss Matthew Rognlie's influential paper."
+     description: >
+       Tomas Piketty showed that accumulation of capital was driving modern
+       inequality. But then a young economics student showed how scarcity of
+       housing explains Piketty's phenomenon, not accumulation. We're joined by
+       Professor Nic Tideman of Virginia Tech, to discuss Matthew Rognlie's
+       influential paper.
      datetime: '2017-05-23T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-23.mp3
      audio size: 96351459
@@ -51,4 +77,13 @@ episodes:
        history of Berkeley's leadership.
      datetime: '2017-05-30T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-30.mp3
+     audio size: 96351459
+   - title: "James Howard Kunstler vs Sprawl"
+     description: >
+       We talk to James Howard Kunstler, who has long been a voice railing
+       against the ugliness of modern sprawl and the psychic torment things
+       brings on ourselves. How does a land tax offer a possible answer to this
+       tragedy?
+     datetime: '2017-06-06T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-06-06.mp3
      audio size: 96351459
