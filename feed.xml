@@ -63,9 +63,9 @@
 </item>
 <item>
     <title>Corey Smith of SFHAC</title>
-    <description>Corey Smith of the San Francisco Housing Action Coalition talks about the policies and the politics to get the housing supply up to 5,000 units a year. All your favorites are here: CEQA and Prop 13. Some talk about the limits of empathy: are our land-use policies making us meaner?&#34;
+    <description>Corey Smith of the San Francisco Housing Action Coalition talks about the policies and the politics to get the housing supply up to 5,000 units a year. All your favorites are here: CEQA and Prop 13. Some talk about the limits of empathy: are our land-use policies making us meaner?
 </description>
-    <itunes:summary>Corey Smith of the San Francisco Housing Action Coalition talks about the policies and the politics to get the housing supply up to 5,000 units a year. All your favorites are here: CEQA and Prop 13. Some talk about the limits of empathy: are our land-use policies making us meaner?&#34;
+    <itunes:summary>Corey Smith of the San Francisco Housing Action Coalition talks about the policies and the politics to get the housing supply up to 5,000 units a year. All your favorites are here: CEQA and Prop 13. Some talk about the limits of empathy: are our land-use policies making us meaner?
 </itunes:summary>
     <link>http://seethecat.org</link>
     <guid isPermaLink="false">ep5</guid>
@@ -115,6 +115,17 @@
     <guid isPermaLink="false">ep9</guid>
     <pubDate>Tue, 6 Jun 2017 10:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-06-06.mp3" length="96351459" type="audio/mpeg" />
+</item>
+<item>
+    <title>Jeff Andrade-Fong and Josh Vincent on Influencing Housing Policy</title>
+    <description>Jeff Andrade-Fong works with Tech for Housing to bring attention to tech workers about how housing policy affects them, and what they can do. Josh Vincent advises land policy on a city-by-city basis using open data and more. Changing policy is hard, but we talk about what people can do about it.
+</description>
+    <itunes:summary>Jeff Andrade-Fong works with Tech for Housing to bring attention to tech workers about how housing policy affects them, and what they can do. Josh Vincent advises land policy on a city-by-city basis using open data and more. Changing policy is hard, but we talk about what people can do about it.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep10</guid>
+    <pubDate>Tue, 13 Jun 2017 10:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-06-13.mp3" length="96351459" type="audio/mpeg" />
 </item>
 </channel>
 </rss>

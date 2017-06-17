@@ -87,3 +87,13 @@ episodes:
      datetime: '2017-06-06T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-06.mp3
      audio size: 96351459
+   - title: "Jeff Andrade-Fong and Josh Vincent on Influencing Housing Policy"
+     description: >
+       Jeff Andrade-Fong works with Tech for Housing to bring attention to tech
+       workers about how housing policy affects them, and what they can do.
+       Josh Vincent advises land policy on a city-by-city basis using open data
+       and more. Changing policy is hard, but we talk about what people can do
+       about it.
+     datetime: '2017-06-13T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-06-13.mp3
+     audio size: 96351459
