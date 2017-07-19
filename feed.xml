@@ -171,5 +171,16 @@
     <pubDate>Tue, 11 Jul 2017 10:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-07-11.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Steve Omohundro on AI Risk, Human Values, and Decentralized Resource Sharing</title>
+    <description>Steve Omohundro shares plans for creating provably correct protections against AI superintelligence, and thoughts on how human values can be embued into AI. Resource allocation, decentralized cooperation, and discussions on how Blockchain Proofs of Work/Stake can possibly be compatible with basic needs.
+</description>
+    <itunes:summary>Steve Omohundro shares plans for creating provably correct protections against AI superintelligence, and thoughts on how human values can be embued into AI. Resource allocation, decentralized cooperation, and discussions on how Blockchain Proofs of Work/Stake can possibly be compatible with basic needs.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep15</guid>
+    <pubDate>Tue, 18 Jul 2017 10:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-07-18.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>

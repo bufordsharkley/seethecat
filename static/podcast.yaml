@@ -135,3 +135,13 @@ episodes:
      datetime: '2017-07-11T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-11.mp3
      audio size: 96351459
+   - title: "Steve Omohundro on AI Risk, Human Values, and Decentralized Resource Sharing"
+     description: >
+       Steve Omohundro shares plans for creating provably correct protections
+       against AI superintelligence, and thoughts on how human values can be
+       embued into AI. Resource allocation, decentralized cooperation, and
+       discussions on how Blockchain Proofs of Work/Stake can possibly be
+       compatible with basic needs.
+     datetime: '2017-07-18T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-07-18.mp3
+     audio size: 96351459
