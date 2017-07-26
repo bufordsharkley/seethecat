@@ -58,7 +58,7 @@ episodes:
      datetime: '2017-05-16T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-16.mp3
      audio size: 96351459
-   - title: "Rognlie on Piketty, with Nic Tideman"
+   - title: "Nic Tideman on the Rognlie/Piketty controversy"
      description: >
        Tomas Piketty showed that accumulation of capital was driving modern
        inequality. But then a young economics student showed how scarcity of
@@ -144,4 +144,14 @@ episodes:
        compatible with basic needs.
      datetime: '2017-07-18T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-18.mp3
+     audio size: 96351459
+   - title: "Alvin Roth on Designing Markets"
+     description: >
+       2012 Nobelist and Stanford professor Alvin Roth has saved lives by
+       designing better markets: clearinghouses to trade kidneys, as well as
+       improved matches in public schools and medical residencies. He joins the
+       show to talk about his life's work and the many lessons we can learn about
+       fixing broken markets.
+     datetime: '2017-07-25T10:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-07-25.mp3
      audio size: 96351459

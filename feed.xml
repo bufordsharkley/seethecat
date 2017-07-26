@@ -84,7 +84,7 @@
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-05-16.mp3" length="96351459" type="audio/mpeg" />
 </item>
 <item>
-    <title>Rognlie on Piketty, with Nic Tideman</title>
+    <title>Nic Tideman on the Rognlie/Piketty controversy</title>
     <description>Tomas Piketty showed that accumulation of capital was driving modern inequality. But then a young economics student showed how scarcity of housing explains Piketty&#39;s phenomenon, not accumulation. We&#39;re joined by Professor Nic Tideman of Virginia Tech, to discuss Matthew Rognlie&#39;s influential paper.
 </description>
     <itunes:summary>Tomas Piketty showed that accumulation of capital was driving modern inequality. But then a young economics student showed how scarcity of housing explains Piketty&#39;s phenomenon, not accumulation. We&#39;re joined by Professor Nic Tideman of Virginia Tech, to discuss Matthew Rognlie&#39;s influential paper.
@@ -181,6 +181,17 @@
     <guid isPermaLink="false">ep15</guid>
     <pubDate>Tue, 18 Jul 2017 10:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-07-18.mp3" length="96351459" type="audio/mpeg" />
+</item>
+<item>
+    <title>Alvin Roth on Designing Markets</title>
+    <description>2012 Nobelist and Stanford professor Alvin Roth has saved lives by designing better markets: clearinghouses to trade kidneys, as well as improved matches in public schools and medical residencies. He joins the show to talk about his life&#39;s work and the many lessons we can learn about fixing broken markets.
+</description>
+    <itunes:summary>2012 Nobelist and Stanford professor Alvin Roth has saved lives by designing better markets: clearinghouses to trade kidneys, as well as improved matches in public schools and medical residencies. He joins the show to talk about his life&#39;s work and the many lessons we can learn about fixing broken markets.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep16</guid>
+    <pubDate>Tue, 25 Jul 2017 10:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-07-25.mp3" length="96351459" type="audio/mpeg" />
 </item>
 </channel>
 </rss>
