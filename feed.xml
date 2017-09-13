@@ -204,5 +204,16 @@
     <pubDate>Tue, 1 Aug 2017 10:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-08-01.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Alan Joyce on the land economics of Eve Online and Second Life</title>
+    <description>Alan Joyce (co-host of Earful of Convoy and Earful of Cocktail) comes on the program to explain the ins and outs of some of the weirder and wilder economic laboratories out there: videogames. How does scarcity in Eve Online resemble real estate bubbles? What does Second Life tell us about marginal land?
+</description>
+    <itunes:summary>Alan Joyce (co-host of Earful of Convoy and Earful of Cocktail) comes on the program to explain the ins and outs of some of the weirder and wilder economic laboratories out there: videogames. How does scarcity in Eve Online resemble real estate bubbles? What does Second Life tell us about marginal land?
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep18</guid>
+    <pubDate>Tue, 12 Sep 2017 10:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-09-12.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
