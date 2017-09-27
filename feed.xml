@@ -215,5 +215,16 @@
     <pubDate>Tue, 12 Sep 2017 10:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-09-12.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Price gouging, rationing, and the morality of transactions</title>
+    <description>A roundtable discussion on how the issue of critical goods (water, food, fuel) is treated after a natural disaster. Is raising prices necessarily immoral? When is rationing necessary? And how can this be tied into theories of value?
+</description>
+    <itunes:summary>A roundtable discussion on how the issue of critical goods (water, food, fuel) is treated after a natural disaster. Is raising prices necessarily immoral? When is rationing necessary? And how can this be tied into theories of value?
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep19</guid>
+    <pubDate>Tue, 26 Sep 2017 10:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-09-26.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
