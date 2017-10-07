@@ -226,5 +226,16 @@
     <pubDate>Tue, 26 Sep 2017 10:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-09-26.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Diego Aguilar on Disaster and Inequity in Puerto Rico</title>
+    <description>Diego Aguilar (of East Bay Forward) isn&#39;t here to talk about housing, but rather the disaster in Puerto Rico, how it has personally affected his family, and the unfair policies that continually works against the US Territory.
+</description>
+    <itunes:summary>Diego Aguilar (of East Bay Forward) isn&#39;t here to talk about housing, but rather the disaster in Puerto Rico, how it has personally affected his family, and the unfair policies that continually works against the US Territory.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep20</guid>
+    <pubDate>Fri, 6 Oct 2017 17:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-10-06.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
