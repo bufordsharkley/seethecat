@@ -237,5 +237,16 @@
     <pubDate>Fri, 6 Oct 2017 17:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-10-06.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Connecticut Talk with Real-Life Connecticutian Kedar</title>
+    <description>Kedar gives us the scoop about urban and surburban development in Connecticut, with a focus on Hartford&#39;s experiments with Land Value Tax, municipal debt financing, and the millennial rush towards dense urban hubs. Additionally, we fail to deliver useful information about New Haven Pizza.
+</description>
+    <itunes:summary>Kedar gives us the scoop about urban and surburban development in Connecticut, with a focus on Hartford&#39;s experiments with Land Value Tax, municipal debt financing, and the millennial rush towards dense urban hubs. Additionally, we fail to deliver useful information about New Haven Pizza.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep21</guid>
+    <pubDate>Fri, 13 Oct 2017 17:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-10-13.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
