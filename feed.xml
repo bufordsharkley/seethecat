@@ -248,5 +248,16 @@
     <pubDate>Fri, 13 Oct 2017 17:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-10-13.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Roundtable on Fairness and Idealism</title>
+    <description>Mark and Jake start off talking about Esperanto for 20 seconds, and then get into a long discussion about the power of idealism, and how central the role of fairness is in popular consciousness.
+</description>
+    <itunes:summary>Mark and Jake start off talking about Esperanto for 20 seconds, and then get into a long discussion about the power of idealism, and how central the role of fairness is in popular consciousness.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep22</guid>
+    <pubDate>Fri, 20 Oct 2017 17:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-10-20.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
