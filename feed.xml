@@ -259,5 +259,16 @@
     <pubDate>Fri, 20 Oct 2017 17:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-10-20.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Sarah Thomas on Catholicism and The Condition of Labor</title>
+    <description>We talk about 19th century beefs in the Catholic church, the excommunication of Georgist priests, and how modern Catholics view economic principles.
+</description>
+    <itunes:summary>We talk about 19th century beefs in the Catholic church, the excommunication of Georgist priests, and how modern Catholics view economic principles.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep23</guid>
+    <pubDate>Fri, 27 Oct 2017 17:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-10-27.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
