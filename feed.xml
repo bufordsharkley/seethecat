@@ -270,5 +270,16 @@
     <pubDate>Fri, 27 Oct 2017 17:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-10-27.mp3" length="96351459" type="audio/mpeg" />
 </item>
+<item>
+    <title>Fed Chair Talk with Edward Miller</title>
+    <description>In the lead-up to the Fed Chair decision, we talk the policy-ineffectiveness proposition, modern controversies about monetary theory, and nit-pick about inflation.
+</description>
+    <itunes:summary>In the lead-up to the Fed Chair decision, we talk the policy-ineffectiveness proposition, modern controversies about monetary theory, and nit-pick about inflation.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep24</guid>
+    <pubDate>Fri, 3 Nov 2017 17:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-11-03.mp3" length="96351459" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
