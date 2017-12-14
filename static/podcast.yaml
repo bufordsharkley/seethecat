@@ -226,7 +226,7 @@ episodes:
      datetime: '2017-11-03T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-03.mp3
      audio size: 96351459
-   - title: "2017-11-17: Max Kapczynski of Palo Alto Forward, of What People Can Do To Fix Housing"
+   - title: "Max Kapczynski of Palo Alto Forward, of What People Can Do To Fix Housing"
      description: >
        What can someone do to make the housing situation better? That's the
        question we talk about with Max Kapczynski of Palo Alto Forward, fighting
@@ -236,7 +236,7 @@ episodes:
      datetime: '2017-11-17T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-17.mp3
      audio size: 96351459
-   - title: "2017-11-24: Christine Peterson of the Foresight Institute: Vision Week"
+   - title: "Christine Peterson of the Foresight Institute: Vision Week"
      description: >
        We talk positive and negative visions of the future with the founder of
        the Foresight Institute, Christine Peterson. The Foresight Institute holds
@@ -244,3 +244,10 @@ episodes:
        Week, held December 2-3, 2017.
      datetime: '2017-11-24T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-24.mp3
+   - title: "Congestion Taxes: Are They Regressive?"
+     description: >
+       Everybody talks about regressive taxes vs progressive taxes, and many
+       are saying that congestion taxes on our roadways would be regressive.
+       Who's right and wrong?
+     datetime: '2017-12-08T17:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2017-12-08.mp3

@@ -282,7 +282,7 @@
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-11-03.mp3" length="96351459" type="audio/mpeg" />
 </item>
 <item>
-    <title>2017-11-17: Max Kapczynski of Palo Alto Forward, of What People Can Do To Fix Housing</title>
+    <title>Max Kapczynski of Palo Alto Forward, of What People Can Do To Fix Housing</title>
     <description>What can someone do to make the housing situation better? That&#39;s the question we talk about with Max Kapczynski of Palo Alto Forward, fighting the fight for housing reform in the midst of the most ingrained NIMBYism one can possibly find. Perverse incentives, perverse incentives, perverse incentives: we have it all.
 </description>
     <itunes:summary>What can someone do to make the housing situation better? That&#39;s the question we talk about with Max Kapczynski of Palo Alto Forward, fighting the fight for housing reform in the midst of the most ingrained NIMBYism one can possibly find. Perverse incentives, perverse incentives, perverse incentives: we have it all.
@@ -293,7 +293,7 @@
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-11-17.mp3" length="96351459" type="audio/mpeg" />
 </item>
 <item>
-    <title>2017-11-24: Christine Peterson of the Foresight Institute: Vision Week</title>
+    <title>Christine Peterson of the Foresight Institute: Vision Week</title>
     <description>We talk positive and negative visions of the future with the founder of the Foresight Institute, Christine Peterson. The Foresight Institute holds a conference looking forward to future technology and society: Vision Week, held December 2-3, 2017.
 </description>
     <itunes:summary>We talk positive and negative visions of the future with the founder of the Foresight Institute, Christine Peterson. The Foresight Institute holds a conference looking forward to future technology and society: Vision Week, held December 2-3, 2017.
@@ -302,6 +302,17 @@
     <guid isPermaLink="false">ep26</guid>
     <pubDate>Fri, 24 Nov 2017 17:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2017-11-24.mp3" length="" type="audio/mpeg" />
+</item>
+<item>
+    <title>Congestion Taxes: Are They Regressive?</title>
+    <description>Everybody talks about regressive taxes vs progressive taxes, and many are saying that congestion taxes on our roadways would be regressive. Who&#39;s right and wrong?
+</description>
+    <itunes:summary>Everybody talks about regressive taxes vs progressive taxes, and many are saying that congestion taxes on our roadways would be regressive. Who&#39;s right and wrong?
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep27</guid>
+    <pubDate>Fri, 8 Dec 2017 17:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2017-12-08.mp3" length="" type="audio/mpeg" />
 </item>
 </channel>
 </rss>
