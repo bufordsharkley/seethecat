@@ -40,6 +40,9 @@
 {% endblock %}
 {% block content %}
 <div class="mainpage">
+  {% if episode.img_small %}
+  <img src="{{episode.img_small}}" alt="A episode image"/>
+  {% endif %}
   <div class="player">
     <h3>{{ episode.title }}</h3>
     <h3>{{ episode.datetime.strftime('%Y-%m-%d') }}</h3>

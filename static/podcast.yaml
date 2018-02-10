@@ -259,3 +259,13 @@ episodes:
        a chance?
      datetime: '2018-02-01T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-02-01.mp3
+   - title: "Cecily Foote and Nani Friedman of Stanford's SCoPE 2035"
+     description: >
+       SCoPE 2035 (Stanford Coalition for Planning an Equitable 2035) is a
+       group of Stanford Students, trying to influence the way that Stanford
+       does land use, to give housing stability to Stanford students, faculty,
+       staff, and the surrounding community. Cecily Foote and Nani Friedman
+       talk about the organization's goals and progress.
+     datetime: '2018-02-08T09:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2018-02-08.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-02-08-small.png
