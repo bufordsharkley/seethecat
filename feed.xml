@@ -336,5 +336,16 @@
     <pubDate>Thu, 8 Feb 2018 09:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2018-02-08.mp3" length="" type="audio/mpeg" />
 </item>
+<item>
+    <title>Chris P. on the RV dwelling experience</title>
+    <description>Chris P. of KZSU talks about the experience of living in an RV in Silicon Valley for 18 months.
+</description>
+    <itunes:summary>Chris P. of KZSU talks about the experience of living in an RV in Silicon Valley for 18 months.
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep30</guid>
+    <pubDate>Thu, 8 Mar 2018 09:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2018-03-08.mp3" length="" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
