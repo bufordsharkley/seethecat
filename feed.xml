@@ -514,5 +514,16 @@
     <pubDate>Thu, 8 Nov 2018 09:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2018-11-08.mp3" length="" type="audio/mpeg" />
 </item>
+<item>
+    <title>Darrell Owens on the Housing Crisis in the East Bay</title>
+    <description>Darrell Owens, housing advocate wunderkind travels from the East Bay to share his experiences dealing with class and racial segregation reinforced by our land-use policy, and also finds time to rant about transit, blind spots in otherwise progressive policy, and so much more...
+</description>
+    <itunes:summary>Darrell Owens, housing advocate wunderkind travels from the East Bay to share his experiences dealing with class and racial segregation reinforced by our land-use policy, and also finds time to rant about transit, blind spots in otherwise progressive policy, and so much more...
+</itunes:summary>
+    <link>http://seethecat.org</link>
+    <guid isPermaLink="false">ep46</guid>
+    <pubDate>Thu, 15 Nov 2018 09:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2018-11-15.mp3" length="" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
