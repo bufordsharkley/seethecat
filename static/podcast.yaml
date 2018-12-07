@@ -433,7 +433,6 @@ episodes:
        more...
      datetime: '2018-11-15T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-11-15.mp3
-
    - title: "Max Kapczynski on \"Local Control\" and Exclusionary Suburbs"
      description: >
        Max is back on, and we talk about the grievance culture of those
@@ -442,3 +441,11 @@ episodes:
        Beverly Hills and Palo Alto. Nuttiness ensues.
      datetime: '2018-11-22T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-11-22.mp3
+   - title: "Alex Schafran on \"The Road to Resegregation: Northern California and the Failure of Politics"
+     description: >
+       Alex Schafran discusses his new book, which is about the new style of
+       segregation we see throughout the greater Bay Area (even beyond the
+       Altamont Pass), how even well-meaning people helped create it, and what
+       changes to our politics we need to find our way out.
+     datetime: '2018-12-06T09:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2018-12-06.mp3
