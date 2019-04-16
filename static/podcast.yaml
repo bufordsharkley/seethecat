@@ -77,6 +77,7 @@ episodes:
        history of Berkeley's leadership.
      datetime: '2017-05-30T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-30.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-05-30-small.png
      audio size: 96351459
    - title: "James Howard Kunstler vs Sprawl"
      description: >
@@ -173,6 +174,7 @@ episodes:
        marginal land?
      datetime: '2017-09-12T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-09-12.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-09-12-small.png
      audio size: 96351459
    - title: "Price gouging, rationing, and the morality of transactions"
      description: >
@@ -182,6 +184,7 @@ episodes:
        theories of value?
      datetime: '2017-09-26T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-09-26.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-09-26-small.png
      audio size: 96351459
    - title: "Diego Aguilar-Canabal on Disaster and Inequity in Puerto Rico"
      description: >
@@ -201,6 +204,7 @@ episodes:
        Haven Pizza.
      datetime: '2017-10-13T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-10-13.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-10-13-small.png
      audio size: 96351459
    - title: "Roundtable on Fairness and Idealism"
      description: >
@@ -217,6 +221,7 @@ episodes:
        economic principles.
      datetime: '2017-10-27T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-10-27.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-10-27-small.png
      audio size: 96351459
    - title: "Fed Chair Talk with Edward Miller"
      description: >
@@ -226,6 +231,7 @@ episodes:
      datetime: '2017-11-03T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-03.mp3
      audio size: 96351459
+     img_small: http://media.mgm.ink/hgp/hgp-2017-11-03-small.png
    - title: "Max Kapczynski of Palo Alto Forward, of What People Can Do To Fix Housing"
      description: >
        What can someone do to make the housing situation better? That's the
@@ -236,6 +242,7 @@ episodes:
      datetime: '2017-11-17T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-17.mp3
      audio size: 96351459
+     img_small: http://media.mgm.ink/hgp/hgp-2017-11-17-small.png
    - title: "Christine Peterson of the Foresight Institute: Vision Week"
      description: >
        We talk positive and negative visions of the future with the founder of
@@ -251,6 +258,7 @@ episodes:
        Who's right and wrong?
      datetime: '2017-12-08T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-12-08.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-12-08-small.png
    - title: "SB 827: Is it the Housing Fix California Needs?"
      description: >
        Max Kapczynski is back, and we're talking about Scott Weiner's SB 827,
@@ -259,6 +267,7 @@ episodes:
        a chance?
      datetime: '2018-02-01T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-02-01.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-02-01-small.png
    - title: "Cecily Foote and Nani Friedman of Stanford's SCoPE 2035"
      description: >
        SCoPE 2035 (Stanford Coalition for Planning an Equitable 2035) is a
