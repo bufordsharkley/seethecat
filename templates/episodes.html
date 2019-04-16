@@ -3,11 +3,20 @@
 <div class="mainpage">
   {% for episode in episodes.values() | sort(attribute='datetime') | reverse %}
   <hr/>
-  <a href="{{url_for('episode', date=episode.key)}}">{{episode.title}}</a>
-  <div>{{ episode.datetime.strftime('%Y-%m-%d') }} at {{episode.datetime.strftime('%-I:%M %p')}}</div>
-  <div class="eppagedescription">
-    <p>{{episode.description | safe}}</p>
-    <p><br/></p>
+  <div style="display: flex; justify-content: center;">
+    <div style="width: 600px; max-width: 600px; display: inline-block;">
+      <a href="{{url_for('episode', date=episode.key)}}">{{episode.title}}</a>
+      <div>{{ episode.datetime.strftime('%Y-%m-%d') }} at {{episode.datetime.strftime('%-I:%M %p')}}</div>
+      <div class="eppagedescription">
+        <p>{{episode.description | safe}}</p>
+        <p><br/></p>
+      </div>
+    </div>
+  {% if episode.img_small %}
+  <div>
+  <img src="{{episode.img_small}}" alt="A episode image"/>
+  </div>
+  {% endif %}
   </div>
   {% endfor %}
 </div>
