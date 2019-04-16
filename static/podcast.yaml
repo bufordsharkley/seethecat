@@ -293,6 +293,7 @@ episodes:
        find time to discuss the importance of real estate in Sex and the City.
      datetime: '2018-04-12T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-04-12.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-04-12-small.png
    - title: "The Palo Alto Process and the (Im)morality of Developers, with Max Kapczynski"
      description: >
        Max Kapczynski of Palo Alto Forward is back, to talk about recent
@@ -314,6 +315,7 @@ episodes:
        economics and land markets.
      datetime: '2018-05-12T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-12.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-05-12-small.png
    - title: "San Jose Housing and San Jose Budgets, with Asn Ndiaye"
      description: >
        San Jose is one of the few places in the Bay Area that has more housing
@@ -321,6 +323,7 @@ episodes:
        these two things related? Asn Ndiaye has plenty to say.
      datetime: '2018-05-17T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-17.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-05-17-small.png
    - title: "Glen Weyl on Radical Markets: Uprooting Capitalism and Democracy for a Just Society"
      description: >
        Glen Weyl is a co-author of a new book dedicated to William Vickrey,
@@ -331,6 +334,7 @@ episodes:
        value tax.
      datetime: '2018-05-24T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-24.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-05-24-small.png
    - title: "Pastor Gregory Stevens on Palo Alto Hypocrisy and the Radical Leftist Vision of Christ"
      description: >
        Gregory Stevens was a pastor at Palo Alto First Baptist until a series
@@ -341,6 +345,7 @@ episodes:
        doing it.
      datetime: '2018-05-31T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-31.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-05-31-small.png
    - title: "Richard Mehlinger on Sunnyvale: Corn Palace, Blue Bonnet, and weak protections for tenants"
      description: >
        We talk Sunnyvale with Richard Mehlinger of Livable Sunnyvale, and Max
@@ -354,6 +359,7 @@ episodes:
        teachings have influenced Richard's thinking.
      datetime: '2018-07-19T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-07-19.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-07-19-small.png
    - title: "Jordan Grimes on San Mateo's Housing Deficit and its Homeowner Anger"
      description: >
        Jordan Grimes is an activist for housing and transporation in San Mateo,
@@ -374,6 +380,7 @@ episodes:
         ridiculous boondoggle (spoiler: it is a ridiculous boondoggle).
      datetime: '2018-08-29T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-08-23.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-08-23-small.png
    - title: "Building Tenant Power, with Ollie Zhu"
      description: >
        Ollie Zhu is based out of San Jose, and is active in housing, through
@@ -384,6 +391,7 @@ episodes:
        about housing.
      datetime: '2018-09-20T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-09-20.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-09-20-small.png
    - title: "Disney Parks and Land Value, with Alan Joyce"
      description: >
        What taxes *should* Disney parks owe, and to *whom* (considering that in
