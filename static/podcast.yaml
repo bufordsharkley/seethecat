@@ -122,6 +122,7 @@ episodes:
        and YIMBYs get along?
      datetime: '2017-07-04T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-04.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-07-04-small.png
      audio size: 96351459
    - title: "Jack Miller on SCOTUS, Prop 13, and rationalized injustice"
      description: >
@@ -134,6 +135,7 @@ episodes:
 
      datetime: '2017-07-11T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-11.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-07-11-small.png
      audio size: 96351459
    - title: "Steve Omohundro on AI Risk, Human Values, and Decentralized Resource Sharing"
      description: >
@@ -380,6 +382,15 @@ episodes:
        P, to set a hard limit on possible density.
      datetime: '2018-08-02T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-08-02.mp3
+   - title: "Simon McKenna a Moral Economy, and the Limitations of Appealing to Rights"
+     description: >
+       Simon McKenna, a member of the Henry George Foundation and a contributor to
+       Land & Liberty magazine, has been advising the QPSW (Quaker Peace & Social
+       Witness Central Committee) on their new economy project. What would a more
+       moral economy look like, with reference to land, and why does Simon believe
+       that talk about natural rights is unlikely to move us in a positive direction?
+     datetime: '2018-08-09T09:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2018-08-09.mp3
    - title: "The Cupertino Hyperloop, Value Capture, The President Hotel, with Max Kapczynski"
      description: >
        Max Kapczynski of Palo Alto Forward is back to talk about the eviction
