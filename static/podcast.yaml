@@ -156,6 +156,7 @@ episodes:
        fixing broken markets.
      datetime: '2017-07-25T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-25.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-07-25-small.png
      audio size: 96351459
    - title: "Matt Krisiloff on Y Combinator, Basic Income, and LVT on the United Slate"
      description: >
@@ -570,3 +571,15 @@ episodes:
      datetime: '2019-04-11T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-04-11.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-04-11-small.png
+   - title: "SCoPE 2035, Take Two"
+     description: >
+       It's been about a year since the Stanford land-use/housing justice
+       activism group SCoPE 2035 (Stanford Coalition for Planning an Equitable
+       2035) has been on, and there's a lot to catch up on: campus protests
+       against university lawsuits, more challenges for housing Stanford
+       employees, university dealings with Palo Alto, and more; we hear all
+       about the challenges and advantages of being a group made out of current
+       (overworked) Stanford students.
+     datetime: '2019-04-25T09:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2019-04-25.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2019-04-25-small.png
