@@ -14,10 +14,16 @@
     </div>
   {% if episode.img_small %}
   <div>
-  <img src="{{episode.img_small}}" alt="A episode image"/>
+  <img class="lazy" data-src="{{episode.img_small}}" alt="A episode image"/>
   </div>
   {% endif %}
   </div>
   {% endfor %}
 </div>
+<script>
+var lazyLoadInstance = new LazyLoad({
+    elements_selector: ".lazy"
+    // ... more custom settings?
+});
+</script>
 {% endblock %}
