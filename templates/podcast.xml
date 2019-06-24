@@ -22,7 +22,7 @@
     <title>{{ episode.title }}</title>
     <description>{{ episode.description }}</description>
     <itunes:summary>{{ episode.description }}</itunes:summary>
-    <link>{{ podcast.website }}</link>
+    <link>{{ podcast.website }}/ep/{{episode.datetime.strftime("%Y-%m-%d")}}</link>
     <guid isPermaLink="false">ep{{ loop.index }}</guid>
     <pubDate>{{ episode.datetime.strftime("%a, %-d %b %Y %H:%M:%S +0000")}}</pubDate>
     <enclosure url="{{ episode.url }}" length="{{ episode['audio size'] }}" type="audio/mpeg" />
