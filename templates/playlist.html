@@ -18,7 +18,7 @@
       }, [
         {% for episode in podcast.episodes | reverse %}
         {
-          title:"{{ episode.datetime.split('T')[0] }} {{ episode.title }}",
+          title:"{{ episode.air_datetime.split('T')[0] }} {{ episode.title }}",
           free:true,
           mp3:"{{ episode.url }}",
         },

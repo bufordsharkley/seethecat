@@ -1,12 +1,12 @@
 {% extends "layout.html" %}
 {% block content %}
 <div class="mainpage">
-  {% for episode in episodes.values() | sort(attribute='datetime') | reverse %}
+  {% for episode in episodes.values() | sort(attribute='air_datetime') | reverse %}
   <hr/>
   <div style="display: flex; justify-content: center;">
     <div style="width: 600px; max-width: 600px; display: inline-block;">
       <a href="{{url_for('episode', date=episode.key)}}">{{episode.title}}</a>
-      <div>{{ episode.datetime.strftime('%Y-%m-%d') }} at {{episode.datetime.strftime('%-I:%M %p')}}</div>
+      <div>{{ episode.air_datetime.strftime('%Y-%m-%d') }} at {{episode.air_datetime.strftime('%-I:%M %p')}}</div>
       <div class="eppagedescription">
         <p>{{episode.description | safe}}</p>
         <p><br/></p>

@@ -13,7 +13,8 @@ episodes:
        land-use policies of Hong Kong, Singapore, Taiwan and more. How
        responsible is municipal ownership to land to the world-class
        infrastructure and vibrant economies of these cities?
-     datetime: '2017-04-11T10:00:00'
+     air_datetime: '2017-04-11T10:00:00'
+     pub_datetime: '2017-04-11T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-11.mp3
      audio size: 96351459
    - title: "Zoltan Istvan: Funding a UBI"
@@ -23,14 +24,16 @@ episodes:
        Universal Basic Income, funded by the leasing of federal lands. How does
        this compare to the Georgist ideal of a citizen's dividend funded by
        land rents?
-     datetime: '2017-04-18T10:00:00'
+     air_datetime: '2017-04-18T10:00:00'
+     pub_datetime: '2017-04-18T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-18.mp3
      audio size: 96351459
    - title: "Introduction to Georgism with Kedar"
      description: >
        Kedar and Mark have a conversation about Georgism, Prop 13, and why this
        all matters.
-     datetime: '2017-04-25T10:00:00'
+     air_datetime: '2017-04-25T10:00:00'
+     pub_datetime: '2017-04-25T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-25.mp3
      audio size: 96351459
    - title: "James Hughes: Technoprogressivism"
@@ -39,7 +42,8 @@ episodes:
        few weeks ago. Today, James Hughes, who couples a concern for
        transhumanism with a progressive attitude and a focus on economic
        justice.
-     datetime: '2017-05-02T10:00:00'
+     air_datetime: '2017-05-02T10:00:00'
+     pub_datetime: '2017-05-02T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-02.mp3
      audio size: 96351459
    - title: "Corey Smith of SFHAC"
@@ -48,14 +52,16 @@ episodes:
        the policies and the politics to get the housing supply up to 5,000
        units a year. All your favorites are here: CEQA and Prop 13. Some talk
        about the limits of empathy: are our land-use policies making us meaner?
-     datetime: '2017-05-09T10:00:00'
+     air_datetime: '2017-05-09T10:00:00'
+     pub_datetime: '2017-05-09T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-09.mp3
      audio size: 96351459
    - title: "Economy of Cities with Kedar"
      description: >
        Kedar is back to talk about mobility. We have depressed economies and
        cities with excess demand. Why?
-     datetime: '2017-05-16T10:00:00'
+     air_datetime: '2017-05-16T10:00:00'
+     pub_datetime: '2017-05-16T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-16.mp3
      audio size: 96351459
    - title: "Nic Tideman on the Rognlie/Piketty controversy"
@@ -65,7 +71,8 @@ episodes:
        housing explains Piketty's phenomenon, not accumulation. We're joined by
        Professor Nic Tideman of Virginia Tech, to discuss Matthew Rognlie's
        influential paper.
-     datetime: '2017-05-23T10:00:00'
+     air_datetime: '2017-05-23T10:00:00'
+     pub_datetime: '2017-05-23T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-23.mp3
      audio size: 96351459
    - title: "Stephen Barton and the Berkeley Landlord Tax"
@@ -75,7 +82,8 @@ episodes:
        Behind the bill was Stephen Barton, who's been working for affordable
        housing for decades. On the side, he's been writing about the Georgist
        history of Berkeley's leadership.
-     datetime: '2017-05-30T10:00:00'
+     air_datetime: '2017-05-30T10:00:00'
+     pub_datetime: '2017-05-30T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-30.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-05-30-small.png
      audio size: 96351459
@@ -84,7 +92,8 @@ episodes:
        We talk to James Howard Kunstler, who has long been a voice railing
        against the ugliness of modern sprawl and its attendant psychic torment.
        How does a land tax offer a possible answer to this tragedy?
-     datetime: '2017-06-06T10:00:00'
+     air_datetime: '2017-06-06T10:00:00'
+     pub_datetime: '2017-06-06T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-06.mp3
      audio size: 96351459
    - title: "Jeff Andrade-Fong and Josh Vincent on Influencing Housing Policy"
@@ -94,7 +103,8 @@ episodes:
        Josh Vincent advises land policy on a city-by-city basis using open data
        and more. Changing policy is hard, but we talk about what people can do
        about it.
-     datetime: '2017-06-13T10:00:00'
+     air_datetime: '2017-06-13T10:00:00'
+     pub_datetime: '2017-06-13T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-13.mp3
      audio size: 96351459
    - title: "James K. Galbraith on inequality"
@@ -102,7 +112,8 @@ episodes:
        James K. Galbraith has produced a deep catalogue of books; in his recent
        "Inequality: What Everyone Needs to Know", he touches on the land value
        tax. We talk about that and much more.
-     datetime: '2017-06-20T10:00:00'
+     air_datetime: '2017-06-20T10:00:00'
+     pub_datetime: '2017-06-20T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-20.mp3
      audio size: 96351459
    - title: "SF Supervisor Katy Tang and Home-SF"
@@ -111,7 +122,8 @@ episodes:
        led Home-SF, which works to end displacement while still building more
        units, by tying affordability to upzoning incentives. We talk about
        ending zero-sum thinking.
-     datetime: '2017-06-27T10:00:00'
+     air_datetime: '2017-06-27T10:00:00'
+     pub_datetime: '2017-06-27T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-27.mp3
      audio size: 96351459
    - title: "Victoria Fierce on socialism and housing"
@@ -120,7 +132,8 @@ episodes:
        Fierce is a member of (pro-economic-justice) DSA. This has led to an
        undue amount of drama.  Does this have to be so? Why can't socialists
        and YIMBYs get along?
-     datetime: '2017-07-04T10:00:00'
+     air_datetime: '2017-07-04T10:00:00'
+     pub_datetime: '2017-07-04T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-04.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-07-04-small.png
      audio size: 96351459
@@ -133,7 +146,8 @@ episodes:
        on to talk about the jurisprudence of fair taxes, the importance of
        Horizontal Equity, and how this all came together in Nordlinger v Hahn.
 
-     datetime: '2017-07-11T10:00:00'
+     air_datetime: '2017-07-11T10:00:00'
+     pub_datetime: '2017-07-11T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-11.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-07-11-small.png
      audio size: 96351459
@@ -144,7 +158,8 @@ episodes:
        embued into AI. Resource allocation, decentralized cooperation, and
        discussions on how Blockchain Proofs of Work/Stake can possibly be
        compatible with basic needs.
-     datetime: '2017-07-18T10:00:00'
+     air_datetime: '2017-07-18T10:00:00'
+     pub_datetime: '2017-07-18T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-18.mp3
      audio size: 96351459
    - title: "Alvin Roth on Designing Markets"
@@ -154,7 +169,8 @@ episodes:
        improved matches in public schools and medical residencies. He joins the
        show to talk about his life's work and the many lessons we can learn about
        fixing broken markets.
-     datetime: '2017-07-25T10:00:00'
+     air_datetime: '2017-07-25T10:00:00'
+     pub_datetime: '2017-07-25T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-07-25-small.png
      audio size: 96351459
@@ -165,7 +181,8 @@ episodes:
        Should these be viewed as separate, or two ideas that are fundamentally
        linked? Also a conversation with Kedar about the technical and moral
        merits of a UBI versus a Jobs Guarantee.
-     datetime: '2017-08-01T10:00:00'
+     air_datetime: '2017-08-01T10:00:00'
+     pub_datetime: '2017-08-01T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-08-01.mp3
      audio size: 96351459
    - title: "Alan Joyce on the land economics of Eve Online and Second Life"
@@ -175,7 +192,8 @@ episodes:
        economic laboratories out there: videogames. How does scarcity in Eve
        Online resemble real estate bubbles? What does Second Life tell us about
        marginal land?
-     datetime: '2017-09-12T10:00:00'
+     air_datetime: '2017-09-12T10:00:00'
+     pub_datetime: '2017-09-12T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-09-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-09-12-small.png
      audio size: 96351459
@@ -185,7 +203,8 @@ episodes:
        fuel) is treated after a natural disaster. Is raising prices necessarily
        immoral? When is rationing necessary? And how can this be tied into
        theories of value?
-     datetime: '2017-09-26T10:00:00'
+     air_datetime: '2017-09-26T10:00:00'
+     pub_datetime: '2017-09-26T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-09-26.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-09-26-small.png
      audio size: 96351459
@@ -195,7 +214,8 @@ episodes:
        but rather the disaster in Puerto Rico, how it has personally affected
        his family, and the unfair policies that continually works against
        the US Territory.
-     datetime: '2017-10-06T17:00:00'
+     air_datetime: '2017-10-06T17:00:00'
+     pub_datetime: '2017-10-06T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-10-06.mp3
      audio size: 96351459
    - title: "Connecticut Talk with Real-Life Connecticutian Kedar"
@@ -205,7 +225,8 @@ episodes:
        municipal debt financing, and the millennial rush towards dense urban
        hubs. Additionally, we fail to deliver useful information about New
        Haven Pizza.
-     datetime: '2017-10-13T17:00:00'
+     air_datetime: '2017-10-13T17:00:00'
+     pub_datetime: '2017-10-13T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-10-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-10-13-small.png
      audio size: 96351459
@@ -214,7 +235,8 @@ episodes:
        Mark and Jake start off talking about Esperanto for 20 seconds, and then
        get into a long discussion about the power of idealism, and how central
        the role of fairness is in popular consciousness.
-     datetime: '2017-10-20T17:00:00'
+     air_datetime: '2017-10-20T17:00:00'
+     pub_datetime: '2017-10-20T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-10-20.mp3
      audio size: 96351459
    - title: "Sarah Thomas on Catholicism and The Condition of Labor"
@@ -222,7 +244,8 @@ episodes:
        We talk about 19th century beefs in the Catholic church, the
        excommunication of Georgist priests, and how modern Catholics view
        economic principles.
-     datetime: '2017-10-27T17:00:00'
+     air_datetime: '2017-10-27T17:00:00'
+     pub_datetime: '2017-10-27T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-10-27.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-10-27-small.png
      audio size: 96351459
@@ -231,7 +254,8 @@ episodes:
        In the lead-up to the Fed Chair decision, we talk the
        policy-ineffectiveness proposition, modern controversies about monetary
        theory, and nit-pick about inflation.
-     datetime: '2017-11-03T17:00:00'
+     air_datetime: '2017-11-03T17:00:00'
+     pub_datetime: '2017-11-03T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-03.mp3
      audio size: 96351459
      img_small: http://media.mgm.ink/hgp/hgp-2017-11-03-small.png
@@ -242,7 +266,8 @@ episodes:
        the fight for housing reform in the midst of the most ingrained NIMBYism
        one can possibly find. Perverse incentives, perverse incentives, perverse
        incentives: we have it all.
-     datetime: '2017-11-17T17:00:00'
+     air_datetime: '2017-11-17T17:00:00'
+     pub_datetime: '2017-11-17T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-17.mp3
      audio size: 96351459
      img_small: http://media.mgm.ink/hgp/hgp-2017-11-17-small.png
@@ -252,14 +277,16 @@ episodes:
        the Foresight Institute, Christine Peterson. The Foresight Institute holds
        a conference looking forward to future technology and society: Vision
        Week, held December 2-3, 2017.
-     datetime: '2017-11-24T17:00:00'
+     air_datetime: '2017-11-24T17:00:00'
+     pub_datetime: '2017-11-24T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-24.mp3
    - title: "Congestion Taxes: Are They Regressive?"
      description: >
        Everybody talks about regressive taxes vs progressive taxes, and many
        are saying that congestion taxes on our roadways would be regressive.
        Who's right and wrong?
-     datetime: '2017-12-08T17:00:00'
+     air_datetime: '2017-12-08T17:00:00'
+     pub_datetime: '2017-12-08T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-12-08.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-12-08-small.png
    - title: "SB 827: Is it the Housing Fix California Needs?"
@@ -268,7 +295,8 @@ episodes:
        which has created a nearly nuclear amount of buzz. What's it all about?
        Will it really fix housing? Will it have side effects? And does it have
        a chance?
-     datetime: '2018-02-01T09:00:00'
+     air_datetime: '2018-02-01T09:00:00'
+     pub_datetime: '2018-02-01T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-02-01.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-02-01-small.png
    - title: "Cecily Foote and Nani Friedman of Stanford's SCoPE 2035"
@@ -278,14 +306,16 @@ episodes:
        does land use, to give housing stability to Stanford students, faculty,
        staff, and the surrounding community. Cecily Foote and Nani Friedman
        talk about the organization's goals and progress.
-     datetime: '2018-02-08T09:00:00'
+     air_datetime: '2018-02-08T09:00:00'
+     pub_datetime: '2018-02-08T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-02-08.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-02-08-small.png
    - title: "Chris P. on the RV dwelling experience"
      description: >
        Chris P. of KZSU talks about the experience of living in an RV in
        Silicon Valley for 18 months.
-     datetime: '2018-03-08T09:00:00'
+     air_datetime: '2018-03-08T09:00:00'
+     pub_datetime: '2018-03-08T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-03-08.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-03-08-small.png
    - title: "Non-Profit Affordable Housing with Paul Leone"
@@ -295,7 +325,8 @@ episodes:
        today. Max Kapczynski is back, as questions are asked about how to
        understand how policy impacts the production of affordable housing, and
        how affordable housing in California can work better.
-     datetime: '2018-03-15T09:00:00'
+     air_datetime: '2018-03-15T09:00:00'
+     pub_datetime: '2018-03-15T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-03-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-03-15-small.png
    - title: "Talking the PPP Social Housing Paper with Asn Ndiaye"
@@ -303,7 +334,8 @@ episodes:
        We talk with Asn Ndiaye about what leftist housing policy means, analyze
        the PPP Social Housing policy paper that everybody's talking about, and
        find time to discuss the importance of real estate in Sex and the City.
-     datetime: '2018-04-12T09:00:00'
+     air_datetime: '2018-04-12T09:00:00'
+     pub_datetime: '2018-04-12T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-04-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-04-12-small.png
    - title: "The Palo Alto Process and the (Im)morality of Developers, with Max Kapczynski"
@@ -315,7 +347,8 @@ episodes:
        is made. Some claim they're no different than anybody else offering a
        service, and some claim that their form of making money is inherently
        immoral. Who's right?
-     datetime: '2018-04-19T09:00:00'
+     air_datetime: '2018-04-19T09:00:00'
+     pub_datetime: '2018-04-19T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-04-19.mp3
    - title: "Dialogue with the Opposition, with Michael Goldman"
      description: >
@@ -325,7 +358,8 @@ episodes:
        It certainly seems that we disagree fundamentally about everything, but
        after we share ideas, what can we learn? Plenty of talk about urban
        economics and land markets.
-     datetime: '2018-05-12T09:00:00'
+     air_datetime: '2018-05-12T09:00:00'
+     pub_datetime: '2018-05-12T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-05-12-small.png
    - title: "San Jose Housing and San Jose Budgets, with Asn Ndiaye"
@@ -333,7 +367,8 @@ episodes:
        San Jose is one of the few places in the Bay Area that has more housing
        than jobs. San Jose has a seriously gnarly budget situation. How are
        these two things related? Asn Ndiaye has plenty to say.
-     datetime: '2018-05-17T09:00:00'
+     air_datetime: '2018-05-17T09:00:00'
+     pub_datetime: '2018-05-17T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-05-17-small.png
    - title: "Glen Weyl on Radical Markets: Uprooting Capitalism and Democracy for a Just Society"
@@ -344,7 +379,8 @@ episodes:
        deserve and to bring forward a fairer world. We discuss these policies,
        including how they overlap and depart from the idea of the original land
        value tax.
-     datetime: '2018-05-24T09:00:00'
+     air_datetime: '2018-05-24T09:00:00'
+     pub_datetime: '2018-05-24T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-24.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-05-24-small.png
    - title: "Pastor Gregory Stevens on Palo Alto Hypocrisy and the Radical Leftist Vision of Christ"
@@ -355,7 +391,8 @@ episodes:
        on to talk about the anarchist, anti-capitalist message of Christ, what
        it means to actually practice this moral vision, and why Palo Alto isn't
        doing it.
-     datetime: '2018-05-31T09:00:00'
+     air_datetime: '2018-05-31T09:00:00'
+     pub_datetime: '2018-05-31T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-31.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-05-31-small.png
    - title: "Richard Mehlinger on Sunnyvale: Corn Palace, Blue Bonnet, and weak protections for tenants"
@@ -369,7 +406,8 @@ episodes:
        talk about the future of expanding tenant protections to Sunnyvale
        renters through a 12-Month Lease program, and how Catholic social
        teachings have influenced Richard's thinking.
-     datetime: '2018-07-19T09:00:00'
+     air_datetime: '2018-07-19T09:00:00'
+     pub_datetime: '2018-07-19T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-07-19.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-07-19-small.png
    - title: "Jordan Grimes on San Mateo's Housing Deficit and its Homeowner Anger"
@@ -381,7 +419,8 @@ episodes:
        also joins the program to talk about how San Mateo thwarts affordable
        housing. We talk process and policy, including the extension of Measure
        P, to set a hard limit on possible density.
-     datetime: '2018-08-02T09:00:00'
+     air_datetime: '2018-08-02T09:00:00'
+     pub_datetime: '2018-08-02T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-08-02.mp3
    - title: "Simon McKenna a Moral Economy, and the Limitations of Appealing to Rights"
      description: >
@@ -390,7 +429,8 @@ episodes:
        Witness Central Committee) on their new economy project. What would a more
        moral economy look like, with reference to land, and why does Simon believe
        that talk about natural rights is unlikely to move us in a positive direction?
-     datetime: '2018-08-09T09:00:00'
+     air_datetime: '2018-08-09T09:00:00'
+     pub_datetime: '2018-08-09T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-08-09.mp3
    - title: "The Cupertino Hyperloop, Value Capture, The President Hotel, with Max Kapczynski"
      description: >
@@ -399,7 +439,8 @@ episodes:
        Cupertino head tax and the Cupertino hyperloop. What is it? Is it a savvy
        method of bringing Bay Area transit into the 21st century, or is it a
         ridiculous boondoggle (spoiler: it is a ridiculous boondoggle).
-     datetime: '2018-08-29T09:00:00'
+     air_datetime: '2018-08-29T09:00:00'
+     pub_datetime: '2018-08-29T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-08-23.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-08-23-small.png
    - title: "Building Tenant Power, with Ollie Zhu"
@@ -410,7 +451,8 @@ episodes:
        place of bottom-up organization, the challenges of Silicon Valley's
        housing situation, and what the left could stand to articulate better
        about housing.
-     datetime: '2018-09-20T09:00:00'
+     air_datetime: '2018-09-20T09:00:00'
+     pub_datetime: '2018-09-20T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-09-20.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-09-20-small.png
    - title: "Disney Parks and Land Value, with Alan Joyce"
@@ -420,7 +462,8 @@ episodes:
        a NIMBY in how they resist residential equity in their enterprises?
        These questions are pondered with guest Alan Joyce, Disney Park
        aficionado.
-     datetime: '2018-09-27T09:00:00'
+     air_datetime: '2018-09-27T09:00:00'
+     pub_datetime: '2018-09-27T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-09-27.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-09-27-small.png
    - title: "Towards a Deeper Understanding of Rent Stabilization and Prop 10, with Yonathan Randolph"
@@ -432,7 +475,8 @@ episodes:
        this mean for rent stabilization programs, and how does this compare to
        other powers (such as that to tax) to take land rents away from
        landlords?
-     datetime: '2018-10-04T09:00:00'
+     air_datetime: '2018-10-04T09:00:00'
+     pub_datetime: '2018-10-04T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-10-04.mp3
    - title: "South Bay Election Talk, with Jason Uhlenkott of South Bay YIMBY and Max Kapczynski"
      description: >
@@ -441,7 +485,8 @@ episodes:
        propositions. Jason Uhlenkott is here to explain how South Bay YIMBY
        <a href="https://southbayyimby.wordpress.com/endorsements-2018/">endorsed</a>
        all the races, and we try to analyze all the major policy decisions.
-     datetime: '2018-10-25T09:00:00'
+     air_datetime: '2018-10-25T09:00:00'
+     pub_datetime: '2018-10-25T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-10-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-10-25-small.png
    - title: "Off-The-Cuff Election Reactions, with Diego Aguilar-Canabal"
@@ -452,7 +497,8 @@ episodes:
        to the shocking failure of Mayor Breed and Scott Wiener to endorse Prop
        C). Some South Bay election updates, though expect more in future weeks
        for all the in-depth details...
-     datetime: '2018-11-08T09:00:00'
+     air_datetime: '2018-11-08T09:00:00'
+     pub_datetime: '2018-11-08T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-11-08.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-11-08-small.png
    - title: "Darrell Owens on the Housing Crisis in the East Bay"
@@ -462,7 +508,8 @@ episodes:
        reinforced by our land-use policy, and also finds time to rant about
        transit, blind spots in otherwise progressive policy, and so much
        more...
-     datetime: '2018-11-15T09:00:00'
+     air_datetime: '2018-11-15T09:00:00'
+     pub_datetime: '2018-11-15T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-11-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-11-15-small.png
    - title: "Max Kapczynski on \"Local Control\" and Exclusionary Suburbs"
@@ -471,7 +518,8 @@ episodes:
        fighting to preserve "Local Control," focusing on the extreme measures
        being taken by the League of California Cities to preserve the rights of
        Beverly Hills and Palo Alto. Nuttiness ensues.
-     datetime: '2018-11-22T09:00:00'
+     air_datetime: '2018-11-22T09:00:00'
+     pub_datetime: '2018-11-22T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-11-22.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-11-22-small.png
    - title: "Alex Schafran on \"The Road to Resegregation: Northern California and the Failure of Politics"
@@ -480,7 +528,8 @@ episodes:
        segregation we see throughout the greater Bay Area (even beyond the
        Altamont Pass), how even well-meaning people helped create it, and what
        changes to our politics we need to find our way out.
-     datetime: '2018-12-06T09:00:00'
+     air_datetime: '2018-12-06T09:00:00'
+     pub_datetime: '2018-12-06T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-12-06.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-12-06-small.png
    - title: "Spotlite on Vancouver, with Jennifer Bradshaw"
@@ -493,7 +542,8 @@ episodes:
        talks about this, her work in housing activism, why housing opportunity
        matters to those who desperately need it, and why high vacancy rates are
        good for renters.
-     datetime: '2018-12-13T09:00:00'
+     air_datetime: '2018-12-13T09:00:00'
+     pub_datetime: '2018-12-13T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-12-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-12-13-small.png
    - title: "The Quaker New Economy project, with Olivia Hanks"
@@ -505,7 +555,8 @@ episodes:
        Economy" project, looking at overturning the inequities of modern
        economic life, looking to bring natural resources in common and create a
        sustainable world for future generations.
-     datetime: '2019-01-03T09:00:00'
+     air_datetime: '2019-01-03T09:00:00'
+     pub_datetime: '2019-01-03T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-01-03.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-01-03-small.png
    - title: "Green New Deal for Whomst?, with Alex Baca"
@@ -516,7 +567,8 @@ episodes:
        about equity (for whomst?), chat about rust belt urbanism, and talk
        about the challenges of grow-the-pie solutions being balanced against
        zero-sum battles.
-     datetime: '2019-01-17T09:00:00'
+     air_datetime: '2019-01-17T09:00:00'
+     pub_datetime: '2019-01-17T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-01-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-01-17-small.png
    - title: "JR Fruen on building a wall around Cupertino"
@@ -526,7 +578,8 @@ episodes:
        Cupertino, Mayor Scharf's comments on "building a wall around
        Cupertino", irregularities around commission appointments, and what all
        those lawsuits are all about.
-     datetime: '2019-02-14T09:00:00'
+     air_datetime: '2019-02-14T09:00:00'
+     pub_datetime: '2019-02-14T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-02-14.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-02-14-small.png
    - title: "CASA Part I: The Facts, with Asn Ndiaye and Jordan Grimes"
@@ -535,7 +588,8 @@ episodes:
        tenant protections throughout the Bay Area. But what are the details? We
        pick apart the ten pillars and anticipate some of what we'll see in Part
        II of this series: CASA, the Drama.
-     datetime: '2019-02-21T09:00:00'
+     air_datetime: '2019-02-21T09:00:00'
+     pub_datetime: '2019-02-21T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-02-21.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-02-21-small.png
    - title: "CASA Part II: The Drama, with Asn Ndiaye and Jordan Grimes"
@@ -545,7 +599,8 @@ episodes:
        seen. Rants about the CAA, Realtors, ranking NIMBY cities into a
        hierarchy of awfulness, and picking apart why some YIMBYs can't figure
        out how to get onboard with tenants rights.
-     datetime: '2019-02-28T09:00:00'
+     air_datetime: '2019-02-28T09:00:00'
+     pub_datetime: '2019-02-28T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-02-28.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-02-28-small.png
    - title: "Georgism, Memes, and Ideology, with Chris Beiser"
@@ -556,7 +611,8 @@ episodes:
        ideology, the implications of modern technology with the evolution of
        ideology, and the special role of Georgism to navigate ideological rifts
        in the modern landscape.
-     datetime: '2019-04-04T09:00:00'
+     air_datetime: '2019-04-04T09:00:00'
+     pub_datetime: '2019-04-04T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-04-04.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-04-04-small.png
    - title: "Holly Balcom on Portland Land-Use, Tenant Protections, and Land Taxes"
@@ -568,7 +624,8 @@ episodes:
        against suburban conformity and exclusion, NIMBYism, and unaffordability
        is very much an active challenge, and Holly lets us know about what's been
        going well, and what still needs attention in Portland.
-     datetime: '2019-04-11T09:00:00'
+     air_datetime: '2019-04-11T09:00:00'
+     pub_datetime: '2019-04-11T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-04-11.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-04-11-small.png
    - title: "SCoPE 2035, Take Two"
@@ -580,7 +637,8 @@ episodes:
        employees, university dealings with Palo Alto, and more; we hear all
        about the challenges and advantages of being a group made out of current
        (overworked) Stanford students.
-     datetime: '2019-04-25T09:00:00'
+     air_datetime: '2019-04-25T09:00:00'
+     pub_datetime: '2019-04-25T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-04-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-04-25-small.png
    - title: "Georgism vs Yimbyism Debate; Opponent Sonja Trauss"
@@ -592,7 +650,8 @@ episodes:
        needs reformed. Other topics are broached, from property rights,
        political orgs, and whether sweeping wealth redistribution is needed (we
        quickly agree it is).
-     datetime: '2019-05-02T09:00:00'
+     air_datetime: '2019-05-02T09:00:00'
+     pub_datetime: '2019-05-02T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-05-02.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-05-02-small.png
    - title: "Regional Activism, Gentrification, and Homelessness, with Sasha Perigo and Darrell Owens"
@@ -603,7 +662,8 @@ episodes:
        East Bay, as well as a view from Silicon Valley, where the show is
        recorded? Plenty to talk about regional issues, as well as tenant
        solidarity as well as other socialists views on housing justice.
-     datetime: '2019-05-09T09:00:00'
+     air_datetime: '2019-05-09T09:00:00'
+     pub_datetime: '2019-05-09T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-05-09.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-05-09-small.png
    - title: "Lenny Siegel on Mountain View, Decades of Activism, and Progressive Housing, with some debate on local control with Pardis Beikzadeh and David Watson"
@@ -616,7 +676,8 @@ episodes:
        Beikzadeh and David Watson of South Bay YIMBY saying that state
        intervention is necessary, and Lenny saying that other (perhaps bigger)
        solutions are needed.
-     datetime: '2019-05-30T09:00:00'
+     air_datetime: '2019-05-30T09:00:00'
+     pub_datetime: '2019-05-30T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-05-30.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-05-30-small.png
    - title: "SB50 on Ice (and WHAT Red/Brown alliance?) with Max Kapczynski"
@@ -625,7 +686,8 @@ episodes:
        see efforts to block it underway by our favorite Palo Alto NIMBYs, aided
        by ostensibly woke anti-gentrification groups in direct coordination
        with homeowners. But mostly, about Lydia Kou being bad on twitter.
-     datetime: '2019-06-06T09:00:00'
+     air_datetime: '2019-06-06T09:00:00'
+     pub_datetime: '2019-06-06T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-06-06.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-06-06-small.png
    - title: "Talkin' Highways and Inequality, with Clayton Nall and Alex Baca"
@@ -637,7 +699,8 @@ episodes:
        did to our politics is explored in depth. We are joined with Alex Baca,
        who explores the relationship of highway funding to the viability of the
        left in America.
-     datetime: '2019-06-13T09:00:00'
+     air_datetime: '2019-06-13T09:00:00'
+     pub_datetime: '2019-06-13T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-06-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-06-13-small.png
    - title: "On the Data for Progress housing paper and the Dem Prez Candidates, with Asn Ndiaye and Ollie Zhu"
@@ -645,7 +708,8 @@ episodes:
        Talking politics, both with the exciting new white paper with all the
        best policy proposals (including land value tax), and some fun
        discussion on the dem candidates' housing plans.
-     datetime: '2019-06-27T09:00:00'
+     air_datetime: '2019-06-27T09:00:00'
+     pub_datetime: '2019-06-27T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-06-27.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-06-27-small.png
    - title: "On Having a Cupertino Planning Commissioner Threaten to Get You Fired, Local Democracy, and Free Speech, with Richard Mehlinger"
@@ -654,7 +718,8 @@ episodes:
        Mehlinger fired, after a hubbub over a NextDoor post in which Mr. Wang
        called YIMBYs "fascists". We discuss the story, what it means for
        participation in local democracy, with some tangents, on the real nature of fascism.
-     datetime: '2019-07-04T09:00:00'
+     air_datetime: '2019-07-04T09:00:00'
+     pub_datetime: '2019-07-04T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-07-04.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-07-04-small.png
    - title: "Article 34: How California Made Public Housing Illegal, with Diego Aguilar-Canabal and Jordan Grimes"
@@ -668,6 +733,15 @@ episodes:
        challenge to this amendment, and rant for a while about how dumb
        dead-ends in leftist discourse undermine a future in which we are able
        to build public housing again.
-     datetime: '2019-07-18T09:00:00'
+     air_datetime: '2019-07-18T09:00:00'
+     pub_datetime: '2019-07-18T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-07-18.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-07-18-small.png
+   - title: "Book Club: \"The Power Broker\" by Robert Caro (with Max Kapczynski)"
+     description: >
+       The legendary book about a fatal love of highways, the drive for land
+       acquisition, and the seductive world of municipal bonds.
+     air_datetime: '2019-08-15T09:00:00'
+     pub_datetime: '2019-08-22T12:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2019-08-15.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2019-08-15-small.png

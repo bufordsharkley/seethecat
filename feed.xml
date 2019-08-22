@@ -745,5 +745,16 @@
     <pubDate>Thu, 18 Jul 2019 09:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2019-07-18.mp3" length="" type="audio/mpeg" />
 </item>
+<item>
+    <title>Book Club: &#34;The Power Broker&#34; by Robert Caro (with Max Kapczynski)</title>
+    <description>The legendary book about a fatal love of highways, the drive for land acquisition, and the seductive world of municipal bonds.
+</description>
+    <itunes:summary>The legendary book about a fatal love of highways, the drive for land acquisition, and the seductive world of municipal bonds.
+</itunes:summary>
+    <link>http://seethecat.org/ep/2019-08-15</link>
+    <guid isPermaLink="false">ep67</guid>
+    <pubDate>Thu, 22 Aug 2019 12:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2019-08-15.mp3" length="" type="audio/mpeg" />
+</item>
 </channel>
 </rss>

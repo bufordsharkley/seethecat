@@ -14,8 +14,10 @@ def get_eps():
     podcast = yaml.load(app.open_resource('static/podcast.yaml'))
     eps = podcast['episodes']
     for ep in eps:
-        ep['datetime'] = datetime.datetime.strptime(
-            ep['datetime'], "%Y-%m-%dT%H:%M:%S" )
+        ep['air_datetime'] = datetime.datetime.strptime(
+            ep['air_datetime'], "%Y-%m-%dT%H:%M:%S" )
+        ep['pub_datetime'] = datetime.datetime.strptime(
+            ep['pub_datetime'], "%Y-%m-%dT%H:%M:%S" )
     eps = {x['url'].split('hgp/hgp-')[1].split('.mp3')[0]: x for x in eps}
     for k, v in eps.items():
         v['key'] = k
@@ -49,7 +51,7 @@ def playlist():
 @app.route('/feed.xml')
 def podcast_feed():
     def extract_copyright_years(podcast):
-        years = [(x['datetime']).year for x in podcast['episodes']]
+        years = [(x['air_datetime']).year for x in podcast['episodes']]
         min_year = min(years)
         max_year = max(years)
         if min_year != max_year:
@@ -66,7 +68,8 @@ def podcast_feed():
     def parse_podcast_years(podcast):
         podcast = copy.deepcopy(podcast)
         for episode in podcast['episodes']:
-            episode['datetime'] = parse_datetime(episode['datetime'])
+            episode['air_datetime'] = parse_datetime(episode['air_datetime'])
+            episode['pub_datetime'] = parse_datetime(episode['pub_datetime'])
         return podcast
 
     podcast = yaml.load(app.open_resource('static/podcast.yaml'))
