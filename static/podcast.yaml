@@ -431,6 +431,7 @@ episodes:
        that talk about natural rights is unlikely to move us in a positive direction?
      air_datetime: '2018-08-09T09:00:00'
      pub_datetime: '2018-08-09T09:00:00'
+     hidden: true
      url: http://media.mgm.ink/hgp/hgp-2018-08-09.mp3
    - title: "The Cupertino Hyperloop, Value Capture, The President Hotel, with Max Kapczynski"
      description: >
@@ -779,3 +780,11 @@ episodes:
      pub_datetime: '2019-10-11T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-10-10.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-10-10-small.png
+   - title: "San Francisco: A Material Analysis of Its Disspiriting Politics, with Max Kapczynski"
+     description: >
+       San Francisco is cursed, and leaves everybody with a no-win decision between lacklustre "progressives" and incrementalist moderates. Why is this so, and what can be done about it? We use material analysis to learn more. Chatter about the November election.
+     air_datetime: '2019-10-31T09:00:00'
+     pub_datetime: '2019-11-05T11:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2019-10-31.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2019-10-31-small.png
+

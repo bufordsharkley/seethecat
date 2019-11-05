@@ -10,7 +10,7 @@ import jinja2
 app = flask.Flask(__name__)
 
 
-def get_eps():
+def get_eps(hide_hidden=False):
     podcast = yaml.load(app.open_resource('static/podcast.yaml'))
     eps = podcast['episodes']
     for ep in eps:
@@ -19,6 +19,8 @@ def get_eps():
         ep['pub_datetime'] = datetime.datetime.strptime(
             ep['pub_datetime'], "%Y-%m-%dT%H:%M:%S" )
     eps = {x['url'].split('hgp/hgp-')[1].split('.mp3')[0]: x for x in eps}
+    if hide_hidden:
+        eps = {k: v for k, v in eps.items() if not v.get('hidden')}
     for k, v in eps.items():
         v['key'] = k
     return eps
@@ -32,8 +34,8 @@ def index():
 
 @app.route('/eps/')
 def episodes():
-    return flask.render_template('episodes.html', episodes=get_eps(),
-            hideblurb=True)
+    return flask.render_template('episodes.html',
+            episodes=get_eps(hide_hidden=True), hideblurb=True)
 
 
 @app.route('/ep/<date>.html')
