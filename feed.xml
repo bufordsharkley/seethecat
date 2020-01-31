@@ -16,7 +16,7 @@
     <title>The Henry George Program</title>
     <link>http://seethecat.org</link>
 </image>
-<copyright>Copyright 2017-2019, The Henry George Program Family</copyright>
+<copyright>Copyright 2017-2020, The Henry George Program Family</copyright>
 <item>
     <title>Urban economics of the Asian Tigers</title>
     <description>Mark Mollineaux, Jacob Schwartz-Lucas, and Edward Miller discuss the land-use policies of Hong Kong, Singapore, Taiwan and more. How responsible is municipal ownership to land to the world-class infrastructure and vibrant economies of these cities?
@@ -821,6 +821,17 @@
     <guid isPermaLink="false">ep73</guid>
     <pubDate>Mon, 2 Dec 2019 12:00:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2019-11-28.mp3" length="" type="audio/mpeg" />
+</item>
+<item>
+    <title>State-wide Rent Cap/Just Cause, Local Urgency Ordinances, with Stasha Powell and Jordan Grimes</title>
+    <description>Sacramento passed state-wide protections to limit rent increases and prevent just cause evictions, a real win for renters. BUT: various loopholes led to the need for a series of urgency ordinances on a city-by-city basis to prevent last-minute evictions. We hear from Stasha Powell, tenant activist (of One Redwood City) and Jordan Grimes (of Peninsula for Everyone) to hear about these actions, and some general thoughts about the challenges of implementation, and the future of tenant rights in California and beyond.
+</description>
+    <itunes:summary>Sacramento passed state-wide protections to limit rent increases and prevent just cause evictions, a real win for renters. BUT: various loopholes led to the need for a series of urgency ordinances on a city-by-city basis to prevent last-minute evictions. We hear from Stasha Powell, tenant activist (of One Redwood City) and Jordan Grimes (of Peninsula for Everyone) to hear about these actions, and some general thoughts about the challenges of implementation, and the future of tenant rights in California and beyond.
+</itunes:summary>
+    <link>http://seethecat.org/ep/2020-01-30</link>
+    <guid isPermaLink="false">ep74</guid>
+    <pubDate>Fri, 31 Jan 2020 12:00:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2020-01-30.mp3" length="" type="audio/mpeg" />
 </item>
 </channel>
 </rss>
