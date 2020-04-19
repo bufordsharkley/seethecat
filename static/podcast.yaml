@@ -55,6 +55,7 @@ episodes:
      air_datetime: '2017-05-09T10:00:00'
      pub_datetime: '2017-05-09T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-09.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-05-09-small.png
      audio size: 96351459
    - title: "Economy of Cities with Kedar"
      description: >
@@ -352,6 +353,7 @@ episodes:
      air_datetime: '2018-04-19T09:00:00'
      pub_datetime: '2018-04-19T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-04-19.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-04-19-small.png
    - title: "Dialogue with the Opposition, with Michael Goldman"
      description: >
        Michael Goldman is a councilperson for Sunnyvale City Council. We
@@ -481,6 +483,7 @@ episodes:
      air_datetime: '2018-10-04T09:00:00'
      pub_datetime: '2018-10-04T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-10-04.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-10-04-small.png
    - title: "South Bay Election Talk, with Jason Uhlenkott of South Bay YIMBY and Max Kapczynski"
      description: >
        We cover city council elections in the major Santa Clara County cities,
