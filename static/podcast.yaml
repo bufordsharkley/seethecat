@@ -283,6 +283,7 @@ episodes:
      air_datetime: '2017-11-24T17:00:00'
      pub_datetime: '2017-11-24T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-24.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-11-24-small.png
    - title: "Congestion Taxes: Are They Regressive?"
      description: >
        Everybody talks about regressive taxes vs progressive taxes, and many
@@ -426,6 +427,7 @@ episodes:
      air_datetime: '2018-08-02T09:00:00'
      pub_datetime: '2018-08-02T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-08-02.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2018-08-02-small.png
    - title: "Simon McKenna a Moral Economy, and the Limitations of Appealing to Rights"
      description: >
        Simon McKenna, a member of the Henry George Foundation and a contributor to
