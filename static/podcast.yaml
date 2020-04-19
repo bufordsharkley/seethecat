@@ -74,6 +74,7 @@ episodes:
      air_datetime: '2017-05-23T10:00:00'
      pub_datetime: '2017-05-23T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-23.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-05-23-small.png
      audio size: 96351459
    - title: "Stephen Barton and the Berkeley Landlord Tax"
      description: >
@@ -95,6 +96,7 @@ episodes:
      air_datetime: '2017-06-06T10:00:00'
      pub_datetime: '2017-06-06T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-06.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-06-06-small.png
      audio size: 96351459
    - title: "Jeff Andrade-Fong and Josh Vincent on Influencing Housing Policy"
      description: >
