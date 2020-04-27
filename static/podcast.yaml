@@ -849,7 +849,6 @@ episodes:
      pub_datetime: '2020-03-23T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-03-19.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-03-19-small.png
-
    - title: "Redistributing the COVID pain, with Darrell, Derek, and Diego"
      description: >
        Coronavirus is throwing the housing world upside-down; we talk to
@@ -861,3 +860,13 @@ episodes:
      pub_datetime: '2020-04-18T18:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-04-16.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-04-16-small.png
+   - title: "Monica Mallon on Improving Transit, Before the Virus and After"
+     description: >
+       Monica Mallon is a SJSU student and transit advocate, active in the
+       plans to improve regional buses and more before COVID, and now active in
+       trying to best help our transit agencies as we deal with a
+       transit-unfriendly crisis.
+     air_datetime: '2020-04-23T09:00:00'
+     pub_datetime: '2020-04-27T14:30:00'
+     url: http://media.mgm.ink/hgp/hgp-2020-04-23.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2020-04-23-small.png
