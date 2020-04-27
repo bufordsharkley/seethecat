@@ -866,5 +866,16 @@
     <pubDate>Sat, 18 Apr 2020 18:30:00 +0000</pubDate>
     <enclosure url="http://media.mgm.ink/hgp/hgp-2020-04-16.mp3" length="" type="audio/mpeg" />
 </item>
+<item>
+    <title>Monica Mallon on Improving Transit, Before the Virus and After</title>
+    <description>Monica Mallon is a SJSU student and transit advocate, active in the plans to improve regional buses and more before COVID, and now active in trying to best help our transit agencies as we deal with a transit-unfriendly crisis.
+</description>
+    <itunes:summary>Monica Mallon is a SJSU student and transit advocate, active in the plans to improve regional buses and more before COVID, and now active in trying to best help our transit agencies as we deal with a transit-unfriendly crisis.
+</itunes:summary>
+    <link>http://seethecat.org/ep/2020-04-23</link>
+    <guid isPermaLink="false">ep78</guid>
+    <pubDate>Mon, 27 Apr 2020 14:30:00 +0000</pubDate>
+    <enclosure url="http://media.mgm.ink/hgp/hgp-2020-04-23.mp3" length="" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
