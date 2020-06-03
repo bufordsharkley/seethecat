@@ -870,3 +870,12 @@ episodes:
      pub_datetime: '2020-04-27T14:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-04-23.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-04-23-small.png
+   - title: "Asn Ndiaye and Ollie Zhu on Municipal Insolvency, Looming Austerity"
+     description: >
+       COVID has nuked tax receipts, and cities are hurting; what patterns do
+       we see in their budget crises, and what can we do to avoid a new regime
+       of austerity?
+     air_datetime: '2020-05-28T09:00:00'
+     pub_datetime: '2020-06-03T11:30:00'
+     url: http://media.mgm.ink/hgp/hgp-2020-05-28.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2020-05-28-small.png
