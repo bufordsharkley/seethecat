@@ -35,6 +35,7 @@ episodes:
      air_datetime: '2017-04-25T10:00:00'
      pub_datetime: '2017-04-25T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-25.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-04-25-small.png
      audio size: 96351459
    - title: "James Hughes: Technoprogressivism"
      description: >
@@ -45,6 +46,8 @@ episodes:
      air_datetime: '2017-05-02T10:00:00'
      pub_datetime: '2017-05-02T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-02.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-05-02-small.png
+     img_info: "adapted from https://en.wikipedia.org/wiki/James_Hughes_(sociologist)#/media/File:James_Hughes.jpg)"
      audio size: 96351459
    - title: "Corey Smith of SFHAC"
      description: >
@@ -187,6 +190,7 @@ episodes:
      air_datetime: '2017-08-01T10:00:00'
      pub_datetime: '2017-08-01T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-08-01.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2017-08-01-small.png
      audio size: 96351459
    - title: "Alan Joyce on the land economics of Eve Online and Second Life"
      description: >
@@ -900,3 +904,17 @@ episodes:
      pub_datetime: '2020-07-08T17:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-07-03.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-07-03-small.png
+
+   - title: "Stopping the Evictions, with Shanti Singh"
+     description: >
+       We're in the midst of an eviction crisis in the danger of getting much,
+       much worse. Shanti Singh of Tenants Together is on to talk about what is
+       getting done, and what can be done to stop this. (We agree not to go at
+       each other's throats about land-use for an entire show!) Talk about
+       local-level, state-level, and federal-level interventions; talk about
+       neoliberal vs forward-looking approaches to remedy tenant issues, and on
+       the struggle to organize tenants and build power.
+     air_datetime: '2020-07-23T09:00:00'
+     pub_datetime: '2020-07-24T12:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2020-07-23.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2020-07-23-small.png
