@@ -39,9 +39,16 @@
 {% endblock %}
 {% block content %}
 <div class="mainpage">
+  <div style="display: flex; justify-content: center;">
+    <div style="width: 600px; max-width: 600px; display: inline-block;">
+    <img src="{{ url_for('static', filename = 'latest_episode.png')}}" alt="Latest episode:"/>
+    <a href="{{url_for('episode', date=podcast.episodes[-1].air_datetime.split('T')[0])}}">
+      <img src="{{podcast.episodes[-1].img_small}}" alt="{{ podcast.episodes[-1].title }}"/></a>
+    </div>
+  </div>
   <div class="player">
-    <h3>LISTEN TO THE EPISODES</h3>
-    <h3><a href="{{url_for('episodes')}}">OR SEE MORE DETAILED DESCRIPTIONS</a></h3>
+    <h3><a href="{{url_for('episodes')}}">SEE DESCRIPTIONS OF ALL EPISODES</a></h3>
+    <h3>OR LISTEN BELOW</h3>
     <div id="jquery_jplayer_1" class="jp-jplayer"></div>
     <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
       <div class="jp-type-playlist">

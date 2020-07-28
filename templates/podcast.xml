@@ -21,7 +21,7 @@
     <link>{{ podcast.website }}</link>
 </image>
 <copyright>Copyright {{ copyright_years }}, {{ podcast.title}} Family</copyright>
-{% for episode in podcast.episodes -%}
+{% for episode in podcast.episodes | reverse -%}
 <item>
     <title>{{ episode.title }}</title>
     <description>{{ episode.description }}</description>
