@@ -6,6 +6,7 @@
     <link type="text/plain" rel="author" href={{url_for('static', filename='humans.txt')}}" />
     <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
     {% block head %}
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='reset.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
     <link rel="alternate" type="application/rss+xml" title="The Henry George Program RSS" href="/feed/" />
@@ -50,7 +51,7 @@
     </div>
     {% block footer %}
     <footer>
-      &copy; 2017 <a href="http://www.markmollineaux.com/">Mark Mollineaux</a>
+      &copy; 2017-2020 <a href="http://www.markmollineaux.com/">Mark Mollineaux</a>
       <!--in conjunction with <a href="http://earthsharing.org/">earthsharing.org</a>-->
     </footer>
     {% endblock %}

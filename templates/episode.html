@@ -45,11 +45,9 @@
 {% block content %}
 <div class="mainpage">
   {% if episode.img_small %}
-  <img src="{{episode.img_small}}" alt="A episode image"/>
+  <img src="{{episode.img_small}}" class="ep_image" alt="{{ episode.title }}"/>
   {% endif %}
   <div class="player">
-    <h3>{{ episode.title }}</h3>
-    <h3>{{ episode.air_datetime.strftime('%Y-%m-%d') }}</h3>
     <div id="jquery_jplayer_1" class="jp-jplayer"></div>
     <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
       <div class="jp-type-playlist">
@@ -94,7 +92,8 @@
     </div>
   </div>
   <div class="eppagedescription">
-    <p>{{episode.description | safe}}</p>
+    <span class="eptitle">{{ episode.title }}</span><span class="epdate">{{ episode.air_datetime.strftime('%Y-%m-%d') }}</span>
+    <div class="epdescriptiondescription">{{episode.description | safe}}</div>
     <p><br/></p>
   </div>
 </div>

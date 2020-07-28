@@ -5,16 +5,20 @@
   <hr/>
   <div style="display: flex; justify-content: center;">
     <div style="width: 600px; max-width: 600px; display: inline-block;">
-      <a href="{{url_for('episode', date=episode.key)}}">{{episode.title}}</a>
-      <div>{{ episode.air_datetime.strftime('%Y-%m-%d') }} at {{episode.air_datetime.strftime('%-I:%M %p')}}</div>
       <div class="eppagedescription">
-        <p>{{episode.description | safe}}</p>
+        <a href="{{url_for('episode', date=episode.key)}}">
+        <span class="eptitle">{{ episode.title }}</span>
+        </a>
+        <span class="epdate">{{ episode.air_datetime.strftime('%Y-%m-%d') }}</span>
+        <div class="epdescriptiondescription">{{episode.description | safe}}</div>
         <p><br/></p>
       </div>
     </div>
   {% if episode.img_small %}
   <div>
-  <img class="lazy" data-src="{{episode.img_small}}" alt="A episode image"/>
+    <a href="{{url_for('episode', date=episode.key)}}">
+      <img class="lazy" data-src="{{episode.img_small}}" alt="{{ episode.title }}"/>
+    </a>
   </div>
   {% endif %}
   </div>

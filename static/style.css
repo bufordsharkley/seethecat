@@ -28,6 +28,9 @@ div.bannerblurb img {
   max-width: 30%;
 }
 
+img.ep_image {
+  margin-top: 50px;
+}
 
 div.blurb {
   width: 350px;
@@ -36,11 +39,36 @@ div.blurb {
   text-align: center;
 }
 
+a {
+  text-underline-position: under;
+}
+
+span.eptitle {
+    font-size: 1.3em;
+    line-height: 1.3em;
+}
+
+span.epdate {
+    float: right;
+    font-size: .8em;
+}
+
 div.eppagedescription {
-  width: 350px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    text-align: justify;
+    padding: 1em;
+    line-height: 1.4em;
+    font-size: 1.10em;
+    font-family: archivo narrow, sans-serif;
+}
+
+div.epdescriptiondescription {
+  margin-top: 1.4em;
+  margin-left: .8em;
+
 }
 
 div.subscribe {
@@ -104,8 +132,8 @@ div.promo h2 {
   font-size: 2em;
 }
 
-img.dogbro {
-  height: 120px;
-  box-shadow: 10px 10px 5px #888;
-  margin-right: 20px;
+img.lazy {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
