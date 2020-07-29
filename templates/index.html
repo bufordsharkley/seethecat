@@ -89,7 +89,7 @@
 </table>
 <div class="mainpage">
   <div style="display: flex; justify-content: center;">
-    <div style="width: 600px; max-width: 600px; display: inline-block;">
+    <div style="width: 600px; display: inline-block;">
     <img src="{{ url_for('static', filename = 'latest_episode.png')}}" alt="Latest episode:"/>
     <a href="{{url_for('episode', date=podcast.episodes[-1].air_datetime.split('T')[0])}}">
       <img src="{{podcast.episodes[-1].img_small}}" alt="{{ podcast.episodes[-1].title }}"/></a>
