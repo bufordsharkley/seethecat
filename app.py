@@ -11,7 +11,7 @@ app = flask.Flask(__name__)
 
 
 def get_eps(hide_hidden=False):
-    podcast = yaml.load(app.open_resource('static/podcast.yaml'))
+    podcast = yaml.load(app.open_resource('static/podcast.yaml'), Loader=yaml.Loader)
     eps = podcast['episodes']
     for ep in eps:
         ep['air_datetime'] = datetime.datetime.strptime(
@@ -28,7 +28,7 @@ def get_eps(hide_hidden=False):
 
 @app.route('/')
 def index():
-    podcast = yaml.load(app.open_resource('static/podcast.yaml'))
+    podcast = yaml.load(app.open_resource('static/podcast.yaml'), Loader=yaml.Loader)
     return flask.render_template('index.html', podcast=podcast, hideblurb=True)
 
 
@@ -46,7 +46,7 @@ def episode(date):
 
 @app.route('/playlist.html')
 def playlist():
-    podcast = yaml.load(app.open_resource('static/podcast.yaml'))
+    podcast = yaml.load(app.open_resource('static/podcast.yaml'), Loader=yaml.Loader)
     return flask.render_template('playlist.html', podcast=podcast)
 
 
@@ -75,7 +75,7 @@ def podcast_feed():
         else:
             return str(max_year)
 
-    podcast = yaml.load(app.open_resource('static/podcast.yaml'))
+    podcast = yaml.load(app.open_resource('static/podcast.yaml'), Loader=yaml.Loader)
     podcast = parse_podcast_years(podcast)
     copyright_years = extract_copyright_years(podcast)
     response = flask.make_response(flask.render_template('podcast.xml',
