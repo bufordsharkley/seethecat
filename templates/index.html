@@ -38,6 +38,55 @@
   </script>
 {% endblock %}
 {% block content %}
+<table class="subscribe">
+	<col style="width:10%">
+	<col style="width:90%">
+	<caption>
+		SUBSCRIBE TO THE SHOW
+	</caption>
+	<tbody>
+	<tr>
+    <td>
+    <a href="{{url_for('podcast_feed')}}"><img src="{{ url_for('static', filename = 'rss.png')}}" /></a>
+    </td>
+    <td>
+    <a href="{{url_for('podcast_feed')}}">RSS feed</a>
+    </td>
+	</tr>
+	<tr>
+    <td>
+    <a href="https://itunes.apple.com/us/podcast/the-henry-george-program/id1241740873"><img src="{{ url_for('static', filename = 'itunes.png')}}" /></a>
+    </td>
+    <td>
+    <a href="https://itunes.apple.com/us/podcast/the-henry-george-program/id1241740873">Subscribe on Apple Podcasts</a>
+    </td>
+	</tr>
+	<tr>
+    <td>
+    <a href="https://open.spotify.com/show/6WKUZtKHKyCevouDNKs15l"><img src="{{ url_for('static', filename = 'spotify.png')}}" /></a>
+    </td>
+    <td>
+    <a href="https://open.spotify.com/show/6WKUZtKHKyCevouDNKs15l">Subscribe on Spotify</a>
+    </td>
+	</tr>
+	<tr>
+    <td>
+    <a href="https://www.stitcher.com/s?fid=224477&refid=stpr"><img src="{{ url_for('static', filename = 'stitcher.png')}}" /></a>
+    </td>
+    <td>
+    <a href="https://www.stitcher.com/s?fid=224477&refid=stpr">Subscribe on Stitcher</a>
+    </td>
+	</tr>
+	<tr>
+    <td>
+    <a href="https://twitter.com/henrygeorgepgm"><img src="{{ url_for('static', filename = 'twitter.png')}}" /></a>
+    </td>
+    <td>
+    <a href="https://twitter.com/henrygeorgepgm">Follow the program on Twitter</a>
+    </td>
+	</tr>
+
+</table>
 <div class="mainpage">
   <div style="display: flex; justify-content: center;">
     <div style="width: 600px; max-width: 600px; display: inline-block;">

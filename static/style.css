@@ -63,6 +63,14 @@ div.eppagedescription {
     line-height: 1.4em;
     font-size: 1.10em;
     font-family: archivo narrow, sans-serif;
+    border: 2px solid blue;
+    box-shadow: 5px 5px 3px #5555;
+}
+
+div.vertical_centering {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 div.epdescriptiondescription {
@@ -71,18 +79,29 @@ div.epdescriptiondescription {
 
 }
 
-div.subscribe {
-  line-height: 1.5;
+table.subscribe {
+  width:350px;
+  margin-left:auto;
+  margin-right:auto;
 }
 
-div.subscribe h3{
-  margin-top: 40px;
-  margin-bottom: 10px;
+table.subscribe caption {
+	font-size: large;
+	letter-spacing: .2em;
 }
 
-div.subscribe img {
+table.subscribe img {
   height: 20px;
   margin-right: 5px;
+}
+
+table.subscribe td {
+  text-align: right;
+}
+
+table.subscribe a {
+  font-weight: bold;
+  text-decoration: none;
 }
 
 div.player {

@@ -37,15 +37,6 @@
       </p>
     </div>
     {% endif %}
-    <div class="subscribe">
-      <h3>SUBSCRIBE TO THE SHOW</h3>
-      <a href="{{url_for('podcast_feed')}}"><img src="{{ url_for('static', filename = 'rss.png')}}" />RSS feed</a><br />
-      <a href="https://itunes.apple.com/us/podcast/the-henry-george-program/id1241740873"><img src="{{ url_for('static', filename = 'itunes.png')}}" />Subscribe on Apple Podcasts</a><br />
-      <a href="https://open.spotify.com/show/6WKUZtKHKyCevouDNKs15l"><img src="{{ url_for('static', filename = 'spotify.png')}}" />Subscribe on Spotify</a><br />
-      <a href="https://www.stitcher.com/s?fid=224477&refid=stpr"><img src="{{ url_for('static', filename = 'stitcher.png')}}" />Subscribe on Stitcher</a><br />
-      <a href="https://twitter.com/henrygeorgepgm"><img src="{{ url_for('static', filename = 'twitter.png')}}" />Follow the program on Twitter</a>
-    </div>
-
     <div class="content">
       {% block content %}{% endblock %}
     </div>

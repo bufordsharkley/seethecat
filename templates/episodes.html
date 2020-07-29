@@ -1,11 +1,11 @@
 {% extends "layout.html" %}
 {% block content %}
 <div class="mainpage">
-  {% for episode in episodes.values() | sort(attribute='air_datetime') | reverse %}
   <hr/>
+  {% for episode in episodes.values() | sort(attribute='air_datetime') | reverse %}
   <div style="display: flex; justify-content: center;">
-    <div style="width: 600px; max-width: 600px; display: inline-block;">
-      <div class="eppagedescription">
+    <div style="width: 600px; max-width: 600px; display: inline-block; margin-bottom: 30px;">
+      <div class="eppagedescription vertical_centering">
         <a href="{{url_for('episode', date=episode.key)}}">
         <span class="eptitle">{{ episode.title }}</span>
         </a>

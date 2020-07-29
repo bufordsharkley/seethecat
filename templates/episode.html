@@ -44,6 +44,7 @@
 {% endblock %}
 {% block content %}
 <div class="mainpage">
+  <h3><a href="{{url_for('episodes')}}">RETURN TO DESCRIPTION OF ALL EPISODES</a></h3>
   {% if episode.img_small %}
   <img src="{{episode.img_small}}" class="ep_image" alt="{{ episode.title }}"/>
   {% endif %}
