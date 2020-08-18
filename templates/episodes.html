@@ -1,27 +1,34 @@
 {% extends "layout.html" %}
 {% block content %}
 <div class="mainpage">
+  <div class="episode_list" style="display: grid; grid-template-columns: auto minmax(320px, 600px) minmax(auto, 400px) auto;">
   {% for episode in episodes.values() | sort(attribute='air_datetime') | reverse %}
+  {# grid-column: 2/6; #}
+  {#
   <div style="display: flex; justify-content: center;">
     <div style="width: 600px; max-width: 95%; display: inline-block; margin-bottom: 30px;">
       <div class="eppagedescription vertical_centering" style="max-width:45%">
-        <a href="{{url_for('episode', date=episode.key)}}">
-        <span class="eptitle">{{ episode.title }}</span>
-        </a>
-        <span class="epdate">{{ episode.air_datetime.strftime('%Y-%m-%d') }}</span>
-        <div class="epdescriptiondescription">{{episode.description | safe}}</div>
-        <p><br/></p>
-      </div>
+        #}
+  <div style="grid-column: 2">
+    <div style="text-align: justify; line-height: 1.4em; font-size: 1.10em; font-family: archivo narrow, sans-serif; border: 2px solid blue; box-shadow: 5px 5px 3px #5555; padding 1em;">
+      <a href="{{url_for('episode', date=episode.key)}}">
+      <span class="eptitle">{{ episode.title }}</span>
+      </a>
+      <span class="epdate">{{ episode.air_datetime.strftime('%Y-%m-%d') }}</span>
+      <div class="epdescriptiondescription">{{episode.description | safe}}</div>
+      {#<p><br/></p> #}
     </div>
+  </div>
   {% if episode.img_small %}
-  <div style="max-width:45%">
+  {#<div style="max-width:45%">#}
+  <div style="grid-column: 3">
     <a href="{{url_for('episode', date=episode.key)}}">
       <img class="lazy" data-src="{{episode.img_small}}" alt="{{ episode.title }}"/>
     </a>
   </div>
   {% endif %}
-  </div>
   {% endfor %}
+  </div>
 </div>
 <script>
 var lazyLoadInstance = new LazyLoad({
