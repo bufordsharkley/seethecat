@@ -905,7 +905,6 @@ episodes:
      pub_datetime: '2020-07-08T17:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-07-03.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-07-03-small.png
-
    - title: "Stopping the Evictions, with Shanti Singh"
      description: >
        We're in the midst of an eviction crisis in the danger of getting much,
@@ -919,3 +918,16 @@ episodes:
      pub_datetime: '2020-07-24T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-07-23.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-07-23-small.png
+   - title: "Chris Beiser on Administration Markets, Bureaucracies, and Interoperability"
+     description: >
+       Chris Beiser is back to talk about his <a
+       href="http://gravitylobby.club/administrationmarkets.html">recent article
+       on Administration Markets</a>; we talk what this means for the
+       bureaucracies we see all around us. Topics covered: structured competition
+       in South Korea, Estonian e-residency, automation, railroad standards, Zume
+       pizza, railroad standards, city planning, and the role for risk and debt
+       during the COVID crisis.
+     air_datetime: '2020-08-13T09:00:00'
+     pub_datetime: '2020-08-18T12:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2020-08-13.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2020-08-13-small.png
