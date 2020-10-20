@@ -967,3 +967,14 @@ episodes:
      pub_datetime: '2020-10-02T11:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-10-01.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-10-01-small.png
+   - title: "The 2020 Voter Guide Ep, feat. Angie Evans and Jordan Grimes of Peninsula for Everyone"
+     description: >
+       It's election time! We have on Angie Evans and Jordan Grimes of
+       Peninsula for Everyone to talk about each of the roughly 1,000 city
+       council elections up and down the peninsula, local and statewide ballot
+       measures... as well as discursions into the weird and woolly world of
+       housing.
+     air_datetime: '2020-10-15T09:00:00'
+     pub_datetime: '2020-10-20T13:30:00'
+     url: http://media.mgm.ink/hgp/hgp-2020-10-15.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2020-10-15-small.png
