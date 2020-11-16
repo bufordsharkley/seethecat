@@ -1001,3 +1001,14 @@ episodes:
      pub_datetime: '2020-11-09T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-11-05.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-11-05-small.png
+   - title: "The 2020 Election Recap Episode, with Darrell Owens"
+     description: >
+       It's been a painful election in many ways (Prop 15 losing, Prop 22
+       winning), and local races were a mixed bag. Darrell Owens of East Bay
+       for Everyone is one to give a post-mortem. For obvious reasons, we get
+       to talking about municipal annexation, vacancy rate controversies, and
+       value capture.
+     air_datetime: '2020-11-12T09:00:00'
+     pub_datetime: '2020-11-16T14:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2020-11-12.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2020-11-12-small.png
