@@ -1034,3 +1034,14 @@ episodes:
      pub_datetime: '2020-12-21T15:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-12-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-12-17-small.png
+   - title: "Debunking Palo Alto's Think Tank, with Stan Oklobdzija"
+     description: >
+       The Embarcadero Institute is a think tank based in Palo Alto, producing
+       slick-looking white papers about how California doesn't need so much
+       housing, actually. Stan Oklobdzija, research director for CA YIMBY, is
+       on to pick apart the claims these papers make. We talk shop on headship
+       rates, RHNA adjustments, derpy quadratic fits, and much more.
+     air_datetime: '2021-02-25T09:00:00'
+     pub_datetime: '2021-03-02T12:30:00'
+     url: http://media.mgm.ink/hgp/hgp-2021-02-25.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2021-02-25-small.png
