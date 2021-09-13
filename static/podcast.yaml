@@ -1168,3 +1168,15 @@ episodes:
      pub_datetime: '2021-09-02T15:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-09-02.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-09-02-small.png
+   - title: "Darrell Owens on Housing Legislation Updates, and Vacancy Rates"
+     description: >
+       Darrell Owens is back to talk about the 2021 legislative wins (SB8, SB9, SB10)
+       and losses (AB1401); and also to discuss <a
+       href="https://darrellowens.substack.com/p/vacant-nuance-in-the-vacant-housing">the
+       debut article on his new Substack </a>; what do we talk about when we
+       talk about vacancies?
+     air_datetime: '2021-09-09T09:00:00'
+     pub_datetime: '2021-09-13T16:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2021-09-09.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2021-09-09-small.png
+
