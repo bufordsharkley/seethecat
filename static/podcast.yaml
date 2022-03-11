@@ -1240,3 +1240,17 @@ episodes:
      pub_datetime: '2022-01-19T02:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-01-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-01-13-small.png
+   - title: "Social Housing: The Why & The How, with Derek Sagehorn"
+     description: >
+       Derek Sagehorn is the author of East Bay for Everyone's 2021 paper <a
+       href="http://socialhousingforeveryone.org">California Housing Corporation:
+       The Case for a Public Developer</a>, and is here to take about the overall
+       case for a public houser as a way to create a more robust, equitable, and
+       efficient housing industry, as well as new legislation taking up the issue:
+       Alex Lee's AB2053 (<a href="http://californiasocialhousing.org">californiasocialhousing.org</a>).
+       We also get into some talk about UC Berkeley's CEQA woes: how can we make
+       environmental law work better?
+     air_datetime: '2022-03-10T09:00:00'
+     pub_datetime: '2022-03-10T06:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2022-03-10.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2022-03-10-small.png
