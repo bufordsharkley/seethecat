@@ -1264,3 +1264,14 @@ episodes:
      pub_datetime: '2022-04-07T18:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-04-07.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-04-07-small.png
+   - title: "Lars Doucet on Real-Life Data and the Land Value Tax"
+     description: >
+       Lars Doucet authored <a href="https://gameofrent.com/">three exciting
+       papers on the empirics of the land value tax</a> and is here to
+       talk about what he's learned, some of the controversies that have
+       cropped up over some of the studies, and the future of using data
+       to implement LVT in as rigorous a way as possible.
+     air_datetime: '2022-04-21T09:00:00'
+     pub_datetime: '2022-04-21T17:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2022-04-21.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2022-04-21-small.png
