@@ -1275,3 +1275,17 @@ episodes:
      pub_datetime: '2022-04-21T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-04-21.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-04-21-small.png
+   - title: "Andrew Crockett on Modernizing the Santa Clara County Assessor's Office"
+     description: >
+       Andrew Crockett is the challenger to SCC assessor (and hgp bête noire)
+       Larry Stone, and is promising to focus on housing, competence, and
+       honesty as part of a modernization campaign. He's previously worked in
+       the office, and talks both about what sorts of changes he can bring to
+       the office within the constraints of Prop 13, etc, as well as some
+       nuts-and-bolts explanation of the office's work.
+     air_datetime: '2022-05-05T09:00:00'
+     pub_datetime: '2022-05-10T14:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2022-05-05.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2022-05-05-small.png
+
+
