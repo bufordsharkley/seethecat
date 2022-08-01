@@ -1287,5 +1287,15 @@ episodes:
      pub_datetime: '2022-05-10T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-05-05.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-05-05-small.png
-
+   - title: "Inflation, Housing, Volatility, Legitimacy, with Colin Drumm"
+     description: >
+       Colin Drumm (author of <a
+       href="https://drive.google.com/file/d/1IZy2o238Ef3zOIfI724dt95UqookVe0b/view">a
+       fascinating dissertation on the history and theory of money and
+       legitimacy</a>) is here to talk about inflation indices and housing,
+       and what it means for largely issues of equality, governance, and far more.
+     air_datetime: '2022-07-25T09:00:00'
+     pub_datetime: '2022-08-01T16:30:00'
+     url: http://media.mgm.ink/hgp/hgp-2022-07-25.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2022-07-25-small.png
 
