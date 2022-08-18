@@ -1298,4 +1298,14 @@ episodes:
      pub_datetime: '2022-08-01T16:30:00'
      url: http://media.mgm.ink/hgp/hgp-2022-07-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-07-25-small.png
-
+   - title: "Cameron Murray on Australia, Landbanking, Public Housing"
+     description: >
+       Cameron Murray is an Australian economist with critiques of the common
+       conceptions of how development takes place, generally disregarding the
+       role of developers to landbank. We dig into the details here, talk about
+       the promise of public housing (but also the political challenges), and
+       dig into controversies over his discussion of "supply crisis myths"
+     air_datetime: '2022-08-11T09:00:00'
+     pub_datetime: '2022-08-18T14:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2022-08-11.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2022-08-11-small.png
