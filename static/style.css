@@ -76,7 +76,33 @@ div.vertical_centering {
 div.epdescriptiondescription {
   margin-top: 1.4em;
   margin-left: .8em;
+}
 
+div.epdescriptionguests {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  margin-top: 1em;
+}
+
+div.epdescriptionguest {
+  border: 2px solid blue;
+  box-shadow: 5px 5px 3px #5555;
+  background-color: #3333;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: .2em;
+  padding-bottom: .2em;
+  margin-right: 1em;
+}
+
+div.epdescriptionguests a {
+  text-decoration: none;
+}
+
+div.epdescriptionguests a:hover {
+  text-decoration: underline overline;
 }
 
 table.subscribe {

@@ -44,6 +44,14 @@ def episode(date):
     return flask.render_template('episode.html', episode=eps[date], hideblurb=True)
 
 
+@app.route('/guest/<name>.html')
+def guest(name):
+    eps = get_eps()
+    eps = {k: v for k, v in eps.items() if v['guests'] is not None
+           and name in v['guests']}
+    return flask.render_template('episodes.html', episodes=eps)
+
+
 @app.route('/playlist.html')
 def playlist():
     podcast = yaml.load(app.open_resource('static/podcast.yaml'), Loader=yaml.Loader)

@@ -18,6 +18,7 @@ episodes:
      pub_datetime: '2017-04-11T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-11.mp3
      audio size: 96351459
+     guests: Edward Miller
    - title: "Zoltan Istvan: Funding a UBI"
      description: >
        Zoltan Istvan ran for President on the Transhumanist party, and is now
@@ -29,6 +30,7 @@ episodes:
      pub_datetime: '2017-04-18T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-04-18.mp3
      audio size: 96351459
+     guests: Zoltan Istvan
    - title: "Introduction to Georgism with Kedar"
      description: >
        Kedar and Mark have a conversation about Georgism, Prop 13, and why this
@@ -38,6 +40,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-04-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-04-25-small.png
      audio size: 96351459
+     guests: Kedar
    - title: "James Hughes: Technoprogressivism"
      description: >
        We featured the libertarian transhumanist perspective of Zoltan Istvan a
@@ -50,6 +53,7 @@ episodes:
      img_small: http://media.mgm.ink/hgp/hgp-2017-05-02-small.png
      img_info: "adapted from https://en.wikipedia.org/wiki/James_Hughes_(sociologist)#/media/File:James_Hughes.jpg)"
      audio size: 96351459
+     guests: James Hughes
    - title: "Corey Smith of SFHAC"
      description: >
        Corey Smith of the San Francisco Housing Action Coalition talks about
@@ -61,6 +65,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-05-09.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-05-09-small.png
      audio size: 96351459
+     guests: Corey Smith
    - title: "Economy of Cities with Kedar"
      description: >
        Kedar is back to talk about mobility. We have depressed economies and
@@ -69,6 +74,7 @@ episodes:
      pub_datetime: '2017-05-16T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-05-16.mp3
      audio size: 96351459
+     guests: Kedar
    - title: "Nic Tideman on the Rognlie/Piketty controversy"
      description: >
        Tomas Piketty showed that accumulation of capital was driving modern
@@ -81,6 +87,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-05-23.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-05-23-small.png
      audio size: 96351459
+     guests: Nic Tideman
    - title: "Stephen Barton and the Berkeley Landlord Tax"
      description: >
        Last November, Berkeley passed Measure U1, nicknamed the "Landlord Tax."
@@ -93,6 +100,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-05-30.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-05-30-small.png
      audio size: 96351459
+     guests: Stephen Barton
    - title: "James Howard Kunstler vs Sprawl"
      description: >
        We talk to James Howard Kunstler, who has long been a voice railing
@@ -103,6 +111,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-06-06.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-06-06-small.png
      audio size: 96351459
+     guests: James Howard Kunstler
    - title: "Jeff Andrade-Fong and Josh Vincent on Influencing Housing Policy"
      description: >
        Jeff Andrade-Fong works with Tech for Housing to bring attention to tech
@@ -114,6 +123,7 @@ episodes:
      pub_datetime: '2017-06-13T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-13.mp3
      audio size: 96351459
+     guests: Jeff Andrade-Fong, Josh Vincent
    - title: "James K. Galbraith on inequality"
      description: >
        James K. Galbraith has produced a deep catalogue of books; in his recent
@@ -123,6 +133,7 @@ episodes:
      pub_datetime: '2017-06-20T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-20.mp3
      audio size: 96351459
+     guests: James K. Galbraith
    - title: "SF Supervisor Katy Tang and Home-SF"
      description: >
        Katy Tang represents the Sunset on the SF Board of Supervisors, and has
@@ -133,6 +144,7 @@ episodes:
      pub_datetime: '2017-06-27T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-06-27.mp3
      audio size: 96351459
+     guests: Katy Tang
    - title: "Victoria Fierce on socialism and housing"
      description: >
        Victoria Fierce works for (pro-housing) East Bay Forward. Victoria
@@ -144,6 +156,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-07-04.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-07-04-small.png
      audio size: 96351459
+     guests: Victoria Fierce
    - title: "Jack Miller on SCOTUS, Prop 13, and rationalized injustice"
      description: >
        Let's head back to the early nineties―Prop 13 was upheld by the U.S.
@@ -152,12 +165,12 @@ episodes:
        barnburner about the injustice in the decision</a>. We have Jack Miller
        on to talk about the jurisprudence of fair taxes, the importance of
        Horizontal Equity, and how this all came together in Nordlinger v Hahn.
-
      air_datetime: '2017-07-11T10:00:00'
      pub_datetime: '2017-07-11T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-11.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-07-11-small.png
      audio size: 96351459
+     guests: Jack Miller
    - title: "Steve Omohundro on AI Risk, Human Values, and Decentralized Resource Sharing"
      description: >
        Steve Omohundro shares plans for creating provably correct protections
@@ -169,6 +182,7 @@ episodes:
      pub_datetime: '2017-07-18T10:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-07-18.mp3
      audio size: 96351459
+     guests: Steve Omohundro
    - title: "Alvin Roth on Designing Markets"
      description: >
        2012 Nobelist and Stanford professor Alvin Roth has saved lives by
@@ -181,6 +195,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-07-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-07-25-small.png
      audio size: 96351459
+     guests: Alvin Roth
    - title: "Matt Krisiloff on Y Combinator, Basic Income, and LVT on the United Slate"
      description: >
        We have Matt Krisiloff of YC Research to talk about the Basic Income
@@ -193,6 +208,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-08-01.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-08-01-small.png
      audio size: 96351459
+     guests: Matt Krisiloff, Kedar
    - title: "Alan Joyce on the land economics of Eve Online and Second Life"
      description: >
        Alan Joyce (co-host of Earful of Convoy and Earful of Cocktail) comes on
@@ -205,6 +221,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-09-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-09-12-small.png
      audio size: 96351459
+     guests: Alan Joyce
    - title: "Price gouging, rationing, and the morality of transactions"
      description: >
        A roundtable discussion on how the issue of critical goods (water, food,
@@ -216,6 +233,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-09-26.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-09-26-small.png
      audio size: 96351459
+     guests:
    - title: "Diego Aguilar-Canabal on Disaster and Inequity in Puerto Rico"
      description: >
        Diego Aguilar-Canabal (of East Bay Forward) isn't here to talk about housing,
@@ -226,6 +244,7 @@ episodes:
      pub_datetime: '2017-10-06T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-10-06.mp3
      audio size: 96351459
+     guests: Diego Aguilar-Canabal
    - title: "Connecticut Talk with Real-Life Connecticutian Kedar"
      description: >
        Kedar gives us the scoop about urban and surburban development in
@@ -238,6 +257,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-10-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-10-13-small.png
      audio size: 96351459
+     guests: Kedar
    - title: "Roundtable on Fairness and Idealism"
      description: >
        Mark and Jake start off talking about Esperanto for 20 seconds, and then
@@ -247,6 +267,7 @@ episodes:
      pub_datetime: '2017-10-20T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-10-20.mp3
      audio size: 96351459
+     guests:
    - title: "Sarah Thomas on Catholicism and The Condition of Labor"
      description: >
        We talk about 19th century beefs in the Catholic church, the
@@ -257,6 +278,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-10-27.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-10-27-small.png
      audio size: 96351459
+     guests: Sarah Thomas
    - title: "Fed Chair Talk with Edward Miller"
      description: >
        In the lead-up to the Fed Chair decision, we talk the
@@ -267,6 +289,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-11-03.mp3
      audio size: 96351459
      img_small: http://media.mgm.ink/hgp/hgp-2017-11-03-small.png
+     guests: Edward Miller
    - title: "Max Kapczynski of Palo Alto Forward, of What People Can Do To Fix Housing"
      description: >
        What can someone do to make the housing situation better? That's the
@@ -279,6 +302,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2017-11-17.mp3
      audio size: 96351459
      img_small: http://media.mgm.ink/hgp/hgp-2017-11-17-small.png
+     guests: Max Kapczynski
    - title: "Christine Peterson of the Foresight Institute: Vision Week"
      description: >
        We talk positive and negative visions of the future with the founder of
@@ -289,6 +313,7 @@ episodes:
      pub_datetime: '2017-11-24T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-11-24.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-11-24-small.png
+     guests: Christine Peterson
    - title: "Congestion Taxes: Are They Regressive?"
      description: >
        Everybody talks about regressive taxes vs progressive taxes, and many
@@ -298,6 +323,7 @@ episodes:
      pub_datetime: '2017-12-08T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2017-12-08.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2017-12-08-small.png
+     guests:
    - title: "SB 827: Is it the Housing Fix California Needs?"
      description: >
        Max Kapczynski is back, and we're talking about Scott Weiner's SB 827,
@@ -308,6 +334,7 @@ episodes:
      pub_datetime: '2018-02-01T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-02-01.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-02-01-small.png
+     guests: Max Kapczynski
    - title: "Cecily Foote and Nani Friedman of Stanford's SCoPE 2035"
      description: >
        SCoPE 2035 (Stanford Coalition for Planning an Equitable 2035) is a
@@ -319,6 +346,7 @@ episodes:
      pub_datetime: '2018-02-08T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-02-08.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-02-08-small.png
+     guests: Cecily Foote, Nani Friedman, SCoPE
    - title: "Chris P. on the RV dwelling experience"
      description: >
        Chris P. of KZSU talks about the experience of living in an RV in
@@ -327,6 +355,7 @@ episodes:
      pub_datetime: '2018-03-08T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-03-08.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-03-08-small.png
+     guests: Chris P., Darlene Franklin
    - title: "Non-Profit Affordable Housing with Paul Leone"
      description: >
        Paul Leone of the non-profit Midpen Housing Corporation is on to talk
@@ -338,6 +367,7 @@ episodes:
      pub_datetime: '2018-03-15T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-03-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-03-15-small.png
+     guests: Paul Leone, Max Kapczynski
    - title: "Talking the PPP Social Housing Paper with Asn Ndiaye"
      description: >
        We talk with Asn Ndiaye about what leftist housing policy means, analyze
@@ -347,6 +377,7 @@ episodes:
      pub_datetime: '2018-04-12T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-04-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-04-12-small.png
+     guests: Asn Ndiaye
    - title: "The Palo Alto Process and the (Im)morality of Developers, with Max Kapczynski"
      description: >
        Max Kapczynski of Palo Alto Forward is back, to talk about recent
@@ -360,6 +391,7 @@ episodes:
      pub_datetime: '2018-04-19T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-04-19.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-04-19-small.png
+     guests: Max Kapczynski
    - title: "Dialogue with the Opposition, with Michael Goldman"
      description: >
        Michael Goldman is a councilperson for Sunnyvale City Council. We
@@ -372,6 +404,7 @@ episodes:
      pub_datetime: '2018-05-12T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-05-12-small.png
+     guests: Michael Goldman
    - title: "San Jose Housing and San Jose Budgets, with Asn Ndiaye"
      description: >
        San Jose is one of the few places in the Bay Area that has more housing
@@ -381,6 +414,7 @@ episodes:
      pub_datetime: '2018-05-17T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-05-17-small.png
+     guests: Asn Ndiaye
    - title: "Glen Weyl on Radical Markets: Uprooting Capitalism and Democracy for a Just Society"
      description: >
        Glen Weyl is a co-author of a new book dedicated to William Vickrey,
@@ -393,6 +427,7 @@ episodes:
      pub_datetime: '2018-05-24T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-24.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-05-24-small.png
+     guests: Glen Weyl
    - title: "Pastor Gregory Stevens on Palo Alto Hypocrisy and the Radical Leftist Vision of Christ"
      description: >
        Gregory Stevens was a pastor at Palo Alto First Baptist until a series
@@ -405,6 +440,7 @@ episodes:
      pub_datetime: '2018-05-31T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-05-31.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-05-31-small.png
+     guests: Gregory Stevens
    - title: "Richard Mehlinger on Sunnyvale: Corn Palace, Blue Bonnet, and weak protections for tenants"
      description: >
        We talk Sunnyvale with Richard Mehlinger of Livable Sunnyvale, and Max
@@ -420,6 +456,7 @@ episodes:
      pub_datetime: '2018-07-19T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-07-19.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-07-19-small.png
+     guests: Richard Mehlinger, Max Kapczynski
    - title: "Jordan Grimes on San Mateo's Housing Deficit and its Homeowner Anger"
      description: >
        Jordan Grimes is an activist for housing and transporation in San Mateo,
@@ -433,6 +470,7 @@ episodes:
      pub_datetime: '2018-08-02T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-08-02.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-08-02-small.png
+     guests: Jordan Grimes
    - title: "Simon McKenna a Moral Economy, and the Limitations of Appealing to Rights"
      description: >
        Simon McKenna, a member of the Henry George Foundation and a contributor to
@@ -444,6 +482,7 @@ episodes:
      pub_datetime: '2018-08-09T09:00:00'
      hidden: true
      url: http://media.mgm.ink/hgp/hgp-2018-08-09.mp3
+     guests: Simon McKenna
    - title: "The Cupertino Hyperloop, Value Capture, The President Hotel, with Max Kapczynski"
      description: >
        Max Kapczynski of Palo Alto Forward is back to talk about the eviction
@@ -455,6 +494,7 @@ episodes:
      pub_datetime: '2018-08-29T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-08-23.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-08-23-small.png
+     guests: Max Kapczynski
    - title: "Building Tenant Power, with Ollie Zhu"
      description: >
        Ollie Zhu is based out of San Jose, and is active in housing, through
@@ -467,6 +507,7 @@ episodes:
      pub_datetime: '2018-09-20T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-09-20.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-09-20-small.png
+     guests: Ollie Zhu
    - title: "Disney Parks and Land Value, with Alan Joyce"
      description: >
        What taxes *should* Disney parks owe, and to *whom* (considering that in
@@ -478,6 +519,7 @@ episodes:
      pub_datetime: '2018-09-27T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-09-27.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-09-27-small.png
+     guests: Alan Joyce
    - title: "Towards a Deeper Understanding of Rent Stabilization and Prop 10, with Yonathan Randolph"
      description: >
        Rent stabilization may seem simple, but as Yonathan Randolph lays out in his
@@ -491,6 +533,7 @@ episodes:
      pub_datetime: '2018-10-04T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-10-04.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-10-04-small.png
+     guests: Yonathan Randolph
    - title: "South Bay Election Talk, with Jason Uhlenkott of South Bay YIMBY and Max Kapczynski"
      description: >
        We cover city council elections in the major Santa Clara County cities,
@@ -502,6 +545,7 @@ episodes:
      pub_datetime: '2018-10-25T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-10-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-10-25-small.png
+     guests: Jason Uhlenkott, Max Kapczynski
    - title: "Off-The-Cuff Election Reactions, with Diego Aguilar-Canabal"
      description: >
        So, the election happened. Diego comes on the show (via a telephone
@@ -514,6 +558,7 @@ episodes:
      pub_datetime: '2018-11-08T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-11-08.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-11-08-small.png
+     guests: Diego Aguilar-Canabal
    - title: "Darrell Owens on the Housing Crisis in the East Bay"
      description: >
        Darrell Owens, housing advocate wunderkind travels from the East Bay to
@@ -525,6 +570,7 @@ episodes:
      pub_datetime: '2018-11-15T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-11-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-11-15-small.png
+     guests: Darrell Owens
    - title: "Max Kapczynski on \"Local Control\" and Exclusionary Suburbs"
      description: >
        Max is back on, and we talk about the grievance culture of those
@@ -535,6 +581,7 @@ episodes:
      pub_datetime: '2018-11-22T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-11-22.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-11-22-small.png
+     guests: Max Kapczynski
    - title: "Alex Schafran on \"The Road to Resegregation: Northern California and the Failure of Politics"
      description: >
        Alex Schafran discusses his new book, which is about the new style of
@@ -545,6 +592,7 @@ episodes:
      pub_datetime: '2018-12-06T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-12-06.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-12-06-small.png
+     guests: Alex Schafran
    - title: "Spotlite on Vancouver, with Jennifer Bradshaw"
      description: >
        Vancouver is a city with housing policies that are the dream of the Bay
@@ -559,6 +607,7 @@ episodes:
      pub_datetime: '2018-12-13T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2018-12-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2018-12-13-small.png
+     guests: Jennifer Bradshaw
    - title: "The Quaker New Economy project, with Olivia Hanks"
      description: >
        Quakers (The Religious Society of Friends) have for centuries combined a
@@ -572,6 +621,7 @@ episodes:
      pub_datetime: '2019-01-03T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-01-03.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-01-03-small.png
+     guests: Olivia Hanks
    - title: "Green New Deal for Whomst?, with Alex Baca"
      description: >
        Alex Baca has plenty to say about the shortcomings of the Green New Deal
@@ -584,6 +634,7 @@ episodes:
      pub_datetime: '2019-01-17T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-01-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-01-17-small.png
+     guests: Alex Baca, Ollie Zhu
    - title: "JR Fruen on building a wall around Cupertino"
      description: >
        We've talked Cupertino on the program before, but never with a native.... until now (!)
@@ -595,6 +646,7 @@ episodes:
      pub_datetime: '2019-02-14T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-02-14.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-02-14-small.png
+     guests: JR Fruen
    - title: "CASA Part I: The Facts, with Asn Ndiaye and Jordan Grimes"
      description: >
        The CASA Compact is the "grand bargain" that could transform housing and
@@ -605,6 +657,7 @@ episodes:
      pub_datetime: '2019-02-21T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-02-21.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-02-21-small.png
+     guests: Asn Ndiaye, Jordan Grimes
    - title: "CASA Part II: The Drama, with Asn Ndiaye and Jordan Grimes"
      description: >
        We continue the CASA talk by talking about the infighting, the
@@ -616,6 +669,7 @@ episodes:
      pub_datetime: '2019-02-28T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-02-28.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-02-28-small.png
+     guests: Asn Ndiaye, Jordan Grimes
    - title: "Georgism, Memes, and Ideology, with Chris Beiser"
      description: >
        Chris Beiser runs the facebook meme group "Georgist Memes for Land Value
@@ -628,6 +682,7 @@ episodes:
      pub_datetime: '2019-04-04T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-04-04.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-04-04-small.png
+     guests: Chris Beiser
    - title: "Holly Balcom on Portland Land-Use, Tenant Protections, and Land Taxes"
      description: >
        Holly Balcom tells us how, compared to the Bay Area, Portland, Oregon
@@ -641,6 +696,7 @@ episodes:
      pub_datetime: '2019-04-11T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-04-11.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-04-11-small.png
+     guests: Holly Balcom
    - title: "SCoPE 2035, Take Two"
      description: >
        It's been about a year since the Stanford land-use/housing justice
@@ -654,6 +710,7 @@ episodes:
      pub_datetime: '2019-04-25T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-04-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-04-25-small.png
+     guests: SCoPE
    - title: "Georgism vs Yimbyism Debate; Opponent Sonja Trauss"
      description: >
        What's mightier, redistributing land vs building more housing? Are these
@@ -667,6 +724,7 @@ episodes:
      pub_datetime: '2019-05-02T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-05-02.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-05-02-small.png
+     guests: Sonja Trauss
    - title: "Regional Activism, Gentrification, and Homelessness, with Sasha Perigo and Darrell Owens"
      description: >
        Sasha Perigo is co-chair of the Homelessness Working Group for SF DSA,
@@ -679,6 +737,7 @@ episodes:
      pub_datetime: '2019-05-09T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-05-09.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-05-09-small.png
+     guests: Sasha Perigo, Darrell Owens
    - title: "Lenny Siegel on Mountain View, Decades of Activism, and Progressive Housing, with some debate on local control with Pardis Beikzadeh and David Watson"
      description: >
        Lenny Siegel served on the Mountain View City Council from 2014-2018,
@@ -693,6 +752,7 @@ episodes:
      pub_datetime: '2019-05-30T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-05-30.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-05-30-small.png
+     guests: Lenny Siegel, Pardis Beikzadeh, David Watson
    - title: "SB50 on Ice (and WHAT Red/Brown alliance?) with Max Kapczynski"
      description: >
        SB50 is stalled for a year, but we recorded this *just* before, as we
@@ -703,6 +763,7 @@ episodes:
      pub_datetime: '2019-06-06T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-06-06.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-06-06-small.png
+     guests: Max Kapczynski
    - title: "Talkin' Highways and Inequality, with Clayton Nall and Alex Baca"
      description: >
        It's easy to take highway funding and construction as a natural and
@@ -716,6 +777,7 @@ episodes:
      pub_datetime: '2019-06-13T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-06-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-06-13-small.png
+     guests: Clayton Nall, Alex Baca
    - title: "On the Data for Progress housing paper and the Dem Prez Candidates, with Asn Ndiaye and Ollie Zhu"
      description: >
        Talking politics, both with the exciting new white paper with all the
@@ -725,6 +787,7 @@ episodes:
      pub_datetime: '2019-06-27T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-06-27.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-06-27-small.png
+     guests: Asn Ndiaye, Ollie Zhu
    - title: "On Having a Cupertino Planning Commissioner Threaten to Get You Fired, Local Democracy, and Free Speech, with Richard Mehlinger"
      description: >
        Ray Wang, a Cupertino planning commissioner, threatened to get Richard
@@ -735,6 +798,7 @@ episodes:
      pub_datetime: '2019-07-04T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-07-04.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-07-04-small.png
+     guests: Richard Mehlinger
    - title: "Article 34: How California Made Public Housing Illegal, with Diego Aguilar-Canabal and Jordan Grimes"
      description: >
        Diego Aguilar-Canabal comes on the show to speak on <a
@@ -750,6 +814,7 @@ episodes:
      pub_datetime: '2019-07-18T09:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-07-18.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-07-18-small.png
+     guests: Diego Aguilar-Canabal, Jordan Grimes
    - title: "Book Club: \"The Power Broker\" by Robert Caro (with Max Kapczynski)"
      description: >
        The legendary book about a fatal love of highways, the drive for land
@@ -758,6 +823,7 @@ episodes:
      pub_datetime: '2019-08-22T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-08-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-08-15-small.png
+     guests: Max Kapczynski
    - title: "Landownership in Ag, the Myths of Family Farms, and Sustainability, with Sarah Taber"
      description: >
        Does landownership matter in agriculture? Turns out it does! Crop
@@ -771,6 +837,7 @@ episodes:
      pub_datetime: '2019-09-17T13:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-09-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-09-17-small.png
+     guests: Sarah Taber
    - title: "Kelsey Banes on Housing Activism and Homeless Services in Palo Alto"
      description: >
        Kelsey Banes is a leading voice for housing production in Palo Alto,
@@ -782,6 +849,7 @@ episodes:
      pub_datetime: '2019-10-03T13:30:00'
      url: http://media.mgm.ink/hgp/hgp-2019-10-03.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-10-03-small.png
+     guests: Kelsey Banes
    - title: "Alex Nunez on Mountain View: RV Bans vs Anti-Displacement Policy"
      description: >
        Alex Nunez is a housing equity advocate for Cafecito and the Housing
@@ -792,6 +860,7 @@ episodes:
      pub_datetime: '2019-10-11T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-10-10.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-10-10-small.png
+     guests: Alex Nunez
    - title: "San Francisco: A Material Analysis of Its Disspiriting Politics, with Max Kapczynski"
      description: >
        San Francisco is cursed, and leaves everybody with a no-win decision between lacklustre "progressives" and incrementalist moderates. Why is this so, and what can be done about it? We use material analysis to learn more. Chatter about the November election.
@@ -799,6 +868,7 @@ episodes:
      pub_datetime: '2019-11-05T11:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-10-31.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-10-31-small.png
+     guests: Max Kapczynski
    - title: "Talkin' Prop 13 Split Roll (Schools & Communities First), with Derek Sagehorn"
      description: >
        Derek Sagehorn (of East Bay for Everyone) has been raising awareness for
@@ -812,6 +882,7 @@ episodes:
      pub_datetime: '2019-11-19T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-11-14.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-11-14-small.png
+     guests: Derek Sagehorn
    - title: "President Hotel Updates and Palo Alto Tenant Union history, with Roberta Ahlquist and Jeff Levinsky"
      description: >
        Roberta Ahlquist (of Women's International League for Peace and Freedom)
@@ -823,6 +894,7 @@ episodes:
      pub_datetime: '2019-12-02T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2019-11-28.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2019-11-28-small.png
+     guests: Roberta Ahlquist, Jeff Levinsky
    - title: "State-wide Rent Cap/Just Cause, Local Urgency Ordinances, with Stasha Powell and Jordan Grimes"
      description: >
        Sacramento passed state-wide protections to limit rent increases and
@@ -836,6 +908,7 @@ episodes:
      pub_datetime: '2020-01-31T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-01-30.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-01-30-small.png
+     guests: Stasha Powell, Jordan Grimes
    - title: "Victoria Fierce on the RHNA Methodology Committee, Dem Central Committee, and Anarchism"
      description: >
        Victoria Fierce tells all about what it's like to serve on the RHNA
@@ -845,6 +918,7 @@ episodes:
      pub_datetime: '2020-03-16T13:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-03-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-03-12-small.png
+     guests: Victoria Fierce
    - title: "Talkin' Monetary Theory, with Emil Guliyev (pre-virus)"
      description: >
        Discussing MMT, other currency theories, and more, with some focus on
@@ -854,6 +928,7 @@ episodes:
      pub_datetime: '2020-03-23T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-03-19.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-03-19-small.png
+     guests: Emil Guliyev
    - title: "Redistributing the COVID pain, with Darrell, Derek, and Diego"
      description: >
        Coronavirus is throwing the housing world upside-down; we talk to
@@ -865,6 +940,7 @@ episodes:
      pub_datetime: '2020-04-18T18:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-04-16.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-04-16-small.png
+     guests: Darrell Owens, Derek Sagehorn, Diego Aguilar-Canabal
    - title: "Monica Mallon on Improving Transit, Before the Virus and After"
      description: >
        Monica Mallon is a SJSU student and transit advocate, active in the
@@ -875,6 +951,7 @@ episodes:
      pub_datetime: '2020-04-27T14:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-04-23.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-04-23-small.png
+     guests: Monica Mallon
    - title: "Asn Ndiaye and Ollie Zhu on Municipal Insolvency, Looming Austerity"
      description: >
        COVID has nuked tax receipts, and cities are hurting; what patterns do
@@ -884,6 +961,7 @@ episodes:
      pub_datetime: '2020-06-03T11:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-05-28.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-05-28-small.png
+     guests: Asn Ndiaye, Ollie Zhu
    - title: "Crafting Municipal-Level Public Housing Policy, with Laksh Bhasin"
      description: >
        Laksh Bhasin (of the SF Berniecrats) is a co-author of the SF Community
@@ -896,6 +974,7 @@ episodes:
      pub_datetime: '2020-06-19T13:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-06-18.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-06-18-small.png
+     guests: Laksh Bhasin
    - title: "SF: Still Cursed, with Max Kapczynski"
      description: >
        Max and I check in with San Francisco, in the aftermath of COVID, and
@@ -905,6 +984,7 @@ episodes:
      pub_datetime: '2020-07-08T17:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-07-03.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-07-03-small.png
+     guests: Max Kapczynski
    - title: "Stopping the Evictions, with Shanti Singh"
      description: >
        We're in the midst of an eviction crisis in the danger of getting much,
@@ -918,6 +998,7 @@ episodes:
      pub_datetime: '2020-07-24T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-07-23.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-07-23-small.png
+     guests: Shanti Singh
    - title: "Chris Beiser on Administration Markets, Bureaucracies, and Interoperability"
      description: >
        Chris Beiser is back to talk about his <a
@@ -931,6 +1012,7 @@ episodes:
      pub_datetime: '2020-08-18T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-08-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-08-13-small.png
+     guests: Chris Beiser
    - title: "Inside the NIMBY Mind, with Jordan Grimes"
      description: >
        Jordan Grimes has been live-tweeting Livable California calls over the
@@ -944,6 +1026,7 @@ episodes:
      pub_datetime: '2020-09-03T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-09-03.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-09-03-small.png
+     guests: Jordan Grimes
    - title: "Darrell Owens on Streets for All, and Depolicing Traffic"
      description: >
        Darrell Owens of East Bay for Everyone is back, and answering the big
@@ -956,6 +1039,7 @@ episodes:
      pub_datetime: '2020-09-17T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-09-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-09-17-small.png
+     guests: Darrell Owens
    - title: "John Lashlee on a Democratic Socialist Platform for Mountain View City Council"
      description: >
        John Lashlee is running for Mountain View City Council on a Democratic
@@ -967,6 +1051,7 @@ episodes:
      pub_datetime: '2020-10-02T11:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-10-01.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-10-01-small.png
+     guests: John Lashlee
    - title: "The 2020 Voter Guide Ep, feat. Angie Evans and Jordan Grimes of Peninsula for Everyone"
      description: >
        It's election time! We have on Angie Evans and Jordan Grimes of
@@ -978,6 +1063,7 @@ episodes:
      pub_datetime: '2020-10-20T13:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-10-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-10-15-small.png
+     guests: Angie Evans, Jordan Grimes
    - title: "On the SD-15 Race, Prop 22, and Transit, with Natasha Cougoule and Monica Mallon"
      description: >
        There's one wild race in the South Bay for the state senate, in which
@@ -991,6 +1077,7 @@ episodes:
      pub_datetime: '2020-10-26T14:30:00'
      url: http://media.mgm.ink/hgp/hgp-2020-10-22.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-10-22-small.png
+     guests: Natasha Cougoule, Monica Mallon
    - title: "Eviction Crisis Update: Things Got Worse, with Shanti Singh"
      description: >
        We check back with Shanti Singh of Tenants Together to find out about
@@ -1001,6 +1088,7 @@ episodes:
      pub_datetime: '2020-11-09T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-11-05.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-11-05-small.png
+     guests: Shanti Singh
    - title: "The 2020 Election Recap Episode, with Darrell Owens"
      description: >
        It's been a painful election in many ways (Prop 15 losing, Prop 22
@@ -1012,6 +1100,7 @@ episodes:
      pub_datetime: '2020-11-16T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-11-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-11-12-small.png
+     guests: Darrell Owens
    - title: "Palo Alto's Private Park, and the \"Residentialist\" Ideology"
      description: >
        Palo Alto has a large park that has a unique ban on non-residents.
@@ -1024,6 +1113,7 @@ episodes:
      pub_datetime: '2020-12-11T13:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-12-10.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-12-10-small.png
+     guests: Cory Wolbach
    - title: "Aloha Homes: Importing Singapore-style Public Housing"
      description: >
        Senator Stanley Chang is here from Hawaii to talk about Aloha Homes, a
@@ -1034,6 +1124,7 @@ episodes:
      pub_datetime: '2020-12-21T15:00:00'
      url: http://media.mgm.ink/hgp/hgp-2020-12-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2020-12-17-small.png
+     guests: Stanley Chang
    - title: "Debunking Palo Alto's Think Tank, with Stan Oklobdzija"
      description: >
        The Embarcadero Institute is a think tank based in Palo Alto, producing
@@ -1045,6 +1136,7 @@ episodes:
      pub_datetime: '2021-03-02T12:30:00'
      url: http://media.mgm.ink/hgp/hgp-2021-02-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-02-25-small.png
+     guests: Stan Oklobdzija
    - title: "McDonalds: A Landowning Corporation, with Alan Joyce"
      description: >
        We finally talk about McDonald's, and the big business of landowning with 
@@ -1058,6 +1150,7 @@ episodes:
      pub_datetime: '2021-03-10T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-03-04.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-03-04-small.png
+     guests: Alan Joyce
    - title: "Ma'ayan Dembo on Alternatives to Policing on Transit"
      description: >
        Ma’ayan Dembo, formerly of KZSU fame, is back on the airwaves to share her
@@ -1071,6 +1164,7 @@ episodes:
      pub_datetime: '2021-03-31T13:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-03-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-03-25-small.png
+     guests: Ma'ayan Dembo
    - title: "Shane Phillips on The Affordable City & Rethinking Homeownership"
      description: >
        Shane Phillips of the UCLA Lewis Center is on to talk about his <a
@@ -1085,6 +1179,7 @@ episodes:
      pub_datetime: '2021-04-16T15:30:00'
      url: http://media.mgm.ink/hgp/hgp-2021-04-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-04-15-small.png
+     guests: Shane Phillips
    - title: "Culver City Mayor Alex Fisch on Value Capture, and Posting"
      description: >
        Alex Fisch is the mayor of Culver City, and a powerful poster on
@@ -1097,6 +1192,7 @@ episodes:
      pub_datetime: '2021-06-02T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-05-27.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-05-27-small.png
+     guests: Alex Fisch
    - title: "Value Capture for Transit: Past and Future, with Derek Sagehorn"
      description: >
        Derek Sagehorn of East Bay for Everyone and Common Ground California is
@@ -1111,6 +1207,7 @@ episodes:
      pub_datetime: '2021-06-16T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-06-17.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-06-17-small.png
+     guests: Derek Sagehorn
    - title: "Social Housing and Public Housing in Vancouver, with Jennifer Bradshaw"
      description: >
        Jennifer Bradshaw is a housing activist in Vancouver, and is here to talk
@@ -1121,6 +1218,7 @@ episodes:
      pub_datetime: '2021-06-29T12:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-06-24.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-06-24-small.png
+     guests: Jennifer Bradshaw
    - title: "A Freeway Revolt in Downey, with Alex Contreras"
      description: >
        Alex Contreras is from Downey, CA (southeast LA County), which is facing
@@ -1131,6 +1229,7 @@ episodes:
      pub_datetime: '2021-07-06T14:30:00'
      url: http://media.mgm.ink/hgp/hgp-2021-07-01.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-07-01-small.png
+     guests: Alex Contreras
    - title: "California Landlord Bailout ... Now What? with Shanti Singh"
      description: >
        While moratoria expires federally, California has one more go-round of
@@ -1142,6 +1241,7 @@ episodes:
      pub_datetime: '2021-08-02T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-07-29.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-07-29-small.png
+     guests: Shanti Singh
    - title: "Rohin Ghosh on Peninsula Non-Profits, and Youth Perspective in Palo Alto"
      description: >
        Rohin Ghosh was a high-schooler in Palo Alto just a few months ago, but
@@ -1155,6 +1255,7 @@ episodes:
      pub_datetime: '2021-08-26T16:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-08-26.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-08-26-small.png
+     guests: Rohin Ghosh
    - title: "Georgism and Upzoning Debate; Opponent Patrick Condon"
      description: >
        Patrick Condon, Vancouver-based urban design professor, published <a
@@ -1168,6 +1269,7 @@ episodes:
      pub_datetime: '2021-09-02T15:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-09-02.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-09-02-small.png
+     guests: Patrick Condon
    - title: "Darrell Owens on Housing Legislation Updates, and Vacancy Rates"
      description: >
        Darrell Owens is back to talk about the 2021 legislative wins (SB8, SB9, SB10)
@@ -1179,6 +1281,7 @@ episodes:
      pub_datetime: '2021-09-13T16:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-09-09.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-09-09-small.png
+     guests: Darrell Owens
    - title: "Paul Williams on Public Housing, Social REITs, and Administrative Capacity"
      description: >
        Paul Williams has <a
@@ -1191,6 +1294,7 @@ episodes:
      pub_datetime: '2021-09-21T15:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-09-16.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-09-16-small.png
+     guests: Paul Williams
    - title: 'Gene Slater on "Freedom to Discriminate: How Realtors Conspired to Segregate Housing and Divide America"'
      description: >
        Gene Slater's new book is the secret history of Realtors, their role in
@@ -1203,6 +1307,7 @@ episodes:
      pub_datetime: '2021-10-28T16:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-10-28.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-10-28-small.png
+     guests: Gene Slater
    - title: "Illegal Housing Elements and Placeworks's Empire of Corruption, with Josh Albrektson"
      description: >
        Josh Albrektson of South Pasadena talks about his work fighting against
@@ -1215,6 +1320,7 @@ episodes:
      pub_datetime: '2021-11-23T15:30:00'
      url: http://media.mgm.ink/hgp/hgp-2021-11-18.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-11-18-small.png
+     guests: Josh Albrektson
    - title: "It's a Wonderful Life: A Georgist Analysis"
      description: >
        "It's a Wonderful Life" (1946, Frank Capra) is a Christmas classic, but
@@ -1226,6 +1332,7 @@ episodes:
      pub_datetime: '2021-12-20T16:00:00'
      url: http://media.mgm.ink/hgp/hgp-2021-12-16.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-12-16-small.png
+     guests:
    - title: "Parking, Value Capture, & Pretextual Planning with Michael Manville"
      description: >
        California nearly toppled minimum parking laws last year, and will
@@ -1240,6 +1347,7 @@ episodes:
      pub_datetime: '2022-01-19T02:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-01-13.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-01-13-small.png
+     guests: Michael Manville
    - title: "Social Housing: The Why & The How, with Derek Sagehorn"
      description: >
        Derek Sagehorn is the author of East Bay for Everyone's 2021 paper <a
@@ -1254,6 +1362,7 @@ episodes:
      pub_datetime: '2022-03-10T06:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-03-10.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-03-10-small.png
+     guests: Derek Sagehorn
    - title: "Baseball and Real Estate Speculation, with Alan Joyce"
      description: >
        Alan Joyce is back on to talk about the San Diego Padres, how Joan Kroc was
@@ -1264,6 +1373,7 @@ episodes:
      pub_datetime: '2022-04-07T18:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-04-07.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-04-07-small.png
+     guests: Alan Joyce
    - title: "Lars Doucet on Real-Life Data and the Land Value Tax"
      description: >
        Lars Doucet authored <a href="https://gameofrent.com/">three exciting
@@ -1275,6 +1385,7 @@ episodes:
      pub_datetime: '2022-04-21T17:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-04-21.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-04-21-small.png
+     guests: Lars Doucet
    - title: "Andrew Crockett on Modernizing the Santa Clara County Assessor's Office"
      description: >
        Andrew Crockett is the challenger to SCC assessor (and hgp bête noire)
@@ -1287,6 +1398,7 @@ episodes:
      pub_datetime: '2022-05-10T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-05-05.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-05-05-small.png
+     guests: Andrew Crockett
    - title: "Inflation, Housing, Volatility, Legitimacy, with Colin Drumm"
      description: >
        Colin Drumm (author of <a
@@ -1298,6 +1410,7 @@ episodes:
      pub_datetime: '2022-08-01T16:30:00'
      url: http://media.mgm.ink/hgp/hgp-2022-07-25.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-07-25-small.png
+     guests: Colin Drumm
    - title: "Cameron Murray on Australia, Landbanking, Public Housing"
      description: >
        Cameron Murray is an Australian economist with critiques of the common
@@ -1309,3 +1422,4 @@ episodes:
      pub_datetime: '2022-08-18T14:00:00'
      url: http://media.mgm.ink/hgp/hgp-2022-08-11.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-08-11-small.png
+     guests: Cameron Murray

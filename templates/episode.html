@@ -97,5 +97,16 @@
     <div class="epdescriptiondescription">{{episode.description | safe}}</div>
     <p><br/></p>
   </div>
+  {% if episode.guests %}
+  <div class="epdescriptionguests">
+    {% for guest in episode.guests.split(", ") %}
+    <a href="/guest/{{guest}}.html">
+      <div class="epdescriptionguest">
+        {{guest}}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
 </div>
 {% endblock %}
