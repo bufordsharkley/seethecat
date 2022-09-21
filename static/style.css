@@ -97,8 +97,9 @@ div.epdescriptionguest {
   margin-right: 1em;
 }
 
-div.epdescriptionguests a {
+div.epdescriptionguests a, a:visited {
   text-decoration: none;
+  color: blue;
 }
 
 div.epdescriptionguests a:hover {
