@@ -1445,3 +1445,11 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2022-09-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-09-15-small.png
      guests: Theresa O'Connor
+   - title: "2022-10-27: Donald Shoup"
+     description: >
+       Donald Shoup is here to talk about parking.
+     air_datetime: '2022-10-27T09:00:00'
+     pub_datetime: '2022-11-02T14:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2022-10-27.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2022-10-27-small.png
+     guests: Donald Shoup
