@@ -95,6 +95,18 @@
   <div class="eppagedescription">
     <span class="eptitle">{{ episode.title }}</span><span class="epdate">{{ episode.air_datetime.strftime('%Y-%m-%d') }}</span>
     <div class="epdescriptiondescription">{{episode.description | safe}}</div>
+    {% if episode.guests == "Josh Junker" -%}
+    <div class="epdescriptiondescription">
+      <h6>Recommended books on Cincinnati Transportation:</h6>
+      <ul>
+        <li>The Railroad and the City: A Technological and Urbanistic History of Cincinnati; Carl Condit, 1977 (Ohio State University Press)
+        <li> Cincinnati's Incomplete Subway: The Complete History; Jacob R. Mecklenborg, 2010 (History Press)
+        <li>Cincinnati Streetcars (Volumes 1-10); Wagner & Wright 1968-1997 (Wagner Car Press)
+        <li> Boss Cox's Cincinnati: Urban Politics in the Progressive Era; Zane Miller, 1970 (University of Michigan Press)
+        <li>The Louisville, Cincinnati & Charleston Rail Road: Dreams of Linking North and South; H. Roger Grant, 2014 (Indiana University Press)
+      </ul>
+    </div>
+    {%- endif %}
     <p><br/></p>
   </div>
   {% if episode.guests %}
