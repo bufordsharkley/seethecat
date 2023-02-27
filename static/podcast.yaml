@@ -1465,3 +1465,17 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2022-12-01.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2022-12-01-small.png
      guests: Josh Junker
+   - title: "On the Aesthetics and Economics of Vertical Shared Access/Single Stair Reform, with Ed Mendoza"
+     description: >
+       Everybody is talking about single stair reform AKA vertical shared access
+       AKA point access blocks AKA skinny apartments etc etc etc... what's the big deal?
+       Ed Mendoza of the Livable Communities Initiative is here to explain what it's all
+       about, including a deeper dive about how it alleviates concerns over safety, etc,
+       and what the costs of land assembly premiums are today. (<a
+       href="https://www.aeaweb.org/articles?id=10.1257/pol.20130399">Link to
+       an article on land assembly mentioned in the ep</a>)
+     air_datetime: '2023-02-23T09:00:00'
+     pub_datetime: '2023-02-27T14:30:00'
+     url: http://media.mgm.ink/hgp/hgp-2023-02-23.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2023-02-23-small.png
+     guests: Ed Mendoza
