@@ -1479,3 +1479,13 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2023-02-23.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2023-02-23-small.png
      guests: Ed Mendoza
+   - title: "NYC + PROPERTY TAX"
+     description: >
+       New York City (famous city) is also famous for having notoriously screwy property
+       taxes; we talk about the details of this convoluted system, how we got here, and
+       how people are trying to make the system more equitable.
+     air_datetime: '2023-05-11T09:00:00'
+     pub_datetime: '2023-05-16T15:30:00'
+     url: http://media.mgm.ink/hgp/hgp-2023-05-11.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2023-05-11-small.png
+     guests:
