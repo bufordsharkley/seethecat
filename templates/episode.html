@@ -107,6 +107,11 @@
       </ul>
     </div>
     {%- endif %}
+    {% if episode.transcript -%}
+    <div class="epdescriptiondescription">
+      <a href="{{episode.transcript}}" target="_blank">Transcript for episode</a>
+    </div>
+    {%- endif %}
     <p><br/></p>
   </div>
   {% if episode.guests %}

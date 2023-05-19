@@ -1270,6 +1270,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2021-09-02.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2021-09-02-small.png
      guests: Patrick Condon
+     transcript: '/static/transcripts/2021-09-02.txt'
    - title: "Darrell Owens on Housing Legislation Updates, and Vacancy Rates"
      description: >
        Darrell Owens is back to talk about the 2021 legislative wins (SB8, SB9, SB10)
