@@ -1490,3 +1490,4 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2023-05-11.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2023-05-11-small.png
      guests:
+     transcript: '/static/transcripts/2023-05-11.txt'

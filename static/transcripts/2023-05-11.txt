@@ -1,0 +1,1181 @@
+                        MGM:
+KZSU Stanford, 90.1 FM. I'm Mark Mollineaux. This is the Henry George
+Program, a show all about land, policy, and politics. Today on the
+program, we have a spotlight on a city we've yet to cover, a very big
+one, very notable one, New York City; located in the State of New
+York. We have on a very well informed guest to go into an excruciating
+deep dive into the complicated world of property taxes in New York,
+talk about the history that got us here and the reforms that are
+looking at making some changes, as well as a spotlight on the rest of
+the greater world of New York City housing issues. One final before we
+get into it. This was recorded late last year and delayed for various
+technical reasons. So when we're referring to this year, it's 2022 and
+not 2023. Please bear with that, and with no further ado, yeah, let's
+just get to it. So, Bobby, thanks so much for being here.
+
+                       Bobby:
+Ho ho ho. Happy to be here. Thank you.
+
+                        MGM:
+Yeah. So I met you for the first time this summer. I was in New York
+City for the first time in a while. Congrats for being in the only
+real city in the United States. And we were meeting up with some other
+housing folks based in New York City, and the two of us, for whatever
+reason, start talking about property taxes in New York City for like,
+a couple of hours. And there's a lot it's fascinating, and you seem to
+really be interested, so I feel like it would be good to bring you
+back in and talk about some more.
+
+                       Bobby:
+Yeah, right on. Happy to be here. I've actually never participated in
+any property tax related political advocacy here in New York. But,
+yeah, I really did just start reading about it one day and it was
+intriguing to me. But I am involved in some housing advocacy, mostly
+through Open New York, and I'm also an urban planning student at
+Hunter College, part of the City University of New York. I've done a
+little bit of research on property taxes in an academic setting, but
+yeah, that was a good conversation. I had a great time. We were in
+Bushwick. You remember we were in Bushwick, right?
+
+                        MGM:
+Yeah, absolutely. Drinking Miller High Lives in Bushwick. It's the
+real life. But yeah, I guess the thing about it, you sent me a lot of
+information, and there is no shortage of information you can read
+about property tax in New York, but the more you read there is just
+so, like, it gets more and more and more complicated. There's like
+hours and hours of videos of Equalization Board people talking about
+it; but I think the more you realize, you can get lost in the weeds of
+New York City property taxes. And my conclusion is that's the point,
+it's supposed to just overwhelm you with all this kind of nonsense.
+And the real point in the end is like, what's the impact? If you're
+going to specify in the end what is the main impact of the New York
+City property tax regime?
+
+                       Bobby:
+Yeah, I can discuss some of the consequences. There's a few primary
+consequences. One is that the property tax system is highly
+inequitable in that owners of high value properties, residential
+properties, tend to pay the lowest effective tax rates. People tend to
+be higher income, they tend to be wealthier. Owners of lower value
+properties who tend to be lower income and non white tend to pay the
+highest effective tax rates in the city. That's one consequence is
+inequities between residential property owners and then there are
+inequities between different property tax classes. So there's four
+property tax classes in New York. Class one is a residential category
+for properties that contain one to three units. There's class two,
+which is another residential category for buildings that contain four
+or more units. That includes both multifamily rental and multifamily
+owner occupied housing. So condominiums, but also cooperative. And
+there's class three, which is utilities. And don't ask me to elaborate
+on class three because I don't really know much about that.
+
+                        MGM:
+Yeah, it doesn't matter that much.
+
+                       Bobby:
+And then class four is commercial properties. New York City's
+Department of Finance publishes statutory nominal tax rates for all
+these categories. But really those official tax rates are completely
+meaningless because the Department of Finance uses fundamentally
+different assessment methods for determining the assessed value. So
+for example, class one, those properties that can name one to three
+residential units, the Department of Finance uses a sales based
+methodology to arrive at the market value. And then they apply an
+assessment ratio of 6% to arrive at the assessed value. And from
+there, there may be exemptions that are applied to the assessed value
+to reduce the taxable value and then abatements actually reduce the
+taxes. And then in class two, class two uses an income capitalization
+method, as does class three and class four. And so rental buildings in
+class two submit what's called a Real Property Income and Expense
+statement, which is used to determine the net operating income for
+these buildings. And then the Department of Finance applies a
+capitalization rate to the net operating income to arrive at a market
+value. And then the Department of Finance applies a 45% assessment
+ratio to arrive at the assessed value. And you'll note that class two
+properties includes condos, co-ops and rental buildings. But it's only
+the rental buildings that are submitting these RPIEs, the real
+Property Income and expense statements. But there's a state law that
+forces the Department of Finance to assess condos and co-ops if they
+were income generating rental buildings. And so what the Department of
+Finance does is they create these hypothetical property values for
+condos and co ops by identifying what they consider to be comparable
+rental buildings.
+
+                        MGM:
+Yeah, in general, like owners equivalent rent or something is like
+that's a legitimate approach. It just seems they do a really bad job
+of it in the end.
+
+                       Bobby:
+They do a very bad job of it. Yeah.
+
+                        MGM:
+In the end. The general takeaway I see it's like it's on the order of,
+like 0.6% to 0.8% is condos versus rental buildings. So somewhere on
+the verge of like two thirds or three quarters, it's just a bigger
+burden for rental units.
+
+                       Bobby:
+Exactly. Yeah. And the consequence of that is that it disincentivizes
+rental housing production in the city, which constrains the city's
+overall housing supply and contributes to the affordability crisis
+here.
+
+                        MGM:
+Yeah. Really big picture, the process. You see this in a lot of
+places, a whole, like, fractional assessment, which is just instead of
+saying you assess it, then you put our tax rate, instead you say you
+assess it, then you take a fraction of it, and then you do a tax rate
+on that. And what can vary? Question one is, like, why would anyone
+ever do that? Because you're just multiplying two numbers. Why not
+just have one number? Obfuscation may be the point, but in some of the
+documents you're sending I was just talking about you before we went
+on mic, but I was looking at the history of it, and basically up until
+the 70s, all of New York State said, we don't do fractional
+assessment. Here. You take the market assessment, end of story. You
+take a tax rate. But in practice, up through the 70s, everyone was
+just de facto doing fractional assessments, so they were just thumbing
+their nose at state law. And I think very broadly, what is the reason
+for that? It's because landowners homeowners, it's very convenient if
+you kind of grease the wheels and give them a nice, basically discount
+across the board. It's very popular for tax assessors to have their
+home voters get a nice break. And what's really fascinating is there's
+this weirdo, this guy who was an Upper West Side dude, but he and his
+wife owned a place over in Fire Island, and even though he started a
+lawsuit to say, I'm being undertaxed, and he said, "My interest is
+mainly curious, I don't expect the layman to understand my
+motivations." But he started suing the town of Islip for undertaxing
+his resident because, like, residents there because they were not
+doing full market assessment. And in the end, I mean, just to sum up
+the story, the Appeals Court of New York agreed with him, and they
+said, okay, yeah, you actually have to follow the state laws. And this
+became a massive panic because this would mean homeowners, especially
+in New York City, would suddenly get this incredibly high increase in
+the taxes they pay. So New York City‒ or the entire state, but New
+York City‒ was driving it. They fixed the bug by saying, no, we
+actually will have fractional assessments, and it's going to have all
+these different classes, and really, in the end, we're going to make
+it preferential to homeowners. So they fix that problem.
+
+                       Bobby:
+Yeah, totally. The property tax class system came out of that lawsuit
+in the city of New York, but also assessed value growth caps came out
+of that as well, which applies to those Class One properties. So those
+small residential, those small residential properties, one to three
+units, assessed value, the assessed value of those properties can't
+increase more than 6% annually or can't increase more than 20% over a
+five year period. That's why you see so much inequity amongst
+homeowners in that category. Why homeowners in Park Slope, one of the
+wealthiest neighborhoods in the city, or West Village, also one of the
+wealthiest neighborhoods in the city, pay an effective tax rate of
+0.1%, 0.2%, whereas homeowners in South Shore, Staten Island, or in
+the South Bronx, eastern Queens maybe pay upwards of 1% ten times the
+effective tax rate.
+
+                        MGM:
+Yeah, in general, I think that's kind of everyone knows about Prop 13
+in California, but the fact that New York City has its own effective
+Prop 13, I mean, the 20% over five years, if you uncompound that,
+that's 3.7% a year, which is not as bad as the 2% out here. But in
+time, I'm pretty sure that the real estate values in New York City are
+going up much more than 4% a year. So if that continues to hold,
+that's just going to make this same kind of aristocracy of longtime
+landowners. And yeah, as you were saying earlier, there's general
+inequities over who is paying what. And a big thing is where; you're
+sending some documents that were showing the distribution of effective
+tax rates. And basically it's a similar story to what you see in a lot
+of different cities, which is just marginal land, kind of lower income
+people living out in the sticks relatively are paying higher rates,
+and people in the city core are paying lower rates. So Manhattan has a
+lot less than you have out in Queens and everywhere. So that's not
+ideal, but it seems to be exactly the point.
+
+                       Bobby:
+Yeah, absolutely. I have a question about Prop 13. Upon ownership
+changes in California, do assessed values reset to market values?
+
+                        MGM:
+Okay, so, yeah, that's actually a great follow up question for you.
+So, yeah, in California, they reset every time it's sold. Also, every
+time, if you do a major renovation, at least the improvements, they'll
+reassess that. If it's a major renovation as opposed to Measure 5 in
+Oregon, never resets, even if it passes hands. So is New York City's.
+Thing about the cap is that based on the property or the owner? yeah.
+
+                       Bobby:
+So it's based on the property, it does not reset.
+
+                        MGM:
+Interesting.
+
+                       Bobby:
+However, those assessed value growth caps, 6% annual cap or the 20%
+every five years, that only applies to increases in land values. So
+improvements, renovations, and so on are not capped by the assessed
+value growth caps.
+
+                        MGM:
+Of course it's not. Yeah, in general, a lot of people agitating there
+are property tax abatements for improvements and everything, but it
+seems like it's done in kind of goofy ways. It doesn't seem like it
+really and it expired earlier this year, but more or less it's part of
+a big scheme of it's almost sort of like a density bonus where they're
+trying to get inclusionary zoning benefits for subsidized affordable
+housing by allowing a property tax abatement for 35 years. Just across
+the board. They have different rules on whether it's below 92nd Street
+in Manhattan or out in the area. And it seems like more or less people
+are complaining that people are doing, I guess I would call it
+geographic arbitrage of you find out the places that the subsidized
+rate, which is 130% AMI, if the AMI is broader, which it sounds like
+it kind of is more or less, it's not very localized. So if you go out
+to the sticks, you can basically have the, quote unquote, affordable
+housing, which is the same raised in market units you'd buy. So
+everyone's just kind of using this provision to sense everyone to
+basically build out sprawl instead of doing kind of building in the
+core of the city. So it seems just really badly designed across the
+board.
+
+                       Bobby:
+Yeah, I think that's correct. Yeah, that's your current 421A tax
+abatement, which was initially created in the 1970s, it did not
+stipulate affordability requirements. It was introduced as a way to
+encourage housing growth amidst New York City's economic decline and
+fiscal crisis in the 1970s. And since then, I think maybe not until
+the 90s or the 2000s, those affordability requirements were included.
+But yeah, you're right. Except in Manhattan core, most of the
+inclusionary units in those enforcement A buildings are 130% AMI. And
+oftentimes the rents in those income restricted units are not that
+much lower than in market rate units. And right now, there's a lot of
+chatter about how many vacant rent stabilized units there are in New
+York City. There's a lot of conflicting reporting on this, but I've
+seen anywhere from like 40,000 to 90,000 vacant rent stabilized units
+in the city. And I think a lot of those are actually 421A income
+restricted units because all 421A units have to be registered with the
+state as rent stabilized units, even though they're built after 1974.
+Most rent stabilized units are rent stabilized in New York because
+they're built before 1974 and because they are in buildings with six
+or more rental units. But 421A units within 421A buildings are also
+subject to rent stabilization.
+
+                        MGM:
+Just the ones, like, all of them, or just the ones that basically are
+the 20% or whatever? yeah.
+
+                       Bobby:
+So I think in in the recent iteration of 421A, which was which was
+renewed under Cuomo I can't remember when 2016 or 2017, both the
+income restricted and the non income restricted units are subject to
+rent stabilization.
+
+                        MGM:
+Interesting.
+
+                       Bobby:
+So I think a lot of these empty, rent stabilized units that these
+media outlets are reporting on are actually in these 421 A buildings
+and are particularly the income restricted units, because developers
+or the new owners of those buildings are having a hard time filling
+those 130% AMI units because the rents are probably about the same as
+the market rate units. But it's a real pain in the ass to get an
+inclusionary unit in New York. You have to go through the lottery.
+
+                        MGM:
+And there's steps, big queues. You're mentioning it's a disincentive
+all across the board on building rentals as opposed to condos and co
+ops. But do rentals still get built? Because in a place like
+Vancouver, which is famous for the fact they build like 99%, condos,
+like rentals just don't get built there. But even with this, do new
+rentals get built?
+
+                       Bobby:
+Yeah. Yes. And since 421A lapsed in June of this year, rental housing
+starts have declined substantially. I was trying to get the exact data
+on that, but I couldn't really find it. It's hard to find, but it is
+my understanding that rental housing production starts have declined a
+lot since 421A lapsed. And there are now sites in the city that are
+just not being developed. Like in many cases, sites that would have
+been developed as multifamily, privately financed rental housing
+through 421A could alternatively be constructed, could be developed as
+condominiums or as 100% affordable housing because there are different
+tax exemptions, property exemptions that exist for 100% affordable
+housing that are still in effect. But even when 421A was in effect,
+the city was only netting about 15,000 to 20,000 new housing units
+annually. And not all those are rentals, but the majority were
+definitely rentals. And I think pretty much every multifamily rental
+building with maybe more than 10, 20 units used 421A before it lapsed.
+Yeah. So it certainly had an effect on rental housing production
+figures. It's not the only factor at play. I mean, zoning is obviously
+a key factor. New York City has pretty restrictive zoning, given how
+high demand of a city it is. There's funky things with building code
+regulations here that are particularly restrictive and also constrain
+housing development, but we don't need to get into the weeds in that.
+
+                        MGM:
+Yeah, I think it is interesting, though, what is the point of these
+abatements? And you'd say that there's a precedent. I think back in
+the 1910s, they called the Al Smith Act‒ I think it was a statewide
+thing‒ of just basically it was as opposed to all these kind of weird,
+kind of very fussy details. I believe it was just kind of across the
+board. I think it said for ten years, no taxes on improvements, which
+I think they built a lot more housing. And at that time, the idea is
+like, we need to build a lot more housing in New York City, et cetera.
+And the question is, is the general idea we need to build a lot more
+housing in New York City? Because I feel like probably for a lot of
+the discourse, the idea is like, no we don't. But I guess the answer
+is, do they? And where I'm very far away, I know about the fights
+over, like, Soho and all this, but the idea like New York, a lot of
+people would say, oh, New York is already dense, it's built out, but
+it seems like that's not a rule across the board.
+
+                       Bobby:
+Yeah, certainly there are low density neighborhoods within New York,
+and 15% of New York City's land mass is still zoned exclusively for
+single family homes. And then a larger percentage is zoned exclusively
+for pretty low density missing middle housing, especially if you look
+the metro.
+
+                        MGM:
+Area because I mean, the city itself. But really the big chunk of Long
+Island really is New York City and New Jersey. Connecticut, my dad's
+side of the family is from Hempstead, and all that.
+
+                       Bobby:
+Right.
+
+                        MGM:
+There's no reason that shouldn't be part of New York City.
+
+                       Bobby:
+Oh, yeah, ridiculous. Yeah. Nassau county and Suffolk County and Long
+Island. I think those counties do consistently report some of the
+lowest housing production figures in the whole country. Jersey is a
+lot better. Westchester County is to some extent as well, but Nassau
+and Suffolk County produce virtually no housing, much less per capita
+even than the city of New York in general.
+
+                        MGM:
+I think we're seeing a lot of as far as trying to get different
+jurisdictions to do their fair share. Like, California has a lot of
+state intervention. Is there any chance of New York City pushing
+towards trying to I mean, I could dream of just annexing all of Long
+Island in New York City, but at least trying to use Albany to make it
+do a better job. Is that in the cards or does that seem plausible?
+
+                       Bobby:
+Yeah, it seems like a political possibility in this upcoming
+legislative session. So the governor, the current governor, Kathy
+Hochul, who replaced Andrew Cuomo after he resigned, he did propose
+some statewide zoning reforms during the last fiscal year's, budget
+for the state. But because of political opposition on Long Island, all
+of those zoning reform provisions were removed from the budget. And
+they weren't particularly radical proposals. I mean, one was just an
+adu preemption law that would have applied statewide, permitted one,
+maybe up to two adu's per residential lot in certain cases. And then
+there was what was called a transit oriented development tod zoning
+reform that would have permitted, it would have compelled
+municipalities that are serviced by Long Island Railroad and Metro
+North Railroad towns within Suffolk, Norfolk, Westchester Counties,
+and I guess some other upstate counties like Putnam and Duchess
+County.
+
+                        MGM:
+What kind of radius from stations?
+
+                       Bobby:
+Yeah, I think it was a half mile.
+
+                        MGM:
+Okay.
+
+                       Bobby:
+Either a quarter mile or a half mile. And those municipalities would
+have been compelled to zone for up to 25 dwelling units per acre
+surrounding those commuter rail stations okay. From the budget
+proposal as well, due to political opposition.
+
+                        MGM:
+Yeah, well, it sounds like it's starting to like yeah, I mean, a lot
+of that resembles the kind of reforms in California. So it sounds like
+kind of people are kind of reaching towards the same stuff. Even if
+that got scheduled, it's in the air, so that's interesting.
+
+                       Bobby:
+Yeah, for sure. There was a proposal to establish, like, a New York
+equivalent of 40B, which 40B is in Massachusetts. That is essentially
+a builder's remedy legislation.
+
+                        MGM:
+Nice.
+
+                       Bobby:
+For towns that have not met their affordable housing requirements, it
+would set affordable housing production targets for each municipality
+in the state. And for municipalities that don't hit those targets,
+their zoning powers will be stripped. So kind of similar to what's
+happening in Santa Monica and Beverly Hills and I guess other cities
+in Southern California right now.
+
+                        MGM:
+Yeah. What's interesting to me is just like, New York City is New York
+City, and it's so weird to me that so much of the politics seem like
+just the kind of dumb stuff you'd see in a small town of just like,
+oh, yeah, the homeowners rule the roost. It's like when I see stuff
+like, oh, yeah, homeowners control, New York City tax policy and stuff
+like, I mean, it's an unrelated issue nominally, but like, congestion
+taxes for cars. No one but freaks would drive a car in Manhattan, but
+they can't do congestion taxes because these weird freaks just still
+act like it's an average suburb or something. And it's so strange to
+me that a place where it's like, yeah, renters have a heavy majority
+of the population, and the built form is obviously not, like some kind
+of dumb suburb, but you still have there isn't the political power to
+say, let's stop bending over backwards to basically serve these petite
+and large landowners in this area.
+
+                       Bobby:
+Yeah, 70% of New Yorkers live in rental households. Yeah, you're
+totally right. Homeowners dominate tax policy and certainly
+transportation policy as well.
+
+                        MGM:
+Yeah, just in general, I guess the very broad what is the discourse?
+How is it addressed there? Because it feels like from afar, it seems
+like most places, New York City is no exception. When there is, like,
+you're not basically developing the core or the periphery. If it's
+kind of stagnant, it's just basically you get this pressure cooker and
+things get more and more expensive. And how is it relieved? It's
+relieved through paths of gentrification, you start to spread out
+like, oh, yeah, we can kind of displace without really changing very
+much. Let's snake out through Brooklyn, probably up through Queens
+next and everything. And that's the whole path of everything becoming
+unaffordable. And I suppose it seems pretty obvious. It's like you
+need to do something to relieve this pressure, but it's very easy to
+kind of just say, "oh, nothing can be done. We're already built out;
+any sort of change is going to harm people", but it just feels like
+the status quo is pretty nasty and I don't know, does the status quo
+seem like it's imperiled or is it just still this whole thing of like,
+the only thing everyone can agree on is not to do anything?
+
+                       Bobby:
+Yeah, I would say that there's more hope at the level of at the state
+government level than the municipal level in New York in terms of land
+use and zoning reform. Yeah, I don't have a lot of hope. A lot of
+people I know are more optimistic about municipal zoning reforms than
+I am. I really think that the state needs to intervene and just
+preempt local zoning in a lot of cases.
+
+                        MGM:
+But is it right to say that the battleground is if you don't do
+anything, it's gentrifying up through Queens?
+
+                       Bobby:
+Yeah, there are already neighborhoods in Queens that are gentrifying.
+I live in Ridgewood, which is on the border with Bushwick, and
+Ridgewood is certainly a rapidly gentrifying neighborhood. And Astoria
+as well, which is across the East River from the Upper East Side and
+Sunnyside, Long Island City, although Long Island City is an
+interesting case because it was a formerly industrial neighborhood
+that was rezoned in the early 2000s to high density residential use.
+It's a high income neighborhood. It's a higher income neighborhood now
+than it used to be, but no one used to live there prior to the 2000s,
+really. But a lot of the housing production in Long Island City has
+probably absorbed demand that would have otherwise manifested in
+displacement and gentrification in neighborhoods like Astoria,
+Sunnyside, Woodside. And that has long been the growth in zoning
+policies that the city of New York has pursued. These really tightly
+constrained neighborhood rezonings, especially in formerly industrial
+neighborhoods where there's less NIMBYism to contend with because
+there are simply fewer residents. That was kind of similar with
+downtown Brooklyn and the Williamsburg waterfront to other
+neighborhoods that have shouldered a lot of housing development and
+are surrounded by neighborhoods, some very wealthy neighborhoods that
+haven't experienced any housing production in decades at this point.
+
+                        MGM:
+Yeah, I don't want to kind of get in the weeds too much on just like
+zoning, zoning, zoning; insofar as just very broadly. I mean, that's
+just one aspect. I mean, it's a big aspect. How do you shape the city?
+What is the general commuting flows look like? How can you expand
+transit? I mean, that's what's so sad, too. They aren't building new
+subways like they used to, but on top of it yeah, I guess the question
+too is just kind of like, what does it look like for controlling the
+resources of the city and everything? I hear a lot. I mean, I realize
+it's kind of out of the scope of this about, like, NYCHA, the public
+housing becoming disinvested, selling off assets and resources. There
+isn't a ton of basically publicly controlled land, but that's the
+whole thing. Just very broadly, new York City is just like, multiple
+trillions of dollars of land value in the city. So if the city just
+used that for public good, there's a lot to go around, but instead it
+tends to flow to private hands. And is there any real hope of either
+through property tax reform to tap into that or more direct public
+ownership or whatever? Because you sent, like, there's, like a
+document advisory report about, you know, simplifying, modernizing New
+York City's property tax system. And, like, just in general, it seems
+like they said, okay, let's try to have more horizontal equity. But a
+lot of it is like, let's make sure we have homeowners have ability to
+pay, so let's have more homeowner relief. I don't know. It doesn't
+seem like this is even in the right direction of the reform they need.
+
+                       Bobby:
+Yeah. And that was also a revenue neutral proposal.
+
+                        MGM:
+Yeah.
+
+                       Bobby:
+It would change how the assessments are performed. It would abolish
+the fractional assessments and abolish the growth cap, which I would
+certainly support, but then it would in turn reduce the property tax
+rates that are applied to the market values of those properties. And
+that reform also wouldn't relieve rental housing from its
+disproportionate property tax burden as well. I still support that
+reform, I think, even though I agree that if it's.
+
+                        MGM:
+A step in the right direction, I can agree. It just seems a little bit
+maybe.
+
+                       Bobby:
+Underwhelming, but certainly it's underwhelming. Yeah.
+
+                        MGM:
+Is this likely to move ahead or what's the politics look like?
+
+                       Bobby:
+I don't think it's likely to move ahead. I'm a pretty pessimistic
+person in this regard, at least not for now. It's not going to move
+ahead. It requires state authorization. New York City doesn't really
+have a lot of municipal control over its tax policies. New York City
+can increase or decrease its nominal property tax rates, but the
+municipality can't reform the actual property tax structure. They
+can't change the assessment practices without state authorization. It
+requires state enabling legislation. And as far as I can tell, there's
+no real appetite amongst state politicians to enable those kinds of
+reforms.
+
+                        MGM:
+Well, how often does stuff like because back in that original
+Hellerstein case, back in the 70s, he was complaining, like, yeah,
+they increased the tax rate, but they never reassess it. Like he said,
+for 25 years, they didn't reassess it. He was being assessed for
+$13,000, and then only a quarter of that was a fraction. But stuff is
+selling for $45,000 by that point. But just in general, throughout New
+York City, how often does reassessment happen?
+
+                       Bobby:
+I'm not sure. The Department of Finance, like the reports that the
+Department of Finance publishes, suggest that reassessments happen
+annually, but yeah, I'm not entirely sure. I don't know a lot about
+how the Department of Finance operates, to be quite honest. All of New
+York City governance tends to be crowded in many layers of mystery and
+secrecy. But. I think the Department of Finance is maybe the biggest
+culprit in that regard.
+
+                        MGM:
+Yeah, I have to work there to.
+
+                       Bobby:
+Understand how that agency functions and how their assessment
+practices function.
+
+                        MGM:
+Yeah, all these documents are kind of saying it's like, oh, yeah, they
+have all these processes that are not public. It's a weird dark magic.
+In the end, to restate the point, as I said, the valuation: effective
+tax rate on condos and rentals was 0.58% and 0.82%. In California,
+everyone kind of rises to the top of the Prop 13 limit, which is 1%.
+This is well below 1%, which is that's pretty pathetic, and just
+especially when you're talking about the value you can get in New York
+City that they're leaving all this money on the table.
+
+                       Bobby:
+Yeah, absolutely. I think there's about $1.7 trillion worth of land
+value in Manhattan alone, so a few trillion dollars worth of land
+value in the entire city? Yeah, I think yeah. New York City certainly
+doesn't utilize property taxation well as a revenue source. Property
+taxes account for about 30% of New York City's municipal revenues,
+which is actually a lower percentage than a lot of other
+municipalities in the US. And there's a few reasons for that. Part of
+that is New York City just imposes a pretty diverse array of taxes
+that other municipalities don't impose. Like there's a municipal sales
+tax in New York, there's also municipal income tax in New York. And
+then part of it also is that a lot of federal funding flows through
+the city government. The city administers a lot of federally funded
+social programs that are typically administered by state governments.
+But yeah, in the end, property taxes only account for 30% of the
+city's municipal revenues, which is about $30 billion, about $100
+billion expense budget in New York City currently.
+
+                        MGM:
+It's a lot easier to pass some sort of municipal sales tax and I guess
+try to claw it back from the property owners.
+
+                       Bobby:
+Yeah. And there are other real estate related taxes. Like there's a
+real estate transfer tax called Real Property Transfer Tax, and
+there's a mortgage recording tax, but they probably yield a couple of
+hundred million dollars, maybe close to a billion dollars between the
+two of them annually. But, yeah, you're definitely right. The city
+does not utilize property taxation efficiently. And you're also right
+that the reforms that were outlined in that document that I sent you
+would not actually yield any new revenue for the city. Yeah, I mean,
+it would make it would make property taxation slightly more equitable,
+which is laudable, of course.
+
+                        MGM:
+Yeah, there's one really dramatic chart in one of these documents you
+sent, which actually I don't know how to square it with some of the
+other information, but it's 50 largest cities, so the 50 largest
+cities in the US. Probably metros. I'm actually not sure. I mean,
+maybe it's cities looking at cities by apartment property taxes. New
+York City has the second highest of property taxes for apartments,
+which is 4% effective tax rate, which I don't know how that squares
+with the other place saying it was 0.82% effective tax rate on rentals
+in class two, but then it's second in apartments, but it is 44th in
+Homestead, property taxes 0.6%.
+
+                       Bobby:
+Right.
+
+                        MGM:
+So, I mean, it's just yeah, that's that's that's pretty nuts. And you
+can kind of, you know, you can just see across the board the same
+basic geographic stuff. To say another point, that there is no split
+rate taxes. So more or less the fact that it is applied on even cheap
+houses on the periphery, they're paying just a large amount. They're
+really squeezing folks on the edge just to not touch stuff. In
+Manhattan?
+
+                       Bobby:
+Yeah, in Manhattan. And at this point, a lot of core North Brooklyn
+neighborhoods as well. Those are actually‒ Park Slope, Cobble Hill,
+Clinton Hill neighborhoods kind of adjacent or in close proximity to
+downtown Brooklyn. It's homeowners in those neighborhoods that I
+think, on average, pay the lowest effective tax rates in the city.
+Yeah. Actually, DeBlasio, the former mayor, he lives in Parks Slope,
+and he talked about paying like $5,000 in annual property taxes on a
+$5, $6 million brownstone when he was mayor.
+
+                        MGM:
+Yeah, I think it says, like, Williamsburg. The district is
+Williamsburg and Bed Stuy and stuff down here in Brooklyn, that is the
+lowest. That's the lowest for homeowner percentage. But it's pretty
+basically just the richer areas pay the least is this way. This one
+map looks actually, speaking of, like, Park Slope and this whole area,
+that's like, one thing I never really kind of understood about. Co-ops
+are kind of a predominantly New York thing as far as you don't see
+them anywhere else. Was that because of some sort of advantage
+financially, or is this just kind of a cultural thing that basically
+it can't get started elsewhere, even though nominally it isn't
+exploding in New York tax or anything, but it's just, oh, this is the
+way we do it here. Do you know much about co-ops and why they tend to
+be it's a great question.
+
+                       Bobby:
+I don't really know a lot about co-ops in the history of co-ops at
+this point. It seems pretty cultural. I don't know if new co-ops are
+really constructed anymore. I think it's mostly condominiums in terms
+of multifamily owner occupied housing that is constructed. I don't
+know. It's a good question.
+
+                        MGM:
+Yeah, it seems like a lot of it had to do with kind of like buying out
+disinvested areas while New York City was kind of emptying out in the
+kind of fiscal crisis days. Seems to be at least some of it, but it
+preexisted. I don't know. I try to find some answers, but I really
+couldn't.
+
+                       Bobby:
+Yeah, it certainly is true that when a lot of properties, residential
+properties, fell into city ownership, were in-rem properties starting
+in the 1970s and through the lot of those properties did convert to
+cooperative ownership. I'm not sure if that phenomena accounts for I'm
+not sure what share of the overall amount of cooperative units that
+phenomena accounts for. And a lot of those co ops are subject to
+affordability requirements and receive separate different tax
+exemptions from the city government. And I just know that partly
+through my work, I work for an affordable housing municipal agency in
+New York. Otherwise, I don't know a lot about the history of co ops.
+They are distinctly New York phenomenon, though it feels great. I
+mean, there's like, kind of hippy dippy co ops in Santa Cruz or in
+Santa Barbara or whatever, but entirely different legal structure.
+
+                        MGM:
+Yeah, you get, like, stuff like Tenants-In-Common in places in
+California, San Francisco, but that seems to be more or less like kind
+of skirting around condo conversion rules. So they would be a condo,
+except they can't be. So it's all sorts of weird stuff. But as far as
+we were talking earlier about, they were using the tax abatements as a
+way to generate affordable housing to, at least in theory, remedy the
+long queues and the lack of affordable housing. As far as other
+approaches, do they have other tax or just like in general? What's
+your basic take on how it is doing as far as building enough
+subsidized units and what could it do to do more?
+
+                       Bobby:
+Well, I think 421A will probably be renewed under a different name.
+421A is very popular, or is very unpopular on the political left in
+New York, and that's why it lapsed, because it just didn't secure
+enough support in the legislature. There's a lot of more left-leaning
+politicians have won office in New York City, and they didn't even
+vote on it this year. They just let it lap. So I think 421A will be
+reformed and renewed under a new name with stricter affordability
+requirements. What I've heard is that it'll probably be renewed with
+the 25% overall affordability requirements. 10% of the units will be
+restricted at 40% AMI, another 10% at 60% AMI, and then 5% at 80% AMI
+versus the 30% at 130% AMI, which was the case under Cuomo's second
+term, like 2016 to 2021. I don't really see 421A as a good mechanism
+for producing subsidized housing. That's not really its utility, in my
+opinion. Its utility, in my opinion, is to really act as a Band Aid to
+inefficiencies of New York City's property tax system and to allow
+rental housing buildings to actually pencil. Whereas currently the
+property tax burden is so high on rental housing that new construction
+of rental housing just doesn't pencil out. Sites that would have been
+developed as rental housing are being developed as condominiums
+instead, which, on the net, I think is worse for affordability. But
+yeah, ideally all of these tax statements and exemptions are really
+obnoxious they're all bandaids creates a very Byzantine system that's
+impossible to navigate. And ideally, we would just enact deeper
+fundamental reforms to the property tax system and either eliminate
+property tax classes entirely or at least create tax parity between
+those property tax classes along with abolishing the assessed value
+growth caps and all these other mechanisms that generate inequalities.
+
+                        MGM:
+Yeah, it does seem like everyone the whole I guess the fight over 421A
+being good or bad has a lot to do. Are we getting enough affordability
+out of new development or do we need to restructure it? But the weird
+kind of implicit assumption in that is new development must pay a
+share. But longtime real estate owners, you're not clawing it back
+from them. It feels like they're just in the shadows saying it's like,
+oh yeah, don't look back here. We're benefiting from all this stuff.
+But as long as you don't see a crane or something, people kind of
+ignore the fact that there's just tremendous wealth in real estate
+that's just more invisible.
+
+                       Bobby:
+Yeah, absolutely. And that makes reforming the property tax regime in
+a fundamental manner really difficult because developers don't if
+developers can get their 421A tax exemption, that's all they really
+need. They don't really care about enacting more fundamental long term
+reforms. Right. They're going to sell those buildings before that
+exemption expires no matter what. Pretty much. And because the only
+other real constituents here are wealthy homeowners on the one hand
+and existing landlords. Right. Especially rent stabilized landlords.
+The only politicians that are really talking about property tax reform
+are those who represent homeowners in places like Staten Island or
+Eastern Queens. More conservative NIMBY homeowners. Those are the
+actually, the only Republican districts really in the city are in
+Staten Island and parts of Eastern Queens. Well, my council member is
+a Democrat, but he used to be a Republican. A lot of the left leaning
+state politicians who've recently been elected to office, they don't
+have any incentive to support fundamentally reform New York City's
+property taxes because the only constituents in their districts who
+care about property taxes are landlords. There's not many homeowners
+in their districts. There's at least not many homeowners in the
+districts who are harmed by the current arrangements. And yeah, for
+obvious reasons, you're not going to find that many left-leaning
+politicians who are sympathetic to landlord concerns, especially the
+concerns of rent stabilized landlords.
+
+                        MGM:
+Yeah, I suppose. Are you saying if you're in a place where there's
+vanishingly few normal homeowners, do they not listen to them? There's
+still people who are landowners in lower Manhattan even, but they're
+clearly very rich. But do they control their electorate
+representatives?
+
+                       Bobby:
+Yeah, those wealthy landowners wield a lot of political clout and they
+actively benefit from New York City property taxes. With the exception
+of a lot of commercial property owners, which is mostly composed of
+office space in New York, offices do actually pay really high
+effective tax rates, especially relative to owner occupied residences.
+And this is going to become a budgetary crisis whether or not
+politicians want to deal with it right now or not. Because the office
+occupancy rate is still below 50%, 46% I saw today, property values
+likely will fall for commercial buildings, and property tax
+collections from commercial buildings will probably start to fall over
+the next few years. And right now, between 40% to 50% of New York
+City's total property tax revenue is sourced from commercial
+buildings, mostly offices.
+
+                        MGM:
+Yeah, it's always much, much easier. And that's a big question. You
+see this in so many places. Are they going to reassess it down? Do
+they have the ability or inclination to reassess it down if it really
+is dropping in real terms as these leases become less attractive? Or
+are they going to keep it up? And then you might just see a lot of
+just de facto vacancies of people just don't want to own it if they're
+being overtaxed on it. I think it's like people want to keep their
+heads in the sand and say, oh, no, commercial will continue to be this
+golden goose, but I think that they're in the middle of a rude
+awakening one way or the other. Yeah, I agree, but I mean, it seems
+like a big, like the biggest problem in so many ways. It seems like
+the landless there's like a certain, like certain lack of class
+consciousness of like they're getting screwed and they don't seem to
+be able to get the political muscle to fight back against fairly small
+amount of very rich landowners and everything. But don't know. I don't
+know if like there's if there's any way they could really change. I'd
+say like in some, like the very abstract, you know, larger ideas of
+development patterns throughout the general metro area. No one's going
+to get worked up about that. And property tax are boring, so I don't
+know, it sounds like you're pretty much a pessimist in a lot of
+things. But do you think it's going to continue to be the case even
+when you do have such high renters as you do there?
+
+                       Bobby:
+Yeah, it's a good question. I'm not sure. I think that the tax
+inequities between the property tax classes, particularly between
+class one the small owners and class two multifamily owners, I don't
+think we're going to see fundamental reforms between those tax classes
+anytime soon. I think there is some political momentum to reform the
+assessment practices within the class One properties, like Abolishing,
+those assessed value growth caps. I think that's possible. I don't
+know when it will happen. I think that for now we're going to see a
+new iteration of 421A. It'll be called something different, 485W or
+something that will have stricter affordability requirements, which
+will appease some affordable housing advocates, some kind of the left
+NIMBY folks to an extent. I mean, they'll probably still oppose it,
+but it'll attenuate some of that opposition and hopefully in tandem
+with reforms and renewals to 421A, there will also be some broad based
+zoning and land use reforms as opposed to just site specific and
+neighborhood only rezonings, ideally at the state level. I think that
+is in pragmatic terms the most likely path forward towards
+facilitating greater affordability in New York for the time being. For
+the time being.
+
+                        MGM:
+Do you think I saw in one of it like they're talking about moving
+away, like the class two contains rentals and condos and co-ops and
+they're going to filter out the condos and co-ops away from rental. Do
+you think that's going to be reformed or do you think that's unlikely?
+
+                       Bobby:
+I would love it to be, yeah. So the proposal was to move condos and
+co-ops and small rental buildings rentals with ten or fewer units from
+class Two to class one. And so those properties would be assessed
+using a sales based methodology instead of the current income
+capitalization methodology, the latter of which is severely
+undervaluing a lot of high value condos and co ops. I don't know. I
+would love to see that, but there's a lot of wealthy condo and co op
+owners who wield a lot of political clout in New York entrenched
+liberal assembly and Senate districts in Manhattan, it seems like.
+
+                        MGM:
+I'd really like the one part of that of less than ten unit rentals
+being carved out from the larger rentals. I find that to be so much at
+the core of so much bad politics is when the mom and pops speak for
+the big landlords. Also, because there's a lot of white caping or
+white knighting for it's, like, oh, everyone is let's look at the
+smallest landlords. And if you kind of have this one class of stuff,
+it's like, okay, these are real landlords, but yeah, let's stop
+pretending like they're like babies or something.
+
+                       Bobby:
+Yeah, absolutely. As I mentioned before, rent stabilization doesn't
+apply to landlords who own or buildings that contain fewer than six
+units. Right. So there's already this huge exemption from a very
+significant landlord tenant law in New York City for thousands of
+small landlords.
+
+                        MGM:
+And I guess before we wrap up here, I feel like I'm pretty ignorant
+about this stuff. I mean, I've not spent a whole lot of time in New
+York, but I remember we were talking too about the fact that just so
+much can't be done because historical protection and just a lot of the
+city is kind of frozen in amber. How big of a deal is that in the big
+scheme of things? Is that just something you get to live with? Or do
+you think there's much of like, is that a fight that's going to happen
+more and more of reforming this or can it be reformed? Should it be
+reformed?
+
+                       Bobby:
+You're referring to neighborhood historic designations.
+
+                        MGM:
+I guess I remember talking about something or other.
+
+                       Bobby:
+Yeah, totally. I live in Ridgewood, which a significant portion of
+this neighborhood is a designated historic district. And I'm
+definitely not an expert on this subject, but my understanding is that
+those historic districts do place pretty significant limits on
+redevelopment. And even during the Soho rezoning process, I thought
+that there were a lot of compromises made in that process to preserve
+historic buildings and to preserve the entire historic district within
+Soho. Like, most of the upzoning in that neighborhood, rezoning
+actually occurred on the peripheries of Soho to preserve a lot of
+those historic ironclad buildings in the core of the neighborhood.
+Yeah. I would love to see reforms to historic preservation policies,
+just like I would love to see reforms to building code policies. I
+think right now, those topics haven't really entered the policy
+conversation, not just amongst politicians and elected and other
+public officials, but even amongst housing advocates. I think the
+focus right now is really on zoning and land use. I think hopefully,
+property taxation, building codes, you, and historic preservation
+could be a next step after we win some zoning reforms. And tenant
+protections, of course, are always a major focus of housing advocates
+in New York, and that will remain the case. And supporting efforts to
+increase municipal funding for subsidized housing. 100% subsidized
+housing. Right. Those are issues that advocates are constantly working
+on.
+
+                        MGM:
+Yeah, we're talking about kind of like, the larger issues of ownership
+and taxation. But I don't want to put you in the spot saying,
+summarize the tenant protection issues briefly, but... if you had to
+summarize them briefly, what are the general topology of the fight
+there?
+
+                       Bobby:
+Yeah, so New York City has some of the strictest rent stabilization
+laws in the country. New York City actually still has some rent
+control departments, like World War II
+
+                        MGM:
+Era, kind of like crude original version, but if you find your way in
+one of those yeah, it's a sweet deal.
+
+                       Bobby:
+Yeah. It's very hard to do. And they now compose less than 1% of the
+rental housing stock in New York City, but rent stabilized units total
+about a million rentals in New York City. So a significant portion of
+the city's population lives in rent stabilized housing. And there are
+constantly political battles over the contours of rent stabilization.
+And similar to New York City municipal taxation, the municipality
+doesn't have policy control over rent stabilization. The state has
+control over that system.
+
+                        MGM:
+Oh, interesting. That's very similar to Canada. It goes up the
+provincial level. That's interesting.
+
+                       Bobby:
+Yeah.
+
+                        MGM:
+Honestly, I understand people hate that because you can't do people
+power at the local level as much. But I don't know. To me, the flip
+side is it does well for solidarity. You make sure that if you're
+doing something, it works for people everywhere. I guess if you're
+doing it right.
+
+                       Bobby:
+Well, it's a little bit different than, say, the rent regulations in
+California or Oregon that were recently passed there are not statewide
+rent regulations in New York state.
+
+                        MGM:
+Oh, so the state regulates it, but they have a specific geographical
+bound?
+
+                       Bobby:
+Exactly.
+
+                        MGM:
+That sucks! Why would you do that?
+
+                       Bobby:
+There are a few other municipalities that have rent stabilization.
+Nassau County, I think, has a rent stabilization, is subject to rent
+stabilization law that is again controlled by the state legislature.
+So all of the political battles regarding rent stabilization occur at
+the state level. The most recent battle was in 2019 when a number of
+pro-tenant reforms passed the state legislature that closed a lot of
+landlord loopholes. There were a lot of loopholes that allowed rent
+stabilized landlords to exit rent stabilization. If, like, rents
+increase to a certain threshold, there are also vacancy bonuses. So
+rent stabilization in New York at this point does not include any
+vacancy decontrol. So it's certainly unique compared to rent
+stabilization that happened in California. Right. Like San Francisco,
+Los Angeles, the San Jose rent stabilization as well.
+
+                        MGM:
+All of California is yeah, it must be decontrol. That's a state law, I
+think vacancy control. I'm on the record saying I think that's the
+theoretically correct way, but it's more difficult to do it right, but
+it's worth doing.
+
+                       Bobby:
+I agree. I mean, I certainly have mixed feelings about it, to say the
+least. And right now well, for the last few years, there's been a
+campaign during every state legislative session to enact what's called
+good cause eviction, which would be which will be a statewide
+regulation that would provide lease renewal protections and would
+stipulate rent regulations based on a percentage of the inflation
+rate. So I think it's 150% of the localized inflation rate or 3%,
+whichever is higher, and that would apply to all rentals. Statewide.
+Rent stabilized units in New York city would still be subject to New
+York's specific rent stabilization law, but all unregulated units
+would be subject to good cause eviction protection that has failed the
+legislature at least two, maybe three years in a row now.
+
+                        MGM:
+So New York city tenants don't have just cause right now?
+
+                       Bobby:
+Not in unregulated units.
+
+                        MGM:
+Okay, sure. That's that's interesting. Yeah, yeah. And so I guess
+yeah, that's that's a major battleground right there. But also, if you
+know offhand, what are the protections look like for redeveloping a
+building and all that, as far as anti displacement kind of
+interventions to make sure that it isn't like, hey, we're redeveloping
+all the leases are severed, and good luck, find a place. Or is there
+much?
+
+                       Bobby:
+Sure. It also depends whether or not you live in a rent stabilized
+building or if you live in an unregulated building. If you live in a
+rent stabilized building, there are pretty strict relocation
+assistance provisions that the state will enforce. A lot of landlords
+will try to skirt those regulations through informal buyout tenants.
+
+                        MGM:
+Sure.
+
+                       Bobby:
+But there's like, a formula and a payment schedule that landlords of
+rent stabilized buildings are supposed to adhere to demolish their
+buildings.
+
+                        MGM:
+Yeah. I kind of imagine there must be good demo protections, because
+if there weren't, they'd all be condos by now, so that makes sense.
+
+                       Bobby:
+Exactly. And it's hard to even without demolition, it's hard to
+convert a rent stabilized building to a condominium building as well.
+There's a lot of regulations prevent those conversions, but, yeah,
+rent stabilized tenants who are facing demolition could easily expect
+to get a good couple of hundred thousand dollars in relocation
+assistance. And landlords, I think landlords can be compelled to
+identify alternative housing for comparable units to rehouse those
+tenants.
+
+                        MGM:
+Yeah, I suppose in the big scheme, that's a big question of, like,
+okay, so if you have these kind of restrictions, does that like, what
+do you have flexibility? You need to actually build new housing. And
+either of the thing is you need to have kind of good but flexible ways
+to kind of treat tenants well, but also rebuild. Or maybe you write
+that off and say, okay, we're only doing owner-occupied units, which
+is like, well, I mean, it's certainly an approach, but you really have
+to go full out to kind of say, okay, we're redeveloping all the owner
+occupied areas, but I don't know if that's happening.
+
+                       Bobby:
+Right. Well, I think there's a lot of potential for housing production
+growth in neighborhoods that are predominantly owner occupied.
+
+                        MGM:
+That's a low hanging fruit in my mind.
+
+                       Bobby:
+Right. I mean, only 30% of New York City's residents live in owner
+occupied housing. But that owner occupied housing constitutes a
+disproportionate share of New York City's land mass. A pretty
+significant share of New York City's land mass. And even in Manhattan,
+there's lower Manhattan there's relative to Manhattan, at least
+there's some lower density neighborhoods that could accommodate a lot
+more housing growth. Right. Like the West Village. Greenwich Village
+soho that area. I live in, like, a medium density neighborhood, about
+40,000 people per square mile, which compared to most places in the
+US.
+
+                        MGM:
+Is extremely high.
+
+                       Bobby:
+But Ridgewood borders Bushwick, which is much, much denser. For
+example, I live in a neighborhood that builds virtually no housing.
+The community district that I'm in, which includes Ridgewood,
+Massbeth, Glendale, Middle Villages, are all Queens neighborhoods,
+over 150,000 people in total, built something like 13 income
+restricted affordable units over five year period from 2015 to 2020. I
+mean, just absolutely dismal pathetic. And Ridgewood is the dentist of
+those neighborhoods. Middle Village is a predominantly R-2, R-3, R-4,
+four, like, really low density zoning designations, lots of single
+family housing. So I think there is a lot of potential in these
+predominantly homeowner neighborhoods for new housing development.
+
+                        MGM:
+Yeah, just like, in the biggest sense, New York City, it's a real
+city, it's a great city, but it is kind of sad. Like, everything good
+was built about a century ago, and you really hope you do something.
+It's just so sad. It's like the Second Avenue subway just sucks. As
+far as compared to the classic stuff. So I feel like we have to do a
+lot of stuff different to kind of make new stuff that's going to be
+built as well as the old stuff. But I'm optimistic in some senses that
+we can at least stop fussing around. We stop kind of bending over
+backwards for busybodies and weird stuff.
+
+                       Bobby:
+Yeah, absolutely. Well, yeah, I would love to see the municipality of
+New York actually revive its own development. Hell yeah, that would be
+wonderful. And I'd love to see the municipality of New York reform its
+capital planning and capital budgeting processes. Right. The city
+spends a million dollars to renovate a kitchen in a fire station right
+now. It's completely outrageous. The city used to build a lot of
+stuff, and a lot of that built by the public sector not been the case
+for a long time.
+
+                        MGM:
+Yeah, I mean, Tammany was corrupt, but they had public works, whereas
+now you get corrupt administrations which kind of know how to do not
+much whole at anything. So it's pretty sad.
+
+                       Bobby:
+Yeah. It's challenging because the public sector hasn't been a
+developer for so long. There's no institutional knowledge, there's no
+in house knowledge there. And so the public sector is just so
+dependent on consulting firms and contractors to do all of this work
+and it's just a vicious cycle at this point.
+
+                        MGM:
+Yeah, I don't know too about just public land ownership in general. Do
+they cry poor of like, oh, we have no possibility of getting new land
+to build on?
+
+                       Bobby:
+Yeah, it's a good question. I'm not sure how much land New York City
+the municipality owns compared to other municipalities in the US.
+
+                        MGM:
+Which is pretty low across the board, except for perhaps peripheral. I
+mean, what you really want is to own huge amounts in the heart of the
+city and everything, which is certainly not the case. It's all
+privatized.
+
+                       Bobby:
+Yeah. The municipality was a large landowner all through the but the
+policy was always to sell off surplus lands to auction off those
+assets, including residential property that was redeveloped as market
+rate property, but also residential property that was redeveloped as
+income restricted. 100% affordable housing. Yeah. No matter what it is
+for the most part now owned by the private sector, whether that's for
+profit entity or at least a nominally nonprofit entity in any case.
+
+                        MGM:
+Yeah, a lot to dig into, but I think you definitely answered a lot of
+my questions, and I think it seems like we covered what we wanted to
+as far as the general shape of this very complicated and confusing
+system.
+
+                       Bobby:
+Hey, I had a lot of fun. I love this podcast. It's one of my favorite
+podcasts and I love taxes. I'm kind of a freak in that regard.
+
+                        MGM:
+Well, that's the ideal guest then. Thanks for making the time. We have
+been talking about property tax and more in New York City. You can
+find our. guest at the handle @vastsituation on Twitter. Since we
+recorded a lot of interesting fights at the state level; kind of
+disappointing fights that saw everything from zoning reform, good
+cause and 421A extension all get defeated and made no one happy. Maybe
+we'll get into that in a future episode sometime. But in any case, you
+can find this episode and all previous episodes of the Henry George
+Program at the website seethecat.org. This is a presentation of KZSU
+Stanford.
+
