@@ -1,0 +1,910 @@
+                        MGM:
+KZSU Stanford, 90.1 FM. I'm Mark Mollineaux. This is the Henry George
+Program. A show all about land, policy, and politics. In today's
+program: a very special guest‒ we have David Colander, professor out
+of Middlebury College, an economist with an illustrious career and
+many publications. But today in this program, we're going to focus on
+what has become something of a forgotten chapter in history, that is
+the development of technical approaches to remedy inflation in the
+1970s and beyond, of which David Colander was a co-creator of MAP, or
+the Market Anti-Inflation Plan. So we'll get into the history and
+theory of that, as well as some larger questions of efficiency versus
+distribution, when economic ideas are sensible versus crazy, as well
+as the philosophical underpinnings of economics. But without further
+ado yeah, let's get into it. So, Professor Colander, thank you so much
+for making it here. This is a real honor for you to be in the program.
+
+                  David Colander:
+Thank you. It's a real honor to be called a real honor to talk to.
+
+                        MGM:
+Absolutely. I guess the overall thread of what is inspiring this is
+this kind of work that you did, I think, starting in the '70s about
+innovative anti inflation plans. And I've been interested in this work
+since, I think, first encountering references in William Vickrey
+writing about in the '90s, kind of this history of a cap and trade
+kind of market structure for inflation credits, which that's
+interesting. And I already had encountered Abba Lerner's book,
+"Flation", which is, I think, a very lucid and interesting book he
+wrote in the mid '70s, kind of explaining the misconceptions about
+what was going on with stagflation. All things were kind of pointing
+together for your work with Abba Lerner with "MAP: A Market Anti-
+Inflation Plan".
+
+                  David Colander:
+So I think Bill Vickrey was also involved in that. So it was actually
+the three of us.
+
+                        MGM:
+Oh, interesting. As far as the authors on the book itself, the two of
+us, Abba and I.
+
+                  David Colander:
+Bill had his own approach to things, but he was my dissertation
+advisor, and so I was working on it with him as we were working on the
+various parts.
+
+                        MGM:
+So I think, just for context, for people who just really aren't
+familiar with the details here, could you, I guess, give a minute-
+long elevator pitch. What is MAP? Explain this for someone who doesn't
+know anything about it.
+
+                  David Colander:
+Sure. MAP is a market anti-inflation plan. Essentially, it tries to
+view inflation as a technical problem, technical mathematical problem.
+In order to have no inflation, the number of prices going up has to
+equal the number of prices going down, adjusted for sort of all the
+adjustments and everything else, so that you have prices just at a
+balance and sort of how do you keep it at that? Well, the way we
+currently keep it at that is we change the unemployment more
+unemployment, sort of workers get less, and therefore you've solved
+the problem. If you don't like that, you need something else in its
+place. What MAP does is instill property rights. So people start with
+a certain amount of value added where they have, which is easier to
+talk about wages. So wages are there. If firms are raising their
+wages, they have to pay another firm which will lower their wages
+adjusted appropriately, so that the net wages of the two don't rise.
+So essentially you have a market in that anybody who wants to increase
+their wages sort of has to go and find the market with people who will
+lower their wages and sort of therefore you have relative price
+adjustments without any inflation. So inflation is what occurs when
+you don't have some limit or anchor on the price level. And sort of
+what it does is add that price level. What you have without that is an
+anchor that can that's a very poor anchor. So you set it there and you
+raise interest rates. Eventually that causes enough unemployment to
+sort of slow inflation. But that's not the most efficient way to do
+it. It's a much more efficient way to do it with the market. So MAP is
+a plan developed by Avalarner and myself to sort of solve the problem
+of inflation with the market itself. So it turns the market on the
+market and says, here, it's the only thing strong enough to limit it.
+
+                        MGM:
+I guess you can talk about kind of like starting with your
+dissertation, but in general kind of explain the motivation, what you
+were seeing at the time, and how this kind of led you to, I guess,
+this path of developing this.
+
+                  David Colander:
+Essentially, I was writing a standard dissertation, which means at
+that time it was just turning into three essays. Earlier you used to
+have to write a whole dissertation and then sort of in the '70s it
+switched to where you wrote three essays. And now I think people write
+one and a half essays and sort of call it three. But sort of each of
+these developed. And I had written on optimal taxation, which in the
+late, early '70s, late 60s was hot stuff and sort of people were doing
+it, but it was technical and not especially interesting in my point of
+view. But it was getting my dissertation done. I had finished two
+essays and was working on the third. And so sort of inflation, this
+was about 73, 74. Inflation was a big topic then among lots of people,
+and we were discussing it, and so do I came up with this idea that
+here, why don't we put sort of a market on inflation rights? So create
+property. Rights and prices so that anybody who wants to raise their
+price has to pay somebody else to lower their price by an offsetting
+amount. Now, the reason for that, I mean, it was very simple if you
+sort of follow a Coasean approach, but at the time, coast was just
+getting involved in some of that. So people didn't think in that way.
+But the advantage of it was it forced you to consider inflation as
+both a technical and a general equilibrium phenomenon. So pretty much
+whenever people talked about inflation, it was sort of a real messy
+discussion because they talked about cost push inflation and everyone
+sort of said, well, what you mean is just the change in relative
+price. It was one price one time and that wasn't there. And so that's
+what sort of was pushed for cost push inflation. Abba was different.
+He sort of said "Flation" and tried to get around it but sort of
+within the general discussion, that was the way if you were talking
+about inflation, it was going to be sort of cost push, which happened
+before full employment. And once you got to full employment with
+straight demand, you only thought of demand and operating there. And I
+didn't picture that at all. Number one, the Walrasian system was not
+very good at sort of talking about inflation because essentially it
+had no money, it had no rating, it had nothing other than sort of a
+solution to a general equilibrium problem. And so here I thought this
+is an interesting way of picturing inflation and forcing you to think
+of it for what it is, not for this cost push demand pull fight, which
+was a useless fight because it had to be both involved in it.
+
+                        MGM:
+Yeah. And I feel like the kind of way this is developed, you see the
+introduction of, I guess, deficits, which is not only I mean, I think
+if you smooth everything out to a Walt Racy and everyone goes to the
+bourse and everyone just basically is a perfect auction and everything
+happens in the world we live in. There is institutions in which there
+is price setters and price takers and there's different basic power
+differentials of who can set, who can take. And I think seeing how
+this developed in this in the worry, in retrospect, it's very easy to
+say, oh, the issue is too much money, there's a lot of deficit phobia.
+And there's a very solid trendline of people just looking back at
+Volcker saying only Volcker realized the kind of fundamentals that you
+have to just show the ability to stare down inflation in the eye and
+raise rates. But I mean, this just kind of sidesteps the entire like
+what is the goal of this? Because the cost that was taken with the
+Volcker shock is we can take substantially higher unemployment until
+we give up. And basically one of the institutions in that case would
+be, I guess labor unions would stop their side of this wage price
+spiral. In this case, it seems like that sort of discourse is very,
+very common among people who have a surface level understanding in
+your mind the story of, I guess, Stagflation in the '70s. What is the
+right way to explain what was going on and what we could have done
+about it.
+
+                  David Colander:
+I see inflation, as always, a combination of cost push and demand pull
+processes. So that what you could have done is a political question.
+What you can do to sort of change the speeds of adjustment so that
+prices, some prices go up more slowly and other prices go down faster.
+And so it's speeds of adjustment of prices, not whether they're high
+or low, that you're really looking at. And so if you're talking about
+equilibrium in sort of this dynamic system, dynamic vulrazian system,
+sort of the pressures pushing the price level up, whatever that price
+level is, has to be equal to the pressures pushing it down. And so
+therefore, once they're equal, then you will stop inflation. So you
+think of it within that terms. The first thing that does is stop you
+thinking about money, stop you thinking about wages separately from
+that. And we talk in terms of value added units. So we're not saying
+whether it's wages. That's an institutional question. Sort of it
+really was here all the pressures pushing it up next it sort of forces
+you to take a look at what am I using as the index of inflation,
+because there's thousands of possible indexes of inflation that you
+might use. And indeed, if you think of the way it's often used, it
+includes asset inflation. But when we talk about inflation, we're not
+trying to stop asset inflation. So when we said there wasn't enough
+inflation out there, there was enormous amounts of asset inflation and
+so that's where it was going. And if you look at sort of a forward
+looking phenomenon where people are spending in the future, sort of,
+that can be their shadow prices for all those contingent goods in the
+future. All those are part of the inflation process. So imagine
+there's 500 inflation games being played of which you're talking about
+one particular sub inflation index that emphasizes certain things and
+sort of saying here money is going to affect it, money is going to
+affect these 500. This one is only minor and it might be important at
+some times, but others not. And so here it's trying to get people to
+think that when you're talking about inflation, it is not a scientific
+phenomenon, it's a political phenomenon of this relative prices that
+you choose to look at at the particular time. And so it gets you
+thinking about the role of money in the system differently than what
+it is. But again, in terms of your question, which is much more
+practical and pragmatic, sure, my answer to that is I don't know
+because these institutions are so damn complicated. And so I think you
+should be dealing with institutions and saying that's what's there.
+But unless you know them, know how they work and sort of what they're
+going for, to be able to come up with an actual solution to it is
+impossible. So that's why I emphasize the theoretical solution. Part
+of it sort of here, it's useful to think and this was a time when they
+were it was in the beginning of the '70s that they started pushing the
+Tips Tax anti inflation programs where they'd sort of tax firms that
+raise their wages too much. And sort of Henry Wallich was there, and
+there were other people, and they were pushing that. But the way that
+was understood was much more in a partial equilibrium system. So what
+I wanted to do was change that to get that to be a general equilibrium
+discussion. So that you were thinking here of these speeds of
+adjustment and sort of to think there's a single equilibrium
+unemployment rate is crazy. Because if you have lots of pressures
+pushing up on prices and very few down, you've got to get some more
+pressures pushing down or you're going to get accelerating inflation.
+The way to get that is sort of here, put a tax on it or sort of let
+people sell. So anybody who wants to raise their price has to pay
+somebody else. The price immediately goes to the equilibrium level
+that stops all inflation. So if there's no pressure to raise prices,
+then it can be zero. If there is pressure to raise prices, it stops
+it. But in stopping it, it allows you to run a lower unemployment
+rate. So in other words, the more higher rate price you're willing to
+accept on raising price, the lower the unemployment rate can be. And
+you can have that unemployment rate, whatever is feasible within that
+system. So to say, I was arguing there was not a single narrow in the
+economy. There's a large number of them, and they're dependent on the
+institutional structure that you choose. And so it's only by looking
+and sort of understanding that institutional structure, they can
+understand what happens. As soon as you see it that way, what happens
+in the '70s becomes much better understood, because now what you have
+is globalization was occurring. Globalization changed the underlying
+structure of the wage setting process and the price setting process,
+because competition from China was enormous. Anytime workers tried to
+raise their wages, firmers would say, we'll move to China or somewhere
+else. And globalization sort of put a fix on how prices could go. And
+therefore you no longer had the inflation problem, but that meant you
+still had all the other problems. But as opposed to saying, we still
+have it. We got to deal with these other problems, they said, that
+means we can do whatever we want. And sort of they went and expanded
+far more than I think was warranted, given the institutional
+structure. If you want to expand, and I believe you should, to help
+more people, you've got to change the underlying institutional
+structure in a way that most politicians don't want to discuss.
+
+                        MGM:
+Yeah, and I think when you talk about, I guess, what is the feasible
+employment situation, this kind of speaks back to kind of an
+antecedent, which was John Kenneth Galbraith writing during World War
+II. In that case, there was extremely tight labor markets. People are
+being pushed into labor market who never were involved before. And at
+that time, he used kind of the practice of rationing to write a
+general theory of price controls.
+
+                  David Colander:
+I thought his theory of price controls was brilliant.
+
+                        MGM:
+I've not read the book. I need to get a copy of it. But you certainly
+build it up.
+
+                  David Colander:
+He said it was his best book and six people had read it.
+
+                        MGM:
+Yeah, but in general, I guess when we're having a discussion about
+what should be done, the idea of price controls and rationing is seen
+upon as unserious by many. Certainly in the economics field, there's
+kind of an allergy to it.
+
+                  David Colander:
+It appears that I tried to change because the idea of thinking of this
+as sort of a property right that you could sell to somebody else and
+sort of stop the inflation said here there's no difference between
+that and control except sort of the institutional structure of how
+we're sort of getting that to take place. They want it to be a
+political discussion here. One group sort of agrees to adjust with the
+other. I take the politics out of it and create it in sort of property
+rights. The politics is embedded in the property rights. But of
+course, it's the assignment of those property rights that has all the
+same problems as the debate about who's going to raise what. So I said
+it isn't whether you can control the price level, you can control the
+price level. It's whether you want to accept all the costs in
+practical terms of what doing that will mean. And those are
+institutional questions which sort of economists avoid.
+
+                        MGM:
+Yeah. I mean, the fact if you talk about the structures of kind of
+collective rights to enjoy profits, collective property rights, how
+this is administered, it's really dealing with who owns what, what
+they can do. This is it's very general questions about kind of the
+public role in administering an economy. But I guess when it's
+something is a tax, it feels like a bloodless system. But I remember
+you saying that at one point you were talking to someone in the
+context of the Carter administration and they said this would be like
+such a fundamental change. This would be as big as the Federal
+Reserve.
+
+                  David Colander:
+Right. That was Alfred Kahn.
+
+                        MGM:
+Yeah. It's interesting to think about because in a lot of ways it's
+like, oh, it's a tax and cap and trade market for inflation. Credit
+sounds bloodless. But when you think about what this institution
+means, it has a lot of very big implications and how you interpret.
+
+                  David Colander:
+Property rights, how you sort of allow them to continue, and sort of
+the actual measurement of prices. Now, we did it on value added per
+unit inputs to stay away from any quality goods or anything like that
+and sort of wanted to blend together sort of wages and profits into
+value added units. So that sort of that fight was taken off the table
+because what had always happened up until that time became a fight
+between those who wanted wage controls and sort of here allowed prices
+sort of fluctuate. And we said it doesn't matter whether the higher
+prices go to wages or to profits, somebody's getting it and the
+consumer isn't getting it. So we wanted to compare it to the consumer.
+So that, I think was a change which never really got accepted by the
+profession, mainly because here it sort of changed the policy
+political discussion that took place at the time.
+
+                        MGM:
+Do you think in practice, I think at least in the last couple of
+years, we've seen kind of a tightening of labor markets which seem to
+indicate some sort of tipping up of a higher labor share. And insofar
+as I mean, I guess this was processed through public discourse around
+inflation and so on, but it was seen as essentially unacceptable.
+There was public discourse about a labor shortage and it was clamped
+down which I mean this has been the story of since the Volcker shock,
+the productivity gains have essentially not gone to labor share. If
+there was this system, I guess you're saying the fight for labor share
+would go out of the realm of kind of administering quote unquote,
+inflation and would be essentially an actual bargaining. What do you
+see those dynamics is looking like if something like this were in
+place?
+
+                  David Colander:
+Well, again, I think we've gotten now to where we have excess demand
+for labor in terms of the way you normally express it. I don't believe
+excess demand because that's a static concept. What it means is
+there's upward pressure on low level wages and that seems reasonable.
+And indeed, depending on how we handle immigration and how we handle
+sort of other people coming in and sort of tariffs in that you could
+sort of get low level wages up to minimum of $30 an hour and operate
+there. But it requires all kinds of decisions about how you want
+international markets to operate. People don't discuss it, they say,
+well, allowing people in sort of to work americans don't want the job,
+so it's not taking away well, they don't want the job at the pay that
+it's giving, but if the pay was high enough, they take the job, but we
+are not part of that. So that doesn't go on there. So there's a whole
+bunch of discussion, political discussion that people do not want to
+sort of undertake or that cannot be undertook because if you did,
+you'd say we don't want it, whereupon sort of you're stuck with sort
+of where you are and that's where I think we are at the moment. I've
+seen sort of the wages going up on the low end as being a positive of
+what's going on. And the real problem was prices should have been
+going down a lot more than what they are. So in other words, if you
+think of it in terms of MAP situation where inflation is being caused
+is where prices are going up or more than what they would sort of
+otherwise be the case and sort of where you can slow them. So what we
+did with property rights to all types of sort of intellectual property
+is to give it to people and sort of give it to people where they could
+have all kinds of additional sort of wealth and income coming in. So
+what that meant is that other people had to get much less because if
+they get more, the other people have to get less. So what we wanted to
+do was here sort of include that in where here where they got the
+property rights they'd have to pay other people. So the property
+rights gains would have been distributed much differently than they
+currently are in the system.
+
+                        MGM:
+Yeah, it seems like to have any sort of opening where prices have a
+distinct pressure to go down in sectors because I feel like the
+general stickiness it's hard to think outside of, I guess maybe
+different tiers of the bleeding edge of electronics. Things just
+generally don't get cheaper.
+
+                  David Colander:
+But that's a political decision that they don't get cheaper. They
+should have. And so the cause of inflation, in my view, was in
+intellectual property rights, the biggest cause of inflation because
+they did not go down anywhere near as much as they should have gone
+down to sort of allocate it out differently.
+
+                        MGM:
+Yeah. Insofar as MAP was proposed, this book was published in the late
+1970s... 1980 is the publication date. But it was being proposed and
+shopped around. In fact, as we all know, it was not put into place.
+But there was a number of I think you were continuing to facilitate
+discussions around it for many years past that. There's a couple
+releases of books, including one called "Incentive-Based Incomes
+Policies: Advances in TIP and MAP", which you edited and released in
+1986. And I guess the question is, at that time it seemed that, I
+guess, the political appetite for it was not really there. Was part of
+this kind of like do you feel at the time there was still a way to
+not, I guess, say that Volcker won? Or was this trying to create a
+blueprint for what could be happened during the next inflation crisis
+which I believe you say you anticipated would happen at some point?
+
+                  David Colander:
+Again, sort of Abba had a much greater hope within his lifetime and
+when he had a stroke and stopped working, then I spent less time sort
+of thinking about the practical ones because I never regarded the
+politics as very possible, for sure. And so my interest was
+theoretically and I hoped to change the way people thought about sort
+of micro foundations and the operations that was sort of kept me
+going, working on it for another eight or ten years. And then when
+that didn't catch on as people moved away from that, I just stopped
+pushing so much on it. So that's why I ended the push on it, mainly
+because I saw it as really important theoretical insights into
+microfoundations. But that weren't part of the discussion that was
+taking place. The politics of it is such I don't think I'd say Volcker
+won or not. I mean, what I understand with Volcker was that here there
+was a fight between those who wanted to say you should control the
+money supply or you should control interest rates. And sort of the Fed
+had always said we control interest rates, not the money supply.
+Friedman said, you control the money supply. Volcker sort of said,
+well, if Friedman is going to make that argument, let's agree with him
+that we control sort of the money supply. We'll control the money
+supply then and let inflation go to where it will and let the interest
+rates go to where they will. And that was the only way they could
+raise the interest rates to 18 or 20% to sort of create a shock and
+sort of make it. But it was a short term shock that you had to sort of
+break out of at the moment. I think this time is different in the
+sense of here we haven't gotten into sort of the place where we really
+are at 10% inflation going there. I think the solution to their
+problem is 4%. That essentially what they'll do is stop saying, we're
+shooting for 2% inflation targets, we'll shift it up to 4%. And at 4%,
+because you'll, err a little on the side, you'll get it that'll last
+for another five or six years and then you'll get some higher ones and
+then you might need a shock to sort of bring expectations down. But
+expectations gets built underneath all of it and sort of expectations
+in the 70s, it's people scared of inflation here. I think they can
+pull people away from being as scared of inflation as they have been.
+So that's my view on how the politics will play out.
+
+                        MGM:
+That's interesting. People have, like said in the last, I guess, a
+couple of political cycles, inflation has been on people's minds. I
+think a lot of people would say inflation remains kind of
+irrationally, despised, even if like if you see nominal price rises,
+you know, I guess the the things that economists will point to are
+things like menu costs and things that actually are disruptions to
+running businesses. But it seems like the general public, even if
+their wages are keeping pace, which that could or could not be the
+case, people just seem not to like it. Which is, I suppose, like one
+great potential of MAP is instead of the standard 2% guidelines or
+kind of goals. You really could drive it to a strict zero in theory at
+least, right?
+
+                  David Colander:
+If you want to. And it depends on what price index you're talking
+about.
+
+                        MGM:
+Yes.
+
+                  David Colander:
+Now this goes back to this discussion right at the beginning. There's
+hundreds of price indexes out there that you could control. And so the
+reason I moved away technically from MAP in some degrees is there were
+just too many of them. Which one should you be controlling? And sort
+of where asset prices fit in? The driving force with much of the
+politics and much of the distributional fight has to do with forward
+markets operating and sort of what's happening with asset prices.
+That's really the driving force. When we had considered MAP issues, we
+hadn't considered asset prices at all sort of sitting in there and
+they were the ones that were doing 80, 90% of sort of the push. And
+the interesting thing was here they were allowing much more demand to
+be created than could possibly be considered. And the way it did that,
+it created demand for new type things that you never knew you wanted
+or anything else or sort of let people believe that they could have
+more than what they can have. If everyone tried to spend the money now
+that they think they have in asset prices, there would just be a total
+deflation. So it allows that to take place because it never takes
+place. And that's irrationality in the system that works to the
+advantage of the system. So you can get all kinds of rich people who
+if they actually sort of wanted to use their wealth, wouldn't be able
+to as a group.
+
+                        MGM:
+Yeah, I mean, you talk about stickiness. I mean, as far as it goes,
+like housing prices right now people believe they have this certain
+equity but certainly at the moment people cannot liquidate their real
+estate assets at the prices they believe they're entitled to. And it
+seems that people are in any short term unlikely to really, I guess,
+settle for it for a lower bid. There's a certain bit of generational
+thing too, if kind of entire generation believes this is our nest egg
+for the future. But would they actually be able to liquidate it all at
+once and kind of cash out?
+
+                  David Colander:
+The answer is no, but the answer is also yes because the politics of
+the situation would say we better let them liquidate or will be
+liquidated.
+
+                        MGM:
+Exactly. Yeah.
+
+                  David Colander:
+And so the politics will force a reaction of the government which sort
+of allows sort of the beliefs to continue to the degree they have to
+continue for the system to continue operating.
+
+                        MGM:
+I suppose that is, I guess, the practical question, which is you can't
+in this case build up kind of essentially a promise which is the
+American dream is predicated upon building up your home equity and
+cashing out at the right times that you kind of feel you're obligated
+to. I. Guess is a question. Could you expand the field of the
+technical interventions to inflation to kind of bring in more asset
+inflation, including housing?
+
+                  David Colander:
+Again, there's discussions of that in Goodwin and some others. It's
+pretty hard because asset prices are so poorly measured and fluctuate
+so much that I don't know what you could do. But I really think it's
+there create cryptocurrencies and sort of let everyone buy
+cryptocurrencies and sort of hold all kinds of it and then see that
+only rich people hold cryptocurrencies and they lose most of it. Then
+you sort of resolve the problem to some degree.
+
+                        MGM:
+Yeah, I mean, that's the thing with assets. It's really nice if you
+have assets that no one cares about. I mean, cryptocurrencies are the
+great exhaust pipe of just nonsense.
+
+                  David Colander:
+Well, I mean, they're just like gold. Then you have that and you have
+museum quality artworks and sort of skeletons for things and old
+paintings and various things. You could create all kinds of stuff that
+people want. And so here you have all the things that people want as
+long as they aren't the ones that are affecting here's what society
+needs to produce to sort of provide it, everyone's happy.
+
+                        MGM:
+Yeah. I suppose this is like as far as the assets go, the only one
+that really feels like it really matters to most people who you're
+forced to in one way or another is real estate because everyone needs
+a place to live. And I suppose as far as a technical intervention, I
+think something that comes up not-infrequently is the idea of a
+technical intervention to higher real estate prices would be basically
+higher taxes, especially on the land itself. And that is, as you said
+earlier, this is essentially a political fight over what does everyone
+own. Because if you tax their real estate holdings, really, you could
+say, oh, that's just a tax, but this is actually shaping who owns what
+in this entire.
+
+                  David Colander:
+I see you're a Georgian.
+
+                        MGM:
+Yeah, exactly. It feels like that's in my mind. That is the name of
+the program here. But yeah, as far as it goes, that is in some sense a
+technical solution to real estate inflation. But good luck with it, I
+guess. One more question, too, about kind of technical answers. I
+mean, do you consider, like, sectoral bargaining it's in the field as
+like all the other alternatives to, I guess, MAP in the field of kind
+of.
+
+                  David Colander:
+I don't know enough about sectoral bargaining to say anything about it
+one way or the other.
+
+                        MGM:
+Okay, that's fair. Do you feel that there is you said in the 1980s,
+microfoundations of inflation were something which was you were
+interested in pursuing, but it didn't really go as far as you'd hope
+it would. I'm seeing much more energy from like post Keynesians in the
+last couple of years than I feel you've seen in generations. Is anyone
+kind of tapping into these same questions you're seeing as far as.
+
+                  David Colander:
+Not in the way I tapped into them. So the answer is I pulled away, I
+think, from a lot of the sort of work there because it was going in
+different directions. I'm sort of this in between person wanting to
+write within sort of the standard sort of structure, but sort of
+wanting to look at it differently. Whereas I think a lot of the
+heterodox economists want to attack the existing structure a bit more
+than I'm interested.
+
+                        MGM:
+In doing, just too much the actual they want to see the scrum and the
+fight.
+
+                  David Colander:
+Of saying, here, this is an interesting, useful way to look at
+something, and there's lots of ways to look at it. And what we have to
+do is sort of say, here is the most efficient way of looking at this
+particular problem, understanding what the other people are. And
+that's why I shifted really to a lot of work and methodology and sort
+of discussions about that, because that was more where I felt the
+fight was at, as opposed to sort of where one came out in the
+particular areas that were talking about policy.
+
+                        MGM:
+Do you feel like at the time, insofar as you definitely speak to
+different temperaments between you and Abba Lerner when you're working
+on this project, where he was definitely, I feel you say, more hopeful
+as far as prophesizing, a kind of future here? Do you feel like
+there's like a combination of those kind of energies that do you
+really kind of need both working together in some sense to achieve
+something here?
+
+                  David Colander:
+Depends on how it's put together, as opposed to whether what you
+achieve you can have good, great discussions and not be able to write
+together or something? No, I think it was just he was always
+impractical. So when he sort of went up to visit Keynes, he told him,
+here, I can solve all your problems for you. For Abba, sort of
+political problems were easily solved if he could solve it
+analytically. He was really sort of a brilliant analyst and could
+analyze things mathematically far beyond what other people could see.
+And so that was really his strength and he did that, but he didn't
+have practical sense. So he sort of would suggest, "here is the
+deficit. You can run as large a deficit as you want, it doesn't
+matter. There's no limit on the deficit." Keynes said this objected to
+him. He was at a seminar at the Fed and told Abba that he was way off
+and didn't understand it. Later on, Keynes was going back to England
+on whatever, the Queen Mary or whatever, and sort of wrote Abba that
+he was wrong, he was technically right about the deficit, but heaven
+forbid if we tell anybody that, because it'll eliminate our chances of
+ever getting any of our policies in. And so Keynes adjusted to sort of
+fit here's what's politically possible, whereas Abba politically
+possible wasn't of interest to him, especially.
+
+                        MGM:
+Yeah. I think was it like some line about you need the right amount of
+kind of the proper amount of humbug to sound to sound serious or
+something, but as opposed to completely blue sky thinking. It's
+interesting. I mean, your advisor, William Vickrey, he definitely
+treated like when he was awarded the Nobel Prize, he was very excited
+to say, like, this would give him the legitimacy to, I guess, move
+more into the kind of political advocacy space. And it's interesting
+that he was going.
+
+                  David Colander:
+To talk about MAP at the Nobel Prize inauguration. Yeah, That was his
+attempt. Actually, Abba was going to talk about it, too. So Abba was
+up for the Nobel Prize number of times before, and a lot of people
+said the reason he didn't get it was because they didn't want him
+talking about MAP, because they thought it was a pretty crazy scheme.
+People would say, economists have gone crazy. Vickrey was going to
+talk about it too, but there was sort of political pressure, sort of
+because of his other work, to allow him in. And they said, he won't
+talk about it too much. I don't think you have to worry. So I
+prevented a whole bunch of people from sort of getting either getting
+the Nobel Prize or actually talking about it.
+
+                        MGM:
+What do you think makes them draw the line between what's too crazy
+and what's what's serious?
+
+                  David Colander:
+I think it's sort of what other people say when you see people's face
+react to things, and so there's a gut reaction that people have.
+Vickrey was amazing because he was extremely impractical and extremely
+practical at the same time. So he's the one who sort of figured out
+all the sort of pricing schemes for airlines and everything else and
+for roads, except he made him practical. He went down to Hong Kong and
+sort of developed putting numbers on your dashboard, which allowed you
+to go on certain days that sort of developed it. And he was figuring
+all this out. And I remember the first time I talked to him, he was
+telling me how he was figuring out these toll booths, which would sort
+of measure as the car went by and charge it, figuring out what the
+math was to sort of allow that to happen. So he was a pure engineer.
+He jumped from one side to the other. Abba stayed totally on one side.
+So that was really the difference between the two of them.
+
+                        MGM:
+Yeah. It's fascinating to see. I guess we're going to talk about
+macroeconomics. You can't really go to the workshop. But Vickrey could
+say, figured out, we can get kind of a working prototype for under $20
+that everyone could put in their car. And then you solve congestion
+pricing. I proved it. Look at it.
+
+                  David Colander:
+Yeah. And he did it. As soon as he figured it out, he'd say, how do I
+practically implement it and sort of that became very much part of it,
+and he'd do what he could to sort of implement. So I think if you look
+back on these developments, he was way ahead of the time and sort of
+actually sort of led to it. Because on both the theoretical front and
+on the practical front yeah, I think.
+
+                        MGM:
+It'S interesting that Vickrey, I guess, throughout his career under a
+microscope drilling drilling down into all these problems, but I guess
+it was like his last decades of his life, he really, I guess, shifted
+focus to macroeconomics, at least kind of his advocacy. Wrote a lot of
+interesting papers.
+
+                  David Colander:
+He decided it was the far more important reason so many people are
+hurt by macroeconomics compared to micro that he said he wanted to
+focus on and actually sort of I had been writing I started out telling
+him about my dissertation. I'd been writing three essays on optimal
+taxation and was just about finished. And then I wrote this little
+paper called The Free Market Solution to Inflation where I outlined
+sort of this. He wrote me back and sent a copy to my chairman saying,
+this is the most brilliant paper I've seen in the last 20 years, which
+may be pretty good operating. So I went to him and said, if I change
+my dissertation and develop it, can I finish in a year? And he said
+yes. So then I went to Ed Phelps, who was my other dissertation
+advisor, and said, Vickrey said I can finish in a year. If I change?
+Can I change? He said, yes. So both of them had pretty much signed off
+before I started. And it was a good thing, too, because the
+dissertation was awful.
+
+                        MGM:
+When you talk about optimal taxation, what were the details? Was it
+general?
+
+                  David Colander:
+What was optimal income taxation?
+
+                        MGM:
+No. Income taxation?
+
+                  David Colander:
+Yeah. What you'd want is a regressive tax is optimal.
+
+                        MGM:
+Oh, no.
+
+                  David Colander:
+If you're interested in efficiency, regressive taxes are much more
+efficient than that. You don't talk about income taxes as efficiency.
+But why not? Why do we talk about regulated taxes in terms of
+efficiency and the income taxes in terms of sort of income
+distribution? I argue they should be all the same. And the optimal tax
+is 100% tax at the lowest income, going down to zero at the highest
+income. So that was one of my results.
+
+                        MGM:
+Sounds kind of a reductio ad absurdum of the idea of efficiency.
+
+                  David Colander:
+Well, yeah, well, that's what it was.
+
+                        MGM:
+Yeah.
+
+                  David Colander:
+It says here if you're talking about efficiency, you're going to have
+to sort of get high income tax rates at some point early on. And
+that's the problem with basic income. If you're going to sort of
+provide basic income at a high level to people, somehow you've got to
+sort of have really high taxes. And people are going to have to
+because you got to get down to where you're bringing in positive
+taxes. And the faster you get down, the more efficient is because the
+more people you get per marginal effect. And that's what you're
+talking about with efficiency, how much marginal effect you get. And
+if you do it at the beginning, it works as a lump sum tax on all
+higher income people, whereas if you do it at the end, you don't get
+that lump sum tax. So the advantage of regressive taxes is they
+provide lump sum taxes on the rich. And so if you think of it that
+way, you come and sort of have a different way of talking about here,
+where do we want the high tax rates to be? And you have it initially,
+but they pay 90% of your 1st 100,000 after you start earning it, then
+you get a lot more. So you work hard and sort of you get a lot more
+and you get the other coming in. And so some people who have very low
+productivity and low efficiency choose not to work. You provide income
+to them. And so that's a way of sort of operating, so it's a way of
+sort of looking differently at things. Another one was saying all this
+stuff on efficiency is pretty much crap because here as soon as we go
+and measure sort of the taxes and the cost of taxation, it's sort of
+all types of sort of administrative costs, various other costs, these
+other costs totally overwhelm the efficiency cost. And why are we
+talking about efficiency where it's 2%, when sort of these are all
+other costs are ten to 12% for taxes that they have to be integrated
+in? And the third was sort of a Rawlsian tax. If you believed in
+Rawls, how would you set the taxes in the tax system, in a system
+that's operating? So that's what I was doing, but then I dumped it and
+sort of did the free market solution where I developed MAP as my
+dissertation.
+
+                        MGM:
+Well, as far as the Rawls goes, would that have to do something with
+basically taxing the luck of what you end up with after you exit the
+veil of ignorance?
+
+                  David Colander:
+No, I did it Rawls sort of was minimizing the minimax sort of there.
+And what it was was saying here it's the same idea of the negative or
+the need for the tax initially to be very regressive. You'd still want
+it very regressive in the Rawlsian one, because here it's regressive,
+but it's designed to bring in income in another way. So here you can't
+sort of combine bringing in income with the taxes. That's a poor way
+to do it. It's much better to sort of shift it around and operate
+differently in general.
+
+                        MGM:
+What are your thoughts of just I think before we started recording,
+you were talking about kind of how things can be a distributive
+problem but not really set as such. But economists want to talk about
+efficiency but are very seemingly reluctant to talk about distributive
+effects, I guess in explicit.
+
+                  David Colander:
+Ways because we don't have the tools. We haven't been taught how to
+talk about those. I mean, there's a whole different approach to sort
+of discussing things, a philosophical approach where truth is found by
+sort of arguing sort of arguing and coming to sort of a reasoned
+agreement with other people. Now, that sort of way is the way you deal
+with non scientific problems that can't be solved through empirical
+methods. Economists aren't trained to do that. But in order to talk
+about policy, you need people trained to do that. So economists aren't
+trained to talk about policy.
+
+                        MGM:
+Well, what could they be done to be like do you think they should be
+just trained more?
+
+                  David Colander:
+Yeah, trained more in philosophy, basic philosophy. But here everyone
+should sort of know here's Rawls's veil of ignorance. You should know
+Smith's impartial Spectator. And you should also know that within sort
+of this debate it's a debate to sort of not prove that you're right,
+but it's a debate to sort of understand what the other person is
+saying and sort of expand your sort of understanding that that's the
+way in which you gain sort of sufficient insight to develop sort of
+ways of understanding that can be combined with the scientific and
+efficiency discussions to put together. And here's a novel way that
+might work. So what I believe economists should be doing is thinking
+of novel ways to sort of integrate the needs that you can discover in
+philosophical discussions with the scientific realities of how the
+limitations are. So that's why it wasn't problem didn't find it a
+problem at all that the optimal income tax was highly regressive
+because it's just a way of talking about things. If it is, then where
+do I do it? I don't have if highly regressive, is there some other way
+to do it? So you're achieving ends and that I don't think economists
+do at all.
+
+                        MGM:
+It's interesting to say when kind of goals are introduced. I mean, to
+look at I guess William Vickrey in his macroeconomic work, I was just
+very kind of interested that he went out of his way to kind of
+redefine or kind of explicitly define tight labor markets. In his
+Chock-Full Full Employment, he defined it really kind of in a very, I
+guess, intuitive way, which is just basically anybody can go out and
+get a job within 48 hours that pays a living wage. Which kind of fuses
+not only what does it practically look like for, I guess, failing job,
+but also cost of living. Because it's not just a job, it's a job that
+will actually sustain you.
+
+                  David Colander:
+Problem is again, sort of the international setting within that, which
+makes it hard. But yeah, I agree. If you look at sort of the Keynesian
+sort of development, the work early on, the initial work done for the
+government and everything, full employment was defined as where the
+number of unemployed significantly are below the number of jobs. So
+Vacancies exceed jobs by two or three times. And so that was to create
+a system within which sort of it would be fair for people. The problem
+is as soon as you create a system that's fair for people within that
+sense, all kinds of people from outside want to be in the system too.
+And if those numbers are so big that they overwhelm the others, it
+breaks it down. And that's what it does.
+
+                        MGM:
+Yeah. Internationally, even within domestically, if you have a city
+that has hot labor markets, you're going to see more immigration to
+that city and the kind of political fights over who is able to live
+where in a city that can be pretty ugly itself.
+
+                  David Colander:
+Yeah. And that's where got to the point where then I don't have an
+answer. So where do you fit internationally? And in some ways, I think
+early economists sort of felt, yes, this will probably hurt not help
+at least well off in our country, but it'll certainly help the other
+people an enormous amount. And it has the gains to society, of world
+society have been enormous over the last 2030 years.
+
+                        MGM:
+I guess the question is I don't really have an answer to that, but I
+guess we're running short on time here. But I think thanks for the
+overview and kind of the discursions and the other things, I suppose
+in general, do you think someone I mean, it sound like yourself,
+you've moved to different directions, but I still find a lot of really
+interesting I think this is still worth stumbling upon and reading. Do
+you think someone is misguided? Do you think that there's still a lot
+of potential and application?
+
+                  David Colander:
+No, I think, number one, there's a lot of theoretical potential in
+sort of specifying that because what it does is operate in between
+micro and macroeconomics and that's where the developments have to
+take place. So I think there's enormous potential gains there. And in
+sort of framing the policy discussion, I think there's enormous
+possibilities for that. On both of those, I think there's enormous
+possibilities. And I made a decision that I go to a liberal arts
+school and teach. So I didn't get the graduate students that I would
+have wanted and hoped for to discuss that because I would have been
+suggesting a whole variety of sort of movements along those lines and
+suggesting that. So yes, I think anybody's interested sort of should
+read about it and think about it because it's a different way of sort
+of thinking about the aggregate economy. That's a way that's
+consistent with what I think good theoretical economists understand
+and good practical economists also understand the limitations of what
+you can do.
+
+                        MGM:
+Okay. I think my only regret is that it isn't easier to run across
+copies and print. I was lucky enough to stumble upon here and there,
+but I guess fingers crossed. Maybe they go back and print someday.
+
+                  David Colander:
+Good.
+
+                        MGM:
+Yeah. Thanks for sharing the time here today. It's really been a
+pleasure to talk.
+
+                  David Colander:
+Good. Nice talking to you.
+
+                        MGM:
+We have been talking to Professor David Colander all about market,
+antiinflation plans and much, much, much more. You can find this
+program in all previous episodes of the Henry George Program at the
+website. Seethecat.org, this is a presentation of KZSU Stanford.
+
