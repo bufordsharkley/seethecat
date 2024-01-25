@@ -1,0 +1,1304 @@
+                        MGM:
+KZSU Stanford, 90.1 FM. I'm Mark Mollineaux. This is the Henry George
+Program, a show all about land, policy, and politics. We're here in
+2024 and starting off with an episode about a housing elements. We're
+taking a deep dive into the state housing planning apparatus. And who
+better than Kevin Burke: housing elements watchdog, housing elements
+whisperer of East Bay For Everyone to take us on this journey, we'll
+be talking about how this process has been going from jurisdiction to
+jurisdiction, getting to issues such as fair housing provisions. We'll
+talk about what everyone wants to hear: builders remedy, and even talk
+a bit about land value. Without further ado, let's just get to it. So,
+Kevin, thank you so much for being here today.
+
+                    Kevin Burke:
+Thank you so much for having me. I'm excited to be here.
+
+                        MGM:
+Yeah, so this is not the first time we've talked about housing
+elements. We've talked about how housing elements have been incubated,
+a lot of the process, you know, some of the watchdogging down in
+southern California. But one, it's a big issue. I think it's worth
+going back to this, again and again, because it's an interesting
+example of state planning: what is California trying to do to make
+housing happen? And two, there's been a lot of interesting updates,
+both as far as what's happening in northern California. And builders
+remedy wasn't even a thing a year and change ago. So I guess just
+introduce yourself and talk a little bit, what got you, specifically
+into the world of housing elements.
+
+                    Kevin Burke:
+Yeah. So professionally I work as a software engineer and I guess I
+got interested in sort of housing both through: it just seems like a
+lot of the issues in this area kind of boil down to the housing know
+both personally, like my friends and family can't afford to live in
+the Bay Area. And kind of from a public policy perspective, it just
+makes every problem so much harder if you can't hire middle income
+workers because they can't afford to live here. And then going to
+meetings in San Francisco and realizing the crazy things that people
+were saying at public hearings. But yeah, how I got interested in
+housing elements specifically is I thought they were a really useful
+lever for shaping public policy and sort of influencing public policy
+because the penalties for not having a compliant housing element are
+pretty severe. So cities are paying a lot of attention to it and the
+state's paying a lot of attention to it and there aren't a lot of
+opportunities to personally be able to add hundreds to thousands of
+housing units or not that you're directly building them. But changing
+zoning in such a way to make those units possible to build, if you
+were going to do that directly, financially, you'd need tens of
+hundreds of millions of dollars. That's a pretty neat way, I think, to
+have a lot of impact on housing in California is how I saw the
+opportunity.
+
+                        MGM:
+Yeah. What's the 30 second pitch for people who may not be familiar?
+What's your elevator pitch for housing elements 101?
+
+                    Kevin Burke:
+Yeah. So every eight years, the state requires every jurisdiction in
+the state to show that it has basically the capacity to add a set
+number of new homes. And so this number changes for each city and
+county. But basically the city needs to show that it has the capacity
+and that it has sites where people are going to build those. And so
+the problem is that cities are not really interested or incentivized
+to try very hard at this. And so that's where kind of, if you're an
+advocate, if you can point out the flaws in city's plans, you can
+force them to submit better plans and actually have a more realistic
+chance of getting the housing built in the numbers that they say they
+tell the state that are actually going to get built.
+
+                        MGM:
+And to clarify, this isn't new. It was rolled out like 1980 or so.
+Actually, I'd be curious with the first cycle, what was the
+motivation? Because it's weird that they made these happen. You must
+have a housing element, but then they just kind of honor system, just,
+"have fun out there", because they didn't matter at all for better
+part of 30 years.
+
+                    Kevin Burke:
+Yeah, absolutely. I think it's kind of this weird. So this is the 6th,
+we're going through the 6th cycle, which depending on where you are,
+is like starting in 2022/ 23 and ending in 2030, 2031. But yeah,
+there's kind of this weird, like kabuki theater where the state
+doesn't want to directly say that it's trying to build housing or add
+housing. And so instead they use this kind of indirect mechanism of
+telling cities, okay, you're responsible for planning this many new
+homes, you're responsible for planning this many new homes. And then
+the cities kind of have more control showing it where the homes are
+going to go inside of the city. And generally this hasn't really led
+to good results in the past for a few reasons. One is the cities don't
+want to build housing at the rates that the state wants them to build
+at. So they've in the past submitted a bunch of infeasible sites.
+There's a really good LA Times article by Liam Dillon focused on
+Foster City. That kind of covers--
+
+                        MGM:
+But I feel like that's a more recent thing. Kind of in the past they
+wouldn't even, I guess, did they always have site inventories or has
+that been adapted? Because I feel in the past they can say whatever
+and they would just like, first, in the past, the overall numbers were
+far less. And then two, they just wouldn't do it. They just would say,
+oh, we did 5%. Oh, we tried really hard.
+
+                    Kevin Burke:
+Right.
+
+                        MGM:
+We'll do better next time. Which is, yeah, I mean, there's nothing
+there. At least now, reading all these housing elements in this
+current cycle where one, they have higher requirements and there are
+actual consequences through several different policy levers which we
+can get into, I'm reminded of nothing so much as just like, insolent
+teenagers doing homework or something. It's so many people trying to
+fudge their numbers, trying to get away with stuff, and it's just this
+weird back and forth, back and forth. But yeah, I mean, as you talk
+about fake site inventories is something we see. We talked about this
+down in southern California. But yeah, I think just tell people again,
+what does it mean when someone kind of fakes that kind of stuff?
+
+                    Kevin Burke:
+Yeah, I mean, you're kind of right. If you go back and look at the
+first housing elements, it'll be like ten pages or something like
+that. And then now you go and look at a housing element. There's like
+600 pages of evidence. And I think part of that is the state sort of
+demanding more evidence. And part of it is the laws have kind of
+changed about what sort of things you need to submit as part of your
+housing element. The consequences of submitting a fake site inventory.
+So let's say I'm like an average size city. You could say I'm like
+Danville, for example. And I have--
+
+                        MGM:
+That's a town.
+
+                    Kevin Burke:
+Yes. And I have 40,000 residents and I've been asked to add 2000 new
+homes by 2031. And so I might allocate those to a bunch of different
+sites in my town and say this site is going to build 200 apartments
+and this site is going to build 50 apartments, and this site is going
+to build ten apartments or whatever. And we're going to add this many
+adus and all those together kind of add to 2000. Plus you're supposed
+to add a little bit of buffer because accidents happen and the buffer
+is entirely insufficient. But that's another story. So the issue is if
+you submit fake sites, basically, like you're getting away with a
+lower sites inventory than otherwise, you would be submitting. Right,
+if half of that inventory is on fake sites. And realistically, you're
+looking at adding about 1000 homes instead of 2000. So the game for
+advocates is to try to disqualify as many sites as possible in order
+to sort of try to concentrate higher levels of development on the
+feasible sites. And that can take increasing base densities or sort of
+triggering rezonings on feasible sites. For example, in Lafayette,
+they were trying to count their Bart parking lot in their site's
+inventory. And our argument was essentially around the site is not on
+BART's plan for sort of where they're building housing in the next
+decade. And also it has a contract with a solar panel developer.
+There's solar panels on top of the site where they'd have to pay $3
+million or something to get out of that contract. And so we were
+successful at basically disqualifying that site. And I mean, they were
+counting on like 800 units on that site. So as a result of that, they
+had to reallocate those units to other sites in Lafayette and increase
+the base densities there.
+
+                        MGM:
+Yeah, it'd be nice if BART could move quicker and redevelop all their
+parking lots. But as we see in North Berkeley, it's unfortunately slow
+mostly. I mean, it seems like it's mostly a probabilities game. In the
+past, I think you mean for at least cycles in the past, as long as you
+get your numbers up, they rubber stamp it. But now it's like you have
+to multiply every one by what's its probability? And if it's like
+something is a 95%, yeah, that's basically a one for one. But you
+could have everything from like, oh yeah, flip a coin, and then you
+have to have twice as many. But if you find like really dubious ones,
+that just won't happen. That should be discounted essentially to 0% or
+close to it. I noticed here, like you were talking with unincorporated
+Contra Costa County and your letter was recommending because they need
+about 8000 units and you were recommending 40,000 or so, basically a
+five times multiplier. That's basically giving a 20% probability. Do
+you think a realistic, or is this how to do with these specific
+context of--
+
+                    Kevin Burke:
+It depends. Realistic in what?
+
+                        MGM:
+Or you just make a maximalist demand just because it's better?
+
+                    Kevin Burke:
+If you go back and look at like for example, in the last housing
+elements and people have actually done these and there are various
+kind of tools online that you can look at that sort of show this, but
+I mean, it's about that percentage, right, which is about 20%, where
+you say in the fifth cycle, if you said a site was going to turn into
+housing, maybe about 20% of the time it did.
+
+                        MGM:
+So big cities, small cities, suburbs, 20% is pretty good across the
+board.
+
+                    Kevin Burke:
+Yeah. I mean, the other thing that you see a lot of times is that
+sites that aren't on the inventory become housing, because this is
+kind of like an imperfect exercise. Sure. So their guidelines are
+basically like, assume an 85% conversion ratio or like 15% buffer, and
+that's just like way too high. When you look at how many sites people
+are allocating in the last cycle, and you look at some of the specific
+sites, we had a conversation with someone at HCD where basically we're
+saying a lot of these sites, cities are submitting are just complete
+junk. And what this person said was, well, look at the Fry's in Palo
+Alto, which they included. And even though it was like a healthy
+business, Fry's. And then, oh, they went bankrupt, and now it's
+turning into housing. And this was their argument for saying basically
+like, well, we should accept cities when they submit any kind of junk
+in their site's inventory. But a more realistic approach would be to
+say, okay, let's assign a probability that fries goes bankrupt to,
+say, 3% to 5% or something like that. And then you multiply the number
+of units you could get on that site by 3%, and then you count that
+towards your inventory. And so if you did that, you could include a
+larger number of sites at a much lower probability. But in reality,
+what a lot of cities are doing is just throwing in bad sites and
+saying that there's an 85% chance that they're going to become housing
+if they were trying to actually hit the numbers. And then the other
+issue is kind of the lower income numbers, where if you look at the
+targets, they assume about 45% of every new home is going to become
+offered to lower income residents. A much more realistic numbers,
+around ten to 15% when you look at new housing. So the way to sort of
+hit your lower income targets is to massively overshoot the market
+rate. You get ten to 15% of those at lower income and you can actually
+hit your lower income targets.
+
+                        MGM:
+Yeah, I think getting the subsidized or directly or indirectly
+subsidized tranches, I think that's a much more difficult thing to do.
+And I think we'll get into that kind of. I'll earmark that. But yeah,
+as you're talking about the 15% buffer, it's kind of treated as like,
+oh, yeah, that's just good practice, but it seems like that's not
+empirically backed up. And then on top of it, people are not even
+hitting that. A lot of places are squeezing in under 1% and I think I
+read that Danville just, like, missed their target. They're under it,
+which is. Are they going for partial credit? Like, what are they doing
+there?
+
+                    Kevin Burke:
+Yeah, so, I mean, the buffer is just a guideline. All you have to do
+under the statute is just identify sites for 100% of your arena.
+
+                        MGM:
+But if you. Not 100%, if you only hit 95% of it, do they not just
+flunk you out of the gates?
+
+                    Kevin Burke:
+Yeah, they should, and they did in Danville's case, but, yeah, so
+Danville, basically, the issue there was they circulated a draft where
+the lower income targets just didn't add up to what their lower income
+RHNA was. The way that they dealt with this is they assumed that they
+changed the assumptions about every single project to just increase
+the number of lower income units on each site. So, like, a site that
+had 100 units, and previously they said 25% of these are going to be
+lower income. Now all of a sudden, they're saying 33% of these are
+going to be lower income in their newer draft. I mean, it's all just
+completely made up.
+
+                        MGM:
+Well, if you cook your books, shouldn't the numbers add up to be
+correct in the end? It's weird to cook your books, and it's not adding
+up.
+
+                    Kevin Burke:
+Yes, but it's a way to cook your books that, like, HCD accepts.
+
+                        MGM:
+Okay. I don't understand why they couldn't actually hit their total.
+If you're just lying, it shouldn't be hard to.
+
+                    Kevin Burke:
+Yeah. So anyone's site, in theory, a lower income housing developer
+could buy it and develop lower income housing. The reality is that the
+funds for those sorts of projects are pretty limited, and we're still
+probably, I don't know if I had to guess, around 90% of homes on the
+market are being produced at the market rate. And so then with market
+rate, you get basically, like 80% to 90% of the units in a project are
+going to be market rate. And then you get some number of units offered
+at inclusionary, what's called, like, inclusionary zoning. So you get,
+like, 10% to 20% of the units at sort of below market rate or lower
+income housing.
+
+                        MGM:
+Yeah, kind of. This is a pet peeve, which is at least it's a trend,
+which is a lot of people whining about. I mean, I'm thinking
+specifically about people in San Francisco. They whine about hitting
+their new market rate targets, saying, well, "last cycle we exceeded
+our market rate targets. We did badly on subsidized." And there's,
+like, two different responses to this, which is just the fact that,
+well, now you have to do more. They had 30,000 last time. It's 80,000
+this time. So it's over two times as many. It's like, okay, you hopped
+over the hurdle last time. Let's see if you can do this taller one and
+then two is they're saying, okay, it's like, the problem is a lack of
+subsidized. And as you're saying, one strategy, and really the main
+strategy is you get subsidized units by having a percentage of new
+build through IZ of market rate. So it's like, okay, well, if that's
+your strategy, you need to build a *lot* of market rate, or you need
+to find novel and different ways to build only subsidized, which means
+you'd need to find all this revenue. And the people who whine about
+the market rate are never serious about this. At least I never hear
+people talk about, here is my plan to build only subsidized? I don't
+know.
+
+                    Kevin Burke:
+Yeah, so there were people in San Francisco who are throwing around
+numbers. Like, the state should give us $40 billion or $50 billion.
+Yeah.
+
+                        MGM:
+If the state just gives it to you, that's great. Yeah.
+
+                    Kevin Burke:
+I mean, that would be just for San Francisco alone, that would be like
+a third of the state's budget or like a quarter of the state's budget
+for all purposes. Right. Not even, like, housing. The amount of money
+that spent on housing, that's, like, all of the money that goes to
+every education system. And so, like, yeah, if you want to give a
+quarter of the state budget to San Francisco to build affordable
+housing, yes.
+
+                        MGM:
+You can build all of, like, I guess you have two choices. You can
+either build your subsized units by also building market rate at huge
+quantities, or you can bankrupt the schools. These people market rates
+so much, they'd rather bankrupt the schools.
+
+                    Kevin Burke:
+Yeah. I mean, it's just an artifact of the RHNA targets are just an
+artifact of people basically looking at RHNA numbers and then saying,
+oh, well, we should propose higher, lower income because it's more
+important. Which is like, that's reasonable. That makes sense. But it
+also leads to this sort of distortion where the percentages given to
+each city don't match up with the percentages that actually get
+proposed in project developments. And so you end up with this sort of,
+everyone overshoots their market rate or gets closer to their market
+rate goal than they do their lower income goal, just as the nature of
+the way that works out.
+
+                        MGM:
+And I could see if a place is a poorer, disadvantaged city that is
+kind of helpless. It's like, oh, "we're more of a ward to the state.
+Please, you need to give us funds." But San Francisco is a rich. And
+the thing, too, I hear this the most. San Francisco gets my hackles
+up, but Beverly Hills claims this. And I say again and again, you're
+rich. If you really care about subsidized units so much, you can raise
+the revenue and build it, but you don't. I don't know. It's like this
+weird, simultaneous helplessness, but just unserious. I don't know. I
+think the cynical read is just, this is just a bunch of creating a
+distraction to say why you can't just build new housing. And I think
+that's the correct read, but I don't know.
+
+                    Kevin Burke:
+Yeah, so one of the sort of most promising legislative fixes to come
+out of sort of working on this has just been. I feel like the most
+effective would just be to triple or quadruple the market rate. RHNA.
+And then I think you just have fewer places to hide if you're a city,
+because you need to rezone a lot more parcels. And then also, there
+wouldn't be so much nitpicking over individual sites because
+individual sites wouldn't matter as much. And the other thing is that
+would also sort of insulate you from complaints about, oh, we overshot
+our market rate and we undershot our lower income. I don't know how
+politically feasible that would be. But there certainly solve a lot of
+the kind of problems that we're seeing with sites, inventories, and
+the sort of RHNA process.
+
+                        MGM:
+Yeah. Personally, I'm not the hugest fan of IZ, just as far as it's
+like a weird break you're putting on the new housing. I'd rather find
+different ways to, I think, decouple it. I mean, I do like the per-
+building integration to some degree. I don't know. I feel like
+decoupling it instead and just having a big fund full of, here's your
+subsidized funds instead of. I don't know. That's another question,
+too. How far are your subsidized funds going? We have all these
+different countywide measures, but the money doesn't go that far due
+to different reasons. And I guess it's good to have the numbers,
+because it's like a target for number of units, which is the important
+part. But if you're just failing at doing it, unlike the market rate,
+there aren't the same penalties. But I don't know, it's tough. It's a
+historically big problem. How do you build subsidized units in big
+quantities? And it's not easy.
+
+                    Kevin Burke:
+Yeah, I mean, the other issue that people don't really talk about is
+that it sort of shifts enforcement to all of these different apartment
+owners. If I have, for example, a ten-unit subdivision, which I live
+in Walnut Creek, and there are a fair number of these. So now you're
+doing one unit at below market rates, and so now you need to be
+responsible for income verification and policing and making sure that
+this person isn't like renting out the unit. And I mean, you've seen,
+even in San Francisco, which in theory has the resources to do
+something like this, a lot of their subsidized units are just vacant
+because of various sort of difficulties with administering the
+program.
+
+                        MGM:
+How do you get on? Do you have a billion different queues? A lot of
+times you do. It's like, if you're looking for affordable housing,
+it's like, first you need to find out, how does this work? Then? What
+are the million pieces of paperwork I need to do to apply for a
+million queues and then wait for seven years at least? I don't know. I
+don't think you can look at the end like, this is good for people. And
+I'd say, like, the people who actually are, like, look at our
+politician class. How many people are living, in deed restricted,
+subsidized units? Essentially zero. And I think it's a sign that we
+consider, "oh, it's housing for others." I think if we had more people
+actually deal with these headaches, we probably would remedy some of
+these headaches, but it's kind of a tangent. So here's the big thing.
+Housing elements are incredibly exciting in, I think, some of the
+larger scale--, at least it's how we're doing business right now. And
+it's nice to see all these cities whine, but I think you're dealing
+with Alameda County, Contra Costa county over in the East Bay, and
+also East Bay for Everyone is dealing with San Francisco too, because
+why not? But there's so many cities between the two of those. You're
+talking about 35 cities, cities and towns. And I don't know, it feels
+like I've been keeping track myself in, like, Palo Alto, I've spoken a
+few times mostly to taunt them, because I feel like, I think a better
+process than seeing compliance is seeing them screw. But how do you
+deal with all these different. There's too much going on, too many
+deadlines. I'll just be honest. I feel overwhelmed and confused. Does
+your workflow just actually mesh with us pretty well, or how do you
+deal with the chaos?
+
+                    Kevin Burke:
+Yeah, it's a good question. So we've tended to focus on jurisdictions
+where sort of regulation is a bigger barrier to getting housing
+approved. And so this tends to be the more exclusive jurisdictions.
+
+                        MGM:
+So places that you are not looking at would be, for example?
+
+                    Kevin Burke:
+Well, like, lower income. I mean, like Antioch, for, like, we did not
+really look that hard. Okay.
+
+                        MGM:
+You did have mean. But I think in particular, we were.
+
+                    Kevin Burke:
+Looking at, like, Rockridge, we were looking at kind of missing
+middle, because the issue in Oakland, I mean, you'll see this again
+and again, and kind of housing elements is they were concentrating so
+much of the new development in sort of the lower income east Oakland
+areas and less in the hills. Not that they should be putting
+everything in the hills, but, like, every neighborhood should have its
+part and more around their downtown bar stations than less around
+Rockridge. And Rockridge was downzoned in 1970 in response to an
+affordable housing development that went in there. And so a lot of our
+sort of efforts went around sort of explaining the historical context
+to hed and trying to get those reversed. I mean, we were massively
+successful doing that, and we ended up getting a really strong missing
+middle program pass, which is now implemented, and also rezonings in
+Rockridge, which got passed there. And then in Contra Costa County.
+It's a lot of the housing, a lot of the cities on the 680/ -24
+corridor. So, like Orinda, Lafayette, Walnut Creek, and then
+unincorporated Contra Costa County, which is Alamo, and pockets
+throughout and Danville have kind of been the cities that I've been
+focusing on in particular. And in terms of workflows, it's really
+hard. Basically, I kind of just track this a lot by email. So you try
+to sign up for everyone's email distribution list, and then they're
+basically required to send out emails when they have a new draft for
+review or when the city council is reviewing something. And so then
+you get those and you kind of circulate. And we collaborate a lot in
+slack with other people on our team to say, here's what we're sending.
+Here's our notes on this draft that come in. The other thing is that
+you can skip a lot of kind of the documents. So it's 600 pages, but
+you don't necessarily need to read 600 pages of everything. The really
+big things to focus on are like the sites inventory, the constraints
+section. So the constraints section is like here are all the different
+ways that we make it hard to build housing. So we impose parking
+minimums and then you have to build parking in addition to the
+housing. Or we set a height limit of 30ft or we set zoning restraints
+that will permit a maximum of ten units per acre. Right. Or we have
+minimum lot size rules and so they're supposed to write all these
+down. So that's another thing you can ding cities on is like you're
+not analyzing these constraints properly. Here's a constraint that you
+didn't analyze and then the other one is programs, which is like your
+programs are supposed to fix all the things in your constraints
+section and make it possible to achieve the housing. We've been able
+to get some pretty good programs in, in a lot of different cities for
+things that they're supposed to do to facilitate sort of housing
+development.
+
+                        MGM:
+Yeah, I guess you have kind of like the distribution of how you're
+trying to set up housing within your district. And then there is the
+overall hurdles that apply to any single parcel. I think those are
+both interesting. I think the overall hurdles, it's nice to fix it
+there. I mean I think it's nice if we fix that at the state level
+because a lot of these bad policies should just be stripped away at
+every single juncture. Again, I mean I don't follow the East Bay
+stuff, you know, closely and you know, kind of at a very top level
+familiar with a lot of these jurisdictions. But I guess my main
+experience is Palo Alto and I can see these sins come again and
+example. I mean I think this is probably a running trend in most
+places. You talk about where are you going to put your new housing?
+And to like if I were the God know, doing this in Palo Alto, I would
+say around the two Caltrain stations it should look like Hong Kong, it
+should go very tall. And they've done something in their downtown, on
+University, but on their other one there is a place like Old Palo
+Alto, I used to live in ADU there, and it's old bungalows, small
+little things, they're all really expensive now obviously. And they
+didn't touch this at all. This is a walk from a Caltrain station and
+they say oh we're looking for new sites, this doesn't get touched.
+Instead they put sites up by the highway on former industrial sites.
+They're looking to tear down retail centers. To me, it's not like I
+feel like, oh, we need to preserve all retail centers as it is in
+places. They're looking like, oh, we're going to tear down the
+McDonald's on Page Mill. It seems to be like that, people eat there. I
+would rather tear down a bunch of, and make dense a bunch more
+residential areas. But places, in my experience, they don't touch the
+residential areas. Is that a pattern that you'd see in most of these
+places or any places actually touching the residential centers?
+
+                    Kevin Burke:
+Yeah, absolutely. It's absolutely a pattern. And it's really
+unfortunate. I mean, it's just very kind of silly is that when you see
+kind of these big bills come out like Senate Bill 50, which would have
+rezoned everything around transit kind of by. Right. And the pushback
+from all these cities is local control. We know best where housing
+should go. Trust us, we're going to do it. And then they put up these
+plans where all of the housing is kind of concentrated around big car
+thoroughfares and away from kind of transit in ways.
+
+                        MGM:
+That are going to not even thoroughfares like the way Palo Alto is
+tucking them in industrial areas that are so. And people have done
+this in the, like Mountain View has done better in the past, but I've
+done flyering and knocking doors in townhouses built in old industrial
+centers. And you realize it because you have to walk 2 miles to get to
+transit anywhere.
+
+                    Kevin Burke:
+Yeah, so, I mean, the explicit guidance that Danville Town Council
+gave staff at the start of this process was keep everything away from
+single family zones. And that was kind of their overarching
+consideration in where to kind of identify new sites. But yeah, you
+see this just again and again, like in Contra Costa County, basically,
+in Contra Costa County, it's a collection of unincorporated areas. So
+North Richmond is an industrial zone. Crockett, Rodeo, Bay Point, all
+of these are sort of lower income. All of these have higher
+populations of minorities, have worse schools, have worse pollution,
+and then you have kind of higher income, higher white populations,
+better schools, less pollution, places like Alamo and Saranap and
+Kensington and even Discovery Bay. And basically a disproportionate
+amount of the site's inventory is going into the lower income areas
+with more minorities. Every map they put in in Contra Costa county
+looks like the same map. And the state has these guidelines, which,
+thank goodness, they're finally kind of pushing back on this and
+saying these new laws that pass around fair housing, and they say
+basically it's not fair to do this. Right. We're not giving people an
+equal shot at having opportunity. Right. If you talk about the people
+who are going to be moving into these new apartments, a lot of them
+are going to be putting the kids in worse school districts. I mean,
+personally, I think it's a lot easier to keep a good school know and
+have it accommodate sort of more students in a lot of cases, prevent
+enrollment declines, which is one thing that you see a lot in the San
+Juan Valley than it is to take a bad school and sort of transform it
+into a good. So I think that's just like really unfair that they're
+doing that. And so finally, this cycle, this state has kind of tools,
+some tools to push back on things like this. Unfortunately, it is.
+But, yeah, I mean, this pattern of kind of disproportionate, let's put
+stuff in industrial sites, let's put stuff in more heavily polluted
+areas, is unfortunately pretty widespread.
+
+                        MGM:
+Yeah, I guess it seems to me like maybe it's harder to quantify
+because there is, as you say, the fair housing, the AFFH requirement
+as part of this process. And maybe I was a bit naive, but I thought,
+oh, like Palo Alto doing it this way, this alone will cause them to
+say this is a fair housing. Think they're, it seems like they're not
+really saying that not touching single family housing in areas that
+should be changed is enough of a fair housing violation itself. Or how
+does that.
+
+                    Kevin Burke:
+Mean? The issue with the fair housing, the way that the fair housing
+guidelines came about is the Obama administration put out these fair
+housing guidelines at the federal level that didn't end up getting
+implemented. And so someone took those and said, well, we can just
+implement these in California. So then they basically adopted those
+for California, passed it, signed into law, and there's a lot of good
+stuff in there, like you're supposed to analyze sort of like patterns
+of access, historical segregation. Things have led to segregation.
+Like in Lafayette, for example, the town was 99% white in 1960, and
+13,000 people moved to Lafayette between 1960 and 1970, and it was 99%
+white in 1970. So they've never had a similar number of people move.
+So, I mean, you're looking at huge numbers of white residents at a
+time when segregation was through a number of formal and informal
+methods enforced in know it'd be harder to get a loan. If you were a
+black person in Lafayette, your realtor probably wouldn't even show
+you houses. Not to mention a lot of these homes and subdivisions might
+have had something in the CCNRs that says you can't sell this house.
+To a black person. In 1968, they voted to incorporate. In 1974, they
+passed a general plan that reduced the density on a ton of different
+sites in Lafayette. And so this is kind of the context. And today it's
+like an 80% white suburb. A ton of white people moved in and then they
+basically voted to downs on the town. And since then, it's pretty much
+stayed really white. They've never had a chance. There's never really
+been an equal opportunity for black people to move in. Since we've
+sort of reduced the de facto segregation levels and sort of lending
+and showing people apartments and home sales, this is the thing that
+they're trying to reverse. This is the thing that cities are supposed
+to analyze. The problem is that the guidelines, they're kind of like,
+you need to explain what you're going to do to remedy this. But
+they're not really quantifiable for understandable reasons. But the
+problem is that makes it really hard to enforce versus something like
+the sites inventory, where the law for sites inventory is basically
+like you are supposed to show. If you're talking about a non vacant
+site that's something with any kind of store like business or
+apartment on it, you're supposed to show substantial evidence that the
+existing use will discontinue. Right? That's what the law says. It's
+literally a text of the law. So that's really clear. The city needs to
+show substantial evidence that this use is going to discontinue. So if
+you're saying a preschool is going to turn to housing, it's like, show
+me evidence that this preschool is listed on LoopNet or something like
+that.
+
+                        MGM:
+You create a betting market if you want to. That's an actual claim.
+
+                    Kevin Burke:
+Sure.
+
+                        MGM:
+As opposed to segregation, like segregational end. How do you
+adjudicate that in the end?
+
+                    Kevin Burke:
+Yeah. So developer sent a letter of interest. So that's really clear
+guideline where fair housing is much more sort of vague. And so
+similarly, the remedies. How are you judging whether this is an
+appropriate remedy for fair housing or not? Right. So a lot of it has
+sort of come down to the discretion of people at HCD and sort of what
+advocates are pushing for. I will say we've had better than
+anticipated results. Honestly, I've been grateful for how much HCD is
+willing to push back, but at the same time, it has been kind of
+frustrating and it has been a little bit inconsistent, city to city,
+in terms of what cities can do and what cities can't. Like Orinda, for
+example, they made no changes to single family zones. Right now it's
+legal to sell in Orinda like a $4 million mansion. That's 6000 sqft.
+But if you wanted to build three 2000 square foot triplexes, you could
+not do that. That doesn't really make sense to me from a fair housing
+perspective in terms of who can afford Orinda and sort of increasing
+the amount of affordability and the number of people that have access
+to opportunity in, you know, Walnut Creek, we were pretty successful
+in getting a program to reduce the minimum lot sizes in. That's.
+That's something that I hope HCD will look at and legislators will
+look at in sort of future iterations of this process.
+
+                        MGM:
+Yeah, I'm thinking more about like just the quantification part
+because I feel some, you can talk very broadly about kind know fair
+housing in the abstract. If quantifying it, there are ways to do it. I
+mean, you can quantify racial segregation to a large degree. There is
+data on race populations in different areas and also geographies, I
+suppose, making that actionable. I worry if you kind of tie it to
+outcomes, if that will kind of run afoul of race. Quotas are generally
+not looked upon well in the law. And if you say you can't be
+segregated white, I don't know if that's going to be kind of an issue.
+There are ways to kind of look at things that correlate highly with
+that, or just class stratification. Where are different people at
+different income levels living? And if you do it that way, you don't
+have the same race issues. And it seems like it's a pretty good, if
+you're seeing a bunch of concentrated high income people, you're
+probably dealing with something that is either downstream of past de
+facto segregation or just is working to be or de jure segregation and
+is working to kind of be de facto segregation. On top of that. To look
+at one thing, and I always pointed the title of this show, a lot of
+this stuff is exhibited in the form of land values. If you are putting
+your site inventory on low land values, that's a bad sign. In your
+city, there really should be something like a reasonable ratio of
+number of people dwelling on a certain value of land. High land value
+should have higher numbers of people and vice versa. And I don't
+think, again, it's harder to do this because we don't actually assess
+parcels in California as often as we should. But I think we probably
+could look at that and kind of say, yeah, it's give a mean. I'm just
+kind of looking at ways you can kind know, give objective grades.
+
+                    Kevin Burke:
+Exactly. Yeah. So, I mean, we've proposed in Contra Costa County, for
+example, like a number of tests that we think are reasonable for sort
+of evaluating fair housing. The mixed use densities in the higher
+income areas, are they equal to the mixed use densities in the lower
+income areas? Right. Or do you have, like, for example, if you're
+proposing 100 units an acre in Bay Point, you should be proposing 100
+units an acre in Alamo, single family rezones. So what densities?
+Basically, the way that this works is when Contra Costa County was
+first built, like all of Alamo and Danville was zoned for
+agricultural, with a minimum half acre lot size. And so then later
+that was turned into basically like, what's called the r-20 zone,
+which is like a minimum 20,000 square foot lot size. And that zone
+just does not exist in lower income parts of the county at all. And
+so, I mean, that fact is just like massively unfair. So you can
+propose whatever development standards you want for the r 20 zone, but
+just its existence.
+
+                        MGM:
+Where are the gentleman farmers supposed to live in the low income
+places?
+
+                    Kevin Burke:
+Right. It just does not exist in Crockett. Right? There's no r 20 zone
+in Crockett or Rodeo or North Richmond. And so, I mean, what we're
+saying is, like, if you're sort of going to rezone these lower income
+areas for seven to 17 units per acre, which is a pretty common single
+family rezoning that they're doing now in these lower income
+communities, you should also be identifying similar numbers in the
+higher income communities and rezoning those for seven to 17 units an
+acre.
+
+                        MGM:
+I do wonder. This is kind of a question which is looking at different
+areas. I can make examples in the peninsula, compare Palo Alto, Los
+Altos Hills. But I'm guessing if you compare, like, Rockridge to
+Alamo, I mean, I might be off base here, but Danville is kind of, I
+think, on the same. Like, what is the difference between kind of city
+core, transit connected areas and bedroom communities, which are kind
+of badly sited? Some places are rich, but also they're, like, distant.
+And I suppose if you ask me, should Palo Alto be as dense as Los Altos
+Hills? I would say it should be denser. Los Alto's Hills is. I mean,
+if you really ask me, I think it should be depopulated. It's like,
+it's know, rich jerks living in the hills on giant. It's like if you
+build towers there, it's very hard to get people to the rest of the
+area, as opposed to literally Old Palo Alto, is blocks away from
+Caltrain. That should be where your towers are. I guess that's a
+question. Is Alamo, like, kind of a badly attached bedroom community,
+or does it have connectivity?
+
+                    Kevin Burke:
+So it's a good question. I mean, it's funny how much history I've sort
+of learned about this area as a process of doing this, because you
+really need to understand the history to sort of figure out why things
+have happened and sort of where we're in this place that we're in.
+
+                        MGM:
+Most people only know it because Steph Curry lives there.
+
+                    Kevin Burke:
+Right, right. Well, he moved to Atherton when they moved to San
+Francisco.
+
+                        MGM:
+Yeah, because he was part of that whole letter thing, too.
+
+                    Kevin Burke:
+Yeah. Wow.
+
+                        MGM:
+He hits all the great places.
+
+                    Kevin Burke:
+But, I mean, Alamo has, like, tens of black residents in a community,
+so he and Draymond Green deciding to move there, like, significantly
+increase the black population in Alamo, which is really unfortunate.
+So, I mean, the history of Alamo is that it had a railroad running
+through it, which is owned by Southern Pacific Railroad and was
+freight only and ran from Pleasant Hill all the way down to Pleasanton
+and got bought by the East Bay Parks and Recreation district in 1980
+and turned into the Iron Horse Trail. So, I mean, there's no reason
+why you couldn't have ran past, derail there and set up stations and
+done everything. And it was also initially targeted by Bart Highway
+680 for heavy rail right down the middle of the freeway there. And
+then that was opposed by residents of Alamo, residents of Danville,
+residents of Santa Ramon, who said, we don't want our communities to
+change, and we don't want new development that's going to come from
+having a barge station in our town. And so that's why those plans were
+shelved. So, I mean, there's kind of like a circular argument here,
+which is we can't have more density because we don't have good
+transportation networks, but then also, we can't ever get good
+transportation networks because we don't have good density. Right. If
+you look at the density that you need to have a decent bus connection,
+it's higher than it is in Alamo, but you could build apartments and
+then run a County Connection bus, and that would make the bus a lot
+more effective.
+
+                        MGM:
+Yeah, I guess there's, like, different levels because, like, Atherton,
+where he moved to, that's another case that was on Caltrain, and they
+ripped out the station, you know, which is just abhorrent, whereas Los
+Altos Hills and like Hillsborough, objectively, they never had
+transit. They've always been just rich jerks. But I'm sure the Iron
+Horse trail, it was sold as railbanking, and I'm sure they'll take a
+withdrawal any day now and actually put rail back.
+
+                    Kevin Burke:
+I mean, so, like Walnut Creek, for example, they took the entire right
+of way and turned it into South Broadway, which is this really kind of
+silly, almost two mile long road with no left or right exits that
+duplicates an existing road on South Main. But the parcel is probably
+like 50 acres. You could have imagined, like a big park space, open
+space, tennis courts, any number of sports fields that you wanted.
+Instead, they thought, well, the best way to use this former train
+track right away would be put in a new road and some sound walls.
+
+                        MGM:
+Yeah, I'll say. I'm always of two binds with bike trails out of old
+railroads, because in theory, you could bring them back, make them
+dual use or something. But then I think the biggest issue is, okay, in
+almost all cases, you're going to have to widen it, at least in some
+areas. And just getting that acquisition of the right of way is, like,
+disastrously expensive. I don't know. I think it shouldn't be, because
+I don't know if this is kind of an abstract issue about, like, in my
+dream world, a land value tax. I think that you would say they kind
+of, along that corridor, you should tax it higher in someone's
+backyard that abuts it, like the back end of your parking lot. You
+should actually kind of like. Are you sure you want that back end of
+your want? Wouldn't you rather give it back to the city?
+
+                    Kevin Burke:
+I don't too. You know, even having a bike trail existing, they could
+be doing a lot more to facilitate sort of access. I mean, like a lot
+of the properties, Walnut Creek is a pretty good trail network. Not
+just the Iron Horse Trail, but also they have canals running through
+it, and each of the canals has a trail running next to it. But I mean,
+the properties along the canals, they don't have a right of way that
+opens onto the trail, the bike trail. All the entrance and exit from
+your property is to the road. And so that's the thing that you could
+address with a code. You could say if you're building a new house, it
+needs to have bike access, like a concrete ramp and a gate leading
+down to the trail, so that we can sort of facilitate using these
+networks that we have. But that doesn't exist, unfortunately, right
+now.
+
+                        MGM:
+That's another thing. I feel like on the dream world thing, better
+public acquisition would allow cities to have, like, let's create a
+cut through in all these areas right now. If you have bad cul de sacs
+and things that aren't well connected, they are never remedied. Well.
+And I don't know, maybe, I guess in theory, that could be part of kind
+of a larger city, transportation planning, and maybe it will be out of
+self interest eventually, but right now, it could be pretty dismal in
+a lot of places.
+
+                    Kevin Burke:
+Yeah, definitely.
+
+                        MGM:
+But that's kind of a side thing. So your general take is even places,
+even a lot of places that seem to be not well connected, it might be
+worth it to really put their feet to the fire and say, no, sorry. And
+also, we want to have you remedy the transportation networks you
+should have had or not disinvested in.
+
+                    Kevin Burke:
+Yes. Broadly, yes. And I think the other thing is that all of our sort
+of wealthier areas are in a lot better position to deal with all these
+problems than our lower income areas, who don't have the resources. So
+just as an example, the other thing is that a lot of times, they're
+not even trying. So a lot of the complaints. Alamo. So Contra Costa
+County submitted a draft housing element. So this is an example. Kind
+of like, when I talk know, we've asked the county to analyze just all
+of the inequalities exist. I mean, here's one is, like, when the
+county submits a new housing element, there's a group called the Alamo
+Improvement Association. And so they mail every single Alamo resident
+with every single site in Alamo that's on the housing element, and
+they know, here's where to send your comments. Send them to Candice
+Anderson, the county supervisor. And they don't say yes or no, but
+it's, like, pretty clear which way they want you to go. And so as a
+result of the comments that were submitted on the housing element,
+there were maybe 80 comments, and 65 of them were from Alamo
+residents. And Alamo is maybe 10% of the total unincorporated
+population of the county. And they're submitting, like, tons and tons
+and tons of the comments on the housing element.
+
+                        MGM:
+What are the dynamics? Because I know most places, I mean, this kind
+of goes a lot of places you find, and you say, well, if you don't get
+an order, we're going to disincorporate you. And Alamo is
+unincorporated, but they seem to be thriving in their own sense within
+the unincorporated county. I guess that's also a big question of,
+like, what do cities gain and lose by incorporation? And what is the.
+They're apparently still calling the shots, I guess, even though.
+
+                    Kevin Burke:
+Yeah, I think the tides kind of turned a little bit now that each city
+has kind of like, now that I think the RHNA mechanisms are taking into
+account sort of how wealthy you are and how sort of jobs rich your
+communities are and sort of access to its transit. I mean, even a
+place like Danville, when you compare to somewhere like Brentwood,
+it's so much closer to BARt and so much closer to San Francisco that
+it sort of scores higher, even though if it's 1015 minutes down the
+freeway. But yeah, I think you see this just basically anytime anyone
+submits an application for new housing in any of these racially
+concentrated areas of affluence, I see this over and over again. It's
+unincorporated Walnut Creek, Alamo. I was looking at one in Discovery
+Bay today. There's just tons of community opposition. Like, the people
+know how to organize to fight these projects. It doesn't even matter
+what's being proposed.
+
+                        MGM:
+People live in Discovery Bay. But it's a weird canal city.
+
+                    Kevin Burke:
+Yeah, it's an interesting mean because it's way out.
+
+                        MGM:
+It's past Antioch, but I've wanted to visit it for a while. But what
+is it like?
+
+                    Kevin Burke:
+I've honestly, I've never been, but the demographics, it's
+significantly wider and significant. The median income is higher than
+the surrounding communities.
+
+                        MGM:
+Are there people working like the FIRE industry? Is it similar people
+that work and live in Walnut Creek or. I don't understand why it's
+like Walnut Creek. That's too hustling and bustling for me. I need to
+be out in Discovery Bay.
+
+                    Kevin Burke:
+You know, I think the wealthy communities, back to my point of, like,
+the wealthy communities, I think, have more resources to solve these
+problems. So Alamo, like, a lot of the complaints when you go and read
+through all these letters are school pickup traffic is bad,
+specifically around Rancho Romero elementary, which is right on the
+main kind of thoroughfare through town, which in Alamo is called
+Danville Boulevard. And then it changes names as you go to different
+towns. And then you go and look at it and you look at how people are
+getting to school, and it's probably, I'd say 80% to 95% is like
+individual parents dropping off their kids in a car.
+
+                        MGM:
+That's the thing people point to. They do like overhead photos. This
+is a new thing where people have a weird caravan of single family.
+It's a drive through, dropping off your kids, and that didn't exist
+decades ago. It's weird.
+
+                    Kevin Burke:
+Yeah. So, I mean, no wonder you're upset about traffic is because you
+have this incredibly walkable, bikeable location. It steps from the
+Iron Horse Trail and 80% to 95% of parents are doing pickups every day
+in a car, which means that the traffic is going on to adjacent side
+streets and it's going on to the main thoroughfare. And it's like
+every day, 03:00 and 08:00 in the morning is kind of a disaster. And
+then you say, well, what are you actually doing to mitigate this? And
+the answer is nothing. The county is doing nothing. They say it's the
+school district's fault. The school district is doing nothing. They
+say that everything outside of the school facilities the county's
+fault. And I mean, if you look at, for example, it's funny to mention
+Palo Alto, but if you look at Palo Alto, they have an amazing program
+for this and they've been focusing for decades now on safe routes to
+school and investing in making sure that it's safe for every kid to
+get to school. And as a result, the mode share for private auto in
+Palo Alto is under 50%. So that means that more than 50% of all kids
+at every single level at elementary school are walking or biking or
+taking the bus or carpooling to get to school.
+
+                        MGM:
+I will say it's good, but also bleak dimension of that because Palo
+Alto is still so car brained that they're talking about one know
+because they need to redo all the Caltrain crossings. This is really
+off topic, but I just want to very briefly, Churchill cuts through
+Caltrain. So it's either they have to just cut it off, they can make
+it bike only, pedestrian only, they could just cut it entirely or they
+could build a very expensive car tunnel. And people are saying, oh, we
+need the car tunnel because if we don't have this, everyone's going to
+have to drive so much further to drop their kids off of school and
+everyone should be able to walk to school in Palo Alto. That's absurd.
+But people are still car brained. We're getting late in the episode,
+but I think I just kind of want to talk about what everyone wants to
+talk about. The sexiest part of all is builder's remedy. I guess
+builder's remedy is when you miss your deadlines. Question one, are
+all the deadlines closed in northern California? I can't really keep
+track of where everyone is and also what is a deadline versus what is
+an extension. What is the status of everywhere you've been seeing? I
+guess you can talk about your places, but are most of them either
+failed or flunked at this point, or passed or flunked.
+
+                    Kevin Burke:
+Yeah, it's a good question. I think about half of the jurisdictions
+are in compliance and half of them are not. And so, I mean, it's not
+just, if you're not in compliance, it's not just builders remedy.
+There's also a number of grants that are tied to sort of housing
+element compliance, and those are grants for affordable housing and
+grants for transportation. So, for example, MTC, which is kind of the
+Bay Area, overwhelming transportation authority, had some grant money
+to give out. Walnut Creek applied for and got $7 million worth of
+grants from MTC that relied on the city having a compliant housing
+element by December 31. And so they got that. But I was kind of
+pressing people starting in January of this year and saying, we need
+to be trying harder to hit this deadline. I live in Wallen Creek,
+which I'm saying, you know, I don't think we're on pace to hit this
+right now. And finally, after a lot of teeth pulling, we kind of got
+something that was successful.
+
+                        MGM:
+But, yeah, withholding funds for affordable housing seems like really
+unlikely to upset the people who are segregationists living in rich
+neighborhoods.
+
+                    Kevin Burke:
+Right.
+
+                        MGM:
+But transportation funds, I could see how that. Does that actually
+motivate people in your experience?
+
+                    Kevin Burke:
+Yeah, to an extent. To an extent. I think the builder's remedy is sort
+of the bigger penalty.
+
+                        MGM:
+It certainly seems to be scaring people. It scares the worst people in
+ways that I appreciate, as opposed to the other stuff.
+
+                    Kevin Burke:
+So we've seen some people are kind of quiet about their builder's
+remedy stuff. And you see a lot of things where people are submitting,
+basically like a one page sheet of paper that says, here's my proposed
+builder's remedy project. And then once you submit that, you have
+basically six months to submit an actual application. And so people
+are submitting a thing that says, here's my, I'm just doing this to
+vest my developers rights, which is like, even if you get into
+compliance, I still have this valid application from when you're out
+of compliance, and then you have six months from that date to actually
+go forward and pay all the fees and submit actual renderings and plans
+and everything else that you need to do to get a permit. Yes.
+
+                        MGM:
+So that's a question I have. Okay, let's go back and just very
+quickly. 30 seconds. Builder's remedy. Go explain what it is.
+
+                    Kevin Burke:
+So the builder's remedy is if you don't have a compliant housing
+element, the law says anyone can submit an application of any density
+on any residential parcel in your city. As long as 20% of the units
+are affordable to people making lower incomes, you can build whatever
+you want. And so in theory, this should pave the way for kind of like
+towers and places where there's high demand that's being constrained
+by the zoning. In practice, developers are kind of herd animals, and a
+lot of them are scared of retribution and are scared of political
+blowback, or they live in a community and they don't want sort of
+blowback, or they think that staff has significant power to sort of
+hurt their other applications or slow down their other applications
+through sort of exercising their own discretion. And so they're kind
+of been reluctant to use this in a lot of ways.
+
+                        MGM:
+People have always said it, developers are too pro social, they're not
+antagonistic enough.
+
+                    Kevin Burke:
+The other thing I would say is there are some unanswered sort of legal
+questions around this. So unless you have the stomach for a protracted
+legal battle, especially on a project by project basis, where if
+you're looking at almost certainly going to the California appeals
+court, maybe to the Supreme Court, that's several years being added
+onto your timeline. So unless you're proposing something that's, like,
+immensely profitable and the profits can help fund your legal battle,
+something like this 17 story building in Palo Alto, a lot of
+developers aren't necessarily looking to have that fight.
+
+                        MGM:
+Yeah, it'd be interesting to take odds. What is everyone's percentage
+they think of this stuff is going to get built because you have to
+kind of multiply your profit margin by that ods, that it's going to be
+struck down somewhere. I don't know, 25%, 40, 60. I don't know.
+
+                    Kevin Burke:
+But I think the best strategy is kind of a political one. So you
+submit one project which says this project complies with the zoning,
+and it may make the neighbors unhappy, but I'd like to build it. And
+the zoning says that I should be able to build it. And then you submit
+a second builder's remedy project for like twice or three times the.
+
+                        MGM:
+Yeah.
+
+                    Kevin Burke:
+And you say, if you monkey around with my application too much or make
+me know years and years of neighborhood meetings, then I'm just going
+to do the builder's remedy project instead.
+
+                        MGM:
+That's what they did with the mall Valco down in Cupertino. They
+basically had their real thing, and then they had their kind of work
+taking the SB 35 short circuit, and that helped them get back. Let's
+go back to the negotiating table and do it the right way. And, yeah, I
+think that's a really good point. But, yeah, I think, as you're
+saying, there's hurdles to doing it. One is it has not been tested, so
+there's large scale statewide challenges in court. And these are
+moving along. I think I just saw, there's news today that it seems to
+be looking pretty good that it will be upheld. Like, this is broadly
+valid, but there's site specific lawsuits. Sequa, the Environmental
+Quality act allows environmental impact reports, and if you're not
+part of an existing impact report for a kind of existing zoning,
+you're open to lawsuits there. And it can cost a lot of money and a
+lot of headaches to be compliant with that. So I guess there's two
+different avenues for lawsuits alone.
+
+                    Kevin Burke:
+Yeah, definitely.
+
+                        MGM:
+And I suppose the third thing, this is actually something you wrote in
+your cron article, is that you can still impose higher, essentially,
+impact fees, I guess, for sewer infrastructure and stuff, too. And I
+guess it kind of surprises me because it feels like, how do people not
+exploit that and just impose arbitrary impact fees to kind of stop it,
+I guess? Does this have to be compliant with actually some sort of
+standard for infrastructure impact fees for sewers, et cetera? It
+seems like that's actually kind of dangerous.
+
+                    Kevin Burke:
+There's kind of two different angles looking at this. So one is,
+unfortunately, the way the state law kind of works is like someone
+proposes doing something bad, like in Berkeley saying that students
+are pollution, and then the state law comes up to prevent cities from
+doing the bad thing. And you saw this again and again with adus, but
+kind of, there aren't enough sort of builders remedy cases or sort of
+established kind of law to fix the bad thing. On the flip side,
+though, because this is so rare, you can't oppose a fee after an
+application has been submitted, and because Atherton, for example,
+doesn't have a multifamily zone, they might not have thought to write
+down here are impact fees for multifamily apartments, because
+multifamily apartments are illegal in our.
+
+                        MGM:
+If you have stuff on the books, you can throw it at them, but it'll be
+very suspicious and difficult to get away with if you have a new
+impact fee or something.
+
+                    Kevin Burke:
+It's not legal to do that after you submit an application, right?
+Because it's kind of like the double jeopardy thing or whatever,
+right, where you can't invent a crime for someone to be accused of
+after the fact.
+
+                        MGM:
+I was wondering that has that effect with existing laws, too. For
+example, let's look like SB 330 for no net loss. It seems like. Well,
+that's essentially an impact fee for working off a parcel or it's not
+an open slate. There are certain regulations, but those are already on
+the books. That's interesting. Okay, cool. It does make me wonder,
+because I always think about new forms, like no net loss or something,
+for example. Like no net loss for different cultural institutions or
+something. That'd be interesting. But it is interesting. I guess if
+you're doing that, you can't retroactively protect stuff. You have to
+get ahead of the curve.
+
+                    Kevin Burke:
+Yeah. Though, I mean, for historical preservation, its own can of
+worms, where a lot of times suddenly people become interested in a
+parcel's historic qualities only because someone has proposed doing
+something actually, like, interesting with it.
+
+                        MGM:
+Yeah, I think it can be a very ad hoc. If you want to oppose housing,
+I am on the books. I support preservation for protecting cinemas. I
+think we know net loss for cinema screens, but that's my own kind of
+very personal hatchet. But I do agree that making it kind of general
+and not abused is pretty hard. But no, as we're mentioning, there's a
+couple of builders remedy things on the books being looked at. I think
+it'd be interesting to look more about some of these things as they're
+going down the pipe. But what are you looking out for? Are stuff going
+on in East Bay? Because I've seen the ones in the peninsula. Are the
+places in East Bay rich enough to justify any of these things?
+
+                    Kevin Burke:
+I think it depends right now on sort of the individual property owners
+and their sort of willingness to kind of stomach this. Right. So, I
+mean, if you bought some property in 1990 and your property taxes are
+low and you're living on it, for example, maybe you can fund a court
+case indefinitely. I think I saw one in Pacifica that sort of fit
+those parameters where someone proposed building like 40 townhomes or
+something, and probably they can fund a suit and they can kind of wait
+out the city and get more clarity on the court cases and kind of go
+forward with that application. But yeah, I think another thing is the
+more that people are sort of writing about the builder's remedy, the
+more you might see people taking interest in sort of submitting
+applications that fit this.
+
+                        MGM:
+It's too bad lawsuits cost so much these days. We used to have a
+society where people just put up nuisance houses and all this. It's
+like, wow, that was cool when, I mean, just personal grievances can do
+so much to make stuff happen.
+
+                    Kevin Burke:
+There are basically legal nonprofits. Both legal nonprofits and the
+attorney general are sort of interested in establishing case law here.
+So, I mean, we're taping this on Wednesday the 13th, just yesterday it
+was announced that the attorney general is intervening in La Cañada
+Flintridge, where there's one.
+
+                        MGM:
+I was referring to before about good news.
+
+                    Kevin Burke:
+Yeah, there is sort of legal assistance available, but, yeah, it just
+takes a long time. And if interest rates are 9% and so you have a loan
+on a $3 million property that's going to add a substantial amount to
+your cost, you're looking almost $300,000 a year just in borrowing
+costs to sort of keep that loan going.
+
+                        MGM:
+That is a wild thing. It's like, boy, if we had builders remedy plus a
+zero interest rate environment, that would have been an interesting
+combination.
+
+                    Kevin Burke:
+But it's kind of crazy.
+
+                        MGM:
+We're still seeing stuff in the constraints we have here. Well, I
+think we're over an hour. Anything else you want to kind of wrap up
+with here?
+
+                    Kevin Burke:
+Yeah, so, I mean, the thing I think is really interesting about
+housing elements is like, I lived in San Francisco for a long time,
+but I was still participating in the East Bay because you can be like
+one of 200 people who's like standing in a queue at the San Francisco
+city hall to comment on whatever the housing policy is in San
+Francisco, because it gets so much know, or calling Nancy Pelosi to
+ask for x y or. But, you know, if you're looking at housing, like a
+lot of times we're the only people submitting comments on a housing.
+Uh, and so you can kind of be like the expert. If you just take like
+an hour reading through a document, you probably know more about that
+document than anyone, except like five people on the planet. And you
+can kind of really shape things in a positive way by taking that time
+and submitting a comment, even if you don't think you're an expert.
+Like, I'm not an expert. I just, like, read stuff and I say, does this
+make sense? And if it doesn't, then I ask questions or I submit a
+comment about it. And we've had a lot of success in sort of shaping
+things and moving things in a positive direction. It is a really steep
+barrier to getting started. We're obviously always happy to sort of
+help have new volunteers and onboard new volunteers for doing this
+kind of work. But I would encourage you to get involved because I
+think this is a really powerful sort of lever for making change in
+your community. And if you do have questions, please reach out. And
+I'm happy to talk with anyone about this stuff. It's pretty nerdy, but
+I like it because I think it's really successful at sort of helping
+get housing built.
+
+                        MGM:
+One, a final question relating to that I mentioned earlier, speaking
+of Palo Alto, I'd mostly taunt them because they're so distinctly
+hostile that honestly I kind of just want them to screw up and get
+punished because I think that's more of a chance of them doing the
+right thing. But I guess that's a question. Bend or break? How often
+do you think you can actually bend? People do the right thing and kind
+of get better outcomes through actual reforms? And how many places, if
+any, in your opinion, do you think, oh, they're past working with,
+they just need to be punished or broken up or put.
+
+                    Kevin Burke:
+It's a good question because I mean, even a lot of these jurisdictions
+that I've thought, I kept saying what are they doing? Because they
+kept just submitting the same thing over and over again. Yeah, it was
+incomprehensible and a lot of them ended up submitting really good
+programs. So I do think kind of the lever of the builder's remedy and
+kind of state certification is pretty substantial in a lot of these
+places. I mean, San Francisco, for example, you're seeing stuff that
+was just not know and there are reasons to be disappointed, but it's
+been so successful. And all of the reason that this constraints
+reduction stuff is happening is because of the threat of losing
+affordable housing funding. And advocates working SF is a good case.
+
+                        MGM:
+Insofar as they're such a bad politics and practice, they should not
+be this bad. They're stagnant and they're stuck in ruts, but they can
+be reformed as opposed to like Atherton or Hillsborough or Alto, like,
+I think they're honestly just an hoa for the worst people in the world
+and they're never going to be better than that.
+
+                    Kevin Burke:
+I don't and that's in know if you strengthen the builder's remedy and
+then half a decade from now people will be significantly more scared
+and a lot more incentivized to try to hit their numbers or people be
+ready on the day to submit the applications. I think this is the first
+year that people have been aware of the builder's remedy and that
+exists and it's been kind of slow to sort of percolate through the
+community. But I think certainly in eight years people are going to be
+ready on the spot.
+
+                        MGM:
+Yeah, I think this cycle is crazy. Next cycle is going to be nuts. But
+yeah, thanks for the deep dive. And if people want to find you or find
+more about East Bay for Everyone, Where should they go?
+
+                    Kevin Burke:
+Oh, man. We're online at eastbayforeveryone.org. I have a website at
+Kevin Burke dot dev, although I don't post as much as I used to. I
+have a Twitter account, but I don't post there anymore. I guess you
+can find me on Bluesky or Threads. Yeah. Search for East Bay for
+Everyone and go from there. Cool.
+
+                        MGM:
+Thanks for having the time. It's been fun.
+
+                    Kevin Burke:
+Absolutely. It's been a real pleasure. Thank you, Mark. This is a lot
+of fun.
+
+                        MGM:
+Cool. We have been talking to Kevin Burke, all about housing elements
+and much more. And as you heard at the end, we did record this in mid
+December. You can find this episode and all previous episodes of this
+radio show at the website, seethecat.org. This a presentation of KZSU
+Stanford.
+

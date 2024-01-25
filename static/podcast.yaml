@@ -1516,6 +1516,7 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2023-06-22.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2023-06-22-small.png
      guests: Jenny Silva, Warren Wells
+     transcript: '/static/transcripts/2023-06-22.txt'
    - title: "Adriana Rizzo on Trains with Wires, Inland Empire, and UC"
      description: >
        Are you aware that it's possible to power trains from wires? It's more
@@ -1568,3 +1569,4 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2024-01-18.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2024-01-18-small.png
      guests: Kevin Burke
+     transcript: '/static/transcripts/2024-01-18.txt'
