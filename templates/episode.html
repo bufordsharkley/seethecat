@@ -37,8 +37,10 @@
   <meta name="twitter:description" content="{{episode.description}}" />
   {% if episode.img_small %}
   <meta name="twitter:image" content="{{episode.img_small}}" />
+  <meta property="og:image" content="{{episode.img_small}}"/>
   {% else %}
   <meta name="twitter:image" content="{{url_for('static', filename="logo_square.png")}}" />
+  <meta name="og:image" content="{{url_for('static', filename="logo_square.png")}}" />
   {% endif %}
 
 {% endblock %}
