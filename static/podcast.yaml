@@ -1657,3 +1657,16 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2024-12-21.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2024-12-21-small.png
      guests:
+   - title: "Josh Junker on Cincinnati: Rail Sell-Off, Dev Woes, and \"Subway Repurposing\""
+     description: >
+       Josh Junker is back with more info deep from Cincy archives: what can we learn
+       from decades of development snafus in Cincinnati's core‒what does this mean for systems
+       of private/public cooperation, and what could be done better? Also updates on how the
+       Cincinnati municipal rail sale turned out, talk about interstate transit planning (Josh's op-ed 
+       <a href="https://www.cincinnati.com/story/opinion/contributors/2025/01/10/big-mac-bridge-closure-shows-need-for-regional-transit-plan-opinion/76896811007/">here</a>),
+       and the surreal proposals that the city commissioned to use the subway for non-subway purposes (Josh proposes using the subway tunnels for <a href="https://www.cincinnati.com/story/opinion/contributors/2024/10/11/opinion-time-to-consider-using-empty-subway-tunnels-for-transit/75570287007/">subways</a>). 
+     air_datetime: '2025-02-08T21:00:00'
+     pub_datetime: '2025-02-14T13:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2025-02-08.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2025-02-08-small.png
+     guests: Josh Junker

@@ -97,7 +97,7 @@
   <div class="eppagedescription">
     <span class="eptitle">{{ episode.title }}</span><span class="epdate">{{ episode.air_datetime.strftime('%Y-%m-%d') }}</span>
     <div class="epdescriptiondescription">{{episode.description | safe}}</div>
-    {% if episode.guests == "Josh Junker" -%}
+    {% if episode.air_datetime.strftime('%Y-%m-%d') == '2022-12-01' -%}
     <div class="epdescriptiondescription">
       <h6>Recommended books on Cincinnati Transportation:</h6>
       <ul>
