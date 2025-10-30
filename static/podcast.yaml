@@ -1724,3 +1724,19 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2025-08-28.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2025-08-28-small.png
      guests: Daniel Wortel-London
+   - title: "Sy Adler on the Birth of BART, Interregional Competition, and Real Estate Development"
+     description: >
+       Sy Adler, professor of Urban Studies and Planning at Portland State University, is
+       here to talk about his 1980 manuscript,
+       <a href="https://escholarship.org/uc/item/3kv551hd">Redundancy in Public Transit - Vol III. The Political Economy of Transit in the San Francisco Bay Area, 1945-63</a>,
+       which documents the complicated political territory in various metros and sub-metros that led to the birth
+       of BARTD. We also discuss the rise of municipal ownership in bus agencies, real estate development,
+       land value capture, sprawl, and much more.
+
+     air_datetime: '2025-10-30T10:00:00'
+     pub_datetime: '2025-10-30T13:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2025-10-30.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2025-10-30-small.png
+     guests: Sy Adler
+     # CC use of vectors: https://vectorportal.com/vector/bus-silhouettes-vector.ai/12730
+     #                    https://freesvg.org/bart-train-car-vector-graphics
