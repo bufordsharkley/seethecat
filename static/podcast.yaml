@@ -1758,3 +1758,12 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2026-01-15.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2026-01-15-small.png
      guests: Joshua B. Freeman
+   - title: "\"An Introduction to Land Value Tax\", with Stephen Hoskins"
+     description: >
+       Something new: an attempt at actually creating an introductory episode to
+       Land Value Tax. Why *should* anyone care?
+     air_datetime: '2026-02-12T10:00:00'
+     pub_datetime: '2026-02-12T15:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2026-02-12.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2026-02-12-small.png
+     guests: Stephen Hoskins
