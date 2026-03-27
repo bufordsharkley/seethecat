@@ -1767,3 +1767,14 @@ episodes:
      url: http://media.mgm.ink/hgp/hgp-2026-02-12.mp3
      img_small: http://media.mgm.ink/hgp/hgp-2026-02-12-small.png
      guests: Stephen Hoskins
+   - title: "Jake Berman on Lost Subways, and finding our way forward"
+     description: >
+       Jake Berman is the author of The Lost Subways of North America,
+       a book full of maps and histories of metro areas and the transit they've lost;
+       what can we learn from this erosion of public infrastructure, and what
+       do we need to do to build something better?
+     air_datetime: '2026-03-26T10:00:00'
+     pub_datetime: '2026-03-26T15:00:00'
+     url: http://media.mgm.ink/hgp/hgp-2026-03-26.mp3
+     img_small: http://media.mgm.ink/hgp/hgp-2026-03-26-small.png
+     guests: Jake Berman
